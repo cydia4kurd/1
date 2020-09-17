@@ -1,0 +1,3808 @@
+Package: com.cydiakurd.carriercrack-global
+Version: 3.1.12
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: iTweakiOS <itweakios@yahoo.com>
+Depends: com.yourepo.itweakios.ccpatch10
+Pre-Depends: firmware (>= 13)
+Description: تایبەتمەندیە شاراوەکان چالاک بکە، تایبەتمەندی نوێ بناسەوە، نیشانەی خانە گەورە بکە، خێرایی داتا و زیاتر گەورە بکە!
+Filename: /com.cydiakurd.carriercrack-global_3.1.12_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Depiction: https://cydiakurd.tk//Depiction/5/index.html
+Size: 5067584
+MD5sum: 311e3c0ef0de91f95a83079fbca1e16c
+SHA1: 3817dfd7852b07179b9d0d131d0602bb75f849e0
+SHA256:  07ce688fadc16be4d0d35d5d83357022e2508a2a804b3b7d3331837be9fa0c19
+Section: Tweaks
+Name:  CarrierCrack - Global
+
+Package: com.cydiakurd.coolcc
+Version: 1:3.4
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: 4nni3
+Depends: mobilesubstrate,preferenceloader,com.creaturesurvive.libcscolorpicker
+Depiction: https://cydiakurd.tk//Depiction/6/index.html
+Description: Cool tweak
+Filename: /com.cydiakurd.coolcc_3.4_iphoneos-arm.deb
+Installed-Size: 448
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 54406
+MD5sum: efb183f894e3e8afd9bff0cfce2f633a
+SHA1: 00cb5de0d90f99cb84579b2b0f4c7948b3603db8
+SHA256: e3addb8c0abee1b45dcd0c8633d3aeb78b31e7050aaaa4bd0fa8590badfa2843
+Section: Tweaks
+Name: CoolCC
+
+Package: com.yourepo.itweakios.ccpatch10
+Version: 4.0.1
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Pwn20wnd
+Depends: mobilesubstrate, firmware (>=10.0)
+Description: helper
+Filename: /
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 44266
+MD5sum: 5e07d60d28e00c743e0b1f441b832c2c
+SHA1: a4c8245f0ea88e544b11e7333992d0979037b0fe
+SHA256: 862ad772dc5d291a0a0c33c86a37365eafc79608780497ac481cfe39c8de9c70
+Section: Tweaks
+Name: CommCenter Patch
+
+Package: com.cydiakurd.flex3
+Version: 1:3~Beta90k
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: John Coates
+Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Description:  +24 hack included 
+Filename: /com.cydiakurd.flex3_3~Beta90k_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Depiction: https://cydiakurd.tk/Depiction/com.cydiakurd.flex/index.html
+Size: 14082480
+MD5sum: b4a8f751351363ae7d44174fb9718281
+SHA1: a2bc8afd713a2ede573d7d01c8980c24c3fda404
+SHA256: 2a2dee1aa6f2dcdbdf67a295e69e1d36f9b06144fd25d489f7418017f7373f4b
+Section: Tweaks
+Name: Flex 3 Beta
+
+Package: com.cydiakurd.harpy
+Version: 2.0.1k
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: midnightchips
+Depends: network-cmds
+Description: Control your network with ease
+Filename: /com.cydiakurd.harpy_2.0.1k_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 6579616
+MD5sum: 3fd4438b8ed82101e8a2e8ca41253736
+SHA1: 23dd9bc1d3aa3df62a2cf05f6fe5199873e4146a
+SHA256: d1a3a0d7d8a8dc6e84ff79d9316f1e1e6786bce0f810c27b056f815ed5268c63
+Section: System
+Name: Harpy
+Installed-Size: 12848
+Icon: https://repo.packix.com/api/Packages/5d5deb04a3e0e1001bcf4910/icon/download?size=medium
+
+Package: com.cydiakurd.ldone
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Support@ilove-apple.com
+Depends: 
+Description: game hack helper
+Filename: /com.cydiakurd.ldone_0.2_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 7776
+MD5sum: 0611cccd82d87f03b64cd882f62d1cd0
+SHA1: b612d178a0e6d2345b5254f9e1e1fbd38e8c7ca7
+SHA256: fa0d6cc4b61459c96e9db04392640b2be8edba57066b04c317ffdbf9f01a1c05
+Section: Tweak
+Name: ldone
+
+Package: com.cydiakurd.blitzbrigadecheats
+Version: 1.9.0
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: mohadu31
+Depends: mobilesubstrate
+Description: Cheats: Infinite Ammo / No Reload, VIP Enabled, modded ADS field of view, the modded field of view causes NO RECOIL, increased rate of fire, increased time to kill (TTK) by a TON/one hit kill ONLINE (you have to use a gun with high damage for one hit kill), speed hack, 100% critical chance, hacked weapon damage, invisible actions, Unlimited Currency.... More Coming Soon.. Configure options from Settings.
+Filename: /com.cydiakurd.blitzbrigadecheats_1.9.0_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 98744
+MD5sum: 9729b789ec144167671a919920232520
+SHA1: 436303acf2f9746b830557ccc3976c9aec250893
+SHA256: 72085c9a9946061a6316cc42d87e501107b94f4539f723c49b7f3871b331cbdd
+Section: Game hacks
+Name: Blitz Brigade Cheats
+
+Package: com.cydiakurd.bloonstd5341
+Version: 1.0.0-9
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Goggwell
+Depends: mobilesubstrate, preferenceloader
+Description: Bloons TD 5 v3.4.1 +17 (MEGAHACK)
+Filename: /com.cydiakurd.bloonstd5341_1.0.0-9_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 5593786
+MD5sum: 190a3f1df654e3639243d9ec749cface
+SHA1: c8b57735aec53dbb0b4179bc0414da28e1ea65b7
+SHA256: 212c53c7dadaa4b99e465618ba347ebb4987174bb37cc6bffcd7cf25c0257e87
+Section: Game hacks
+Name: Bloons TD 5 v3.4.1 +17
+
+
+Package: com.cydiakurd.bloonstdbattles-hack-save
+Version: 2.3
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Support@ilove-apple.com
+Depends: zip, unzip, coreutils, com.ericasadun.utilities, ldone, com.cydiakurd.ila-patcher
+Description: hack
+Filename: /com.cydiakurd.bloonstdbattles-hack-save_2.3_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 884
+MD5sum: 221acdf5d4e56cc358be50d805f96042
+SHA1: 74c5ffc73fdf43d416d1b56d11147c7f6c3db4da
+SHA256: 002adde302a2a65fbd4c38d935c99dcc4f71753fce73d6a7540407bfa01ec48e
+Section: Game hacks
+Name: Bloons TD Battles Hack
+
+
+
+Package: com.cydiakurd.bulletforcehack102
+Version: 1.0.0-8
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Galmin (Ralf)
+Depends: mobilesubstrate, preferenceloader
+Description: Bullet Force v1.02 +4 Cheats
+Filename: /com.cydiakurd.bulletforcehack102_1.0.0-8_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 30274
+MD5sum: abe12ba1375df14ec6ce6eea8e8d4d6d
+SHA1: 3a19d624cd4d23bca16a8a69c203934ef5bc0ca3
+SHA256: 374d6c66d4c33f9fe4ed15a13b86c8551518b084d2a3574b991f7b6b1b5d2e6f
+Section: Game hacks
+Name: Bullet Force v1.02 +4 Cheats
+
+Package: com.cydiakurd.bulletrushv43cheat
+Version: 4.3-4
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: ZAHiR
+Depends: mobilesubstrate, preferenceloader
+Description: Bullet Rush - The Multiplayer FPS Hack v4.3 +2 Cheat
+Filename: /
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 274928
+MD5sum: dd8f7d8c378cb8a0ef692757043297af
+SHA1: 735a506f5e35f96615f7464a4ea461ce683f4b75
+SHA256: b43ee0faec67fc69b3355aa1c6416fda5a3de7b0f59a3b1f2e32bb3421781cb1
+Section: Game hacks
+Name: Bullet Rush v4.3 Cheat
+
+Package: com.cydiakurd.bullyanniversaryeditio
+Version: 1.03.1-5
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: iphonetop
+Depends: mobilesubstrate, preferenceloader
+Description: Jump to (will lose current progress)- Ability to jump to any Mission in-game. From Chapter 1 to Chapter 6.- Ability to jump to any Classes in-game. Art, Biology, Gym, Geography, Math, English, Chemistry, Music, Photography, Shop.- Ability to play any Minigames such as Arcade, Mowing House 1/2/3, Mowing Part 1/2/3, Paper Route Intro, Paper Route, Keep Ups, Penalty Shots, Bike Store & Tattoos.- Teleport to any location in-game. Asylum (Ouside), Blue Skies Industrial Part (Trailer Part), Bullworth Town (Outside), Carnival (Outside), New Coventry (Outside), Old Bullworth Gardens (Park), Old Bullworth Vale (Town), High Striker (Carnival Games), etc, etc.  Interrupt time-space continuum- Ability to Change Time.- Ability to Change Season. Summer, Fall, Winter, Spring.- Cycle Weather. Cheats- Toggle FPS (Display and Frames Per Second counter at the bottom of your screen).- Heal (Heal yourself).- Give Money (Give yourself unlimited money. The more you tap on this option the more money you will get).- Disable Crime- Give Bike- Invulnerability a.k.a God Mode / Never Die- Unlimited Sprint- Unlimited Ammo- Max Ammo- One Shot Kills- All Pranks- All Weapons- All Moves- All Grapples- All Clothing- Pass mission (Pass your current mission with success).- Fail mission (Fail your current mission
+Filename: /com.cydiakurd.bullyanniversaryedition_1.03.1-5_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 4897964
+MD5sum: 5b6a071d759560c8fd226cb4ef6e4e4d
+SHA1: 71982fc656e870684c8eb932d46a48787ceeeaba
+SHA256: 12ab9c04f64fbb346c97d23ae20fd6cb1f96dcdce2667a9a3531aabfd528c50e
+Section: Game hacks
+Name: Bully: Anniversary Edition Cheats
+
+Package: com.cydiakurd.callofdutystriketeamcheats1
+Version: 1.4.0
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: mohadu31
+Depends: mobilesubstrate
+Description: Unlimited Ammo, Unlimited Ammo, Unlimited grenades, Unlimited claymores, Unlimited tokens, Level Hack.... No settings to configure, Just Run the game and enjoy.
+Filename: /com.cydiakurd.callofdutystriketeamcheats1_1.4.0_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 4128
+MD5sum: 9ae76119a8c004ebfdde9fde2d150a13
+SHA1: 387e9cdc006e04cc27296d999e3dda9bde90ddf9
+SHA256: 0e6f43da617471b4d5ebfd2750bf99736c13e8500066b4c034091228d9006525
+Section: Game hacks
+Name: Call of Duty Strike Team Cheats
+
+
+
+Package: com.cydiakurd.callofminiinfinitycheats
+Version: 2.3
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: mohadu31
+Depends: mobilesubstrate
+Description: hack call of mini
+Filename: /com.cydiakurd.callofminiinfinitycheats_2.3_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 8112
+MD5sum: f377ca147c384b2a7ae44cdf00fba5ec
+SHA1: 26108076aff9368a767ac7f26bcf5fc6e349b5d5
+SHA256: 109d61322856aa6874740c44760cd2bfecd74a1f4e3b1ebecc88b149e8e10cac
+Section: Game hacks
+Name: Call of Mini Infinity Cheats
+
+Package: com.cydiakurd.callofminisniper
+Version: 1.2.9
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Support@ilove-apple.com
+Depends: zip, unzip, coreutils, com.ericasadun.utilities, ldone, com.cydiakurd.ila-patcher
+Description: hack
+Filename: /com.cydiakurd.callofminisniper_1.2.9_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 894
+MD5sum:
+SHA1:
+SHA256:
+Section: Game hacks
+Name: Call of Mini‚Ñ¢ Sniper Hack
+
+Package: com.cydiakurd.candycrushsaga-hack
+Version: 1.47.0
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Support@ilove-apple.com
+Depends: zip, unzip, coreutils, com.ericasadun.utilities, ldone, com.cydiakurd.ila-patcher
+Description: hack
+Filename: /com.cydiakurd.candycrushsaga-hack_1.47.0_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 880
+MD5sum: 81990270f5b1ca7d45c855ef7e8d9a75
+SHA1: 1305f7ffab58f1c91332a2c3c47f72d31481105d
+SHA256: af3d2a441e7d2735aa7a0ea494c5ec3009f0fddfc165c40334d0fe0c651b838a
+Section: Game hacks
+Name: Candy Crush Saga Hack
+
+Package: com.cydiakurd.candycrushsagacheats
+Version: 1.56.1a
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: IOSCheats
+Depends: mobilesubstrate
+Description: hack
+Filename: /com.cydiakurd.candycrushsagacheats_1.56.1a_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 13318
+MD5sum: fd5af958bee95e7e5e421377396bfe75
+SHA1: 656aa9e71327c45d1a3db5d79a84781be732b1ab
+SHA256: 829ac8872b4278dae301b9245556ab5253eaccc84400ede26639c5872c660af3
+Section: Game hacks
+Name: Candy Crush Saga Cheats
+
+
+
+Package: com.cydiakurd.carsfastaslightningv132
+Version: 1.3.2-3
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: shmoo
+Depends: mobilesubstrate, preferenceloader
+Description: Cars: Fast as Lightning v1.3.2 Hacks +3
+Filename: /com.cydiakurd.carsfastaslightningv132_1.3.2-3_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 215628
+MD5sum: e18bb74542762ecdfa0dcf5399cc03a1
+SHA1: 4583b3f3fdefc968dcdc6dfc8280da78aa332328
+SHA256: 95eaedb762c3da1c070bfbfd9a41b003dda400ec0f3edc7b659bf7e4a1a4fa85
+Section: Game hacks
+Name: Cars: Fast as Lightning v1.3.2
+
+Package: com.cydiakurd.castlemasterplus
+Version: 1.10
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Support@ilove-apple.com
+Depends: zip, unzip, coreutils, com.ericasadun.utilities, ldone
+Description: hack game
+Filename: /com.cydiakurd.castlemasterplus_1.10_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 9382850
+MD5sum: 9294df80f75e72ce41be31d6f621b815
+SHA1: f79edd53a90bef26105c3329dcb95f2142b27629
+SHA256: c01f8ba16e6dee0c3d4731300819f746366130d95669c49aa7b4d02a2ddc4b62
+Section: Game hacks
+Name: Castle Master Plus hack
+
+Package: com.cydiakurd.ck3ammocheats
+Version: 2.0.1-1
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Support@ilove-apple.com
+Depends: mobilesubstrate, preferenceloader
+Description: Hacked by Laxus. Visit iOSCheaters & iOSGods for more!
+Filename: /com.cydiakurd.ck3ammocheats_2.0.1-1_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 92998
+MD5sum: 87978efcae986ab81cb5e0d80a0f1733
+SHA1: 7b1fd2975b888837f7e6bfe3adb344a6bedf4f5a
+SHA256: 96110646b629abe26eddbe269d7b8c3db585f4a708d2f5026d1c2ac880aa2f94
+Section: Game hacks
+Name: Contract Killer Sniper
+
+Package: com.cydiakurd.comnexgeniorisingwarriors
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: BlackHippy
+Depends: mobilesubstrate
+Description: Rising Warriors hacks
+Filename: /com.cydiakurd.comnexgeniorisingwarriors_1.0-1_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 13866
+MD5sum: 83fe747f20b9bd571dafa7280e91dedb
+SHA1: 12c7d160b1b0243277b413124330e4a0f8b76948
+SHA256: 77ef4d9879a4b0f2cd5b0e4be66345716bef4b00dd8041ad72c77ef8c55d6dee
+Section: Game hacks
+Name: Rising Warriors Hacks
+
+
+
+Package: com.cydiakurd.comnexgeniossuperstickmangolf3
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: BlackHippy
+Depends: mobilesubstrate
+Description: hack
+Filename: /com.cydiakurd.comnexgeniossuperstickmangolf3_1.0_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 20440
+MD5sum: 7c039de62e6ed6f736bcd5b7a0a7db2d
+SHA1: de79d86988db8f788c9104e7b89145d8d1beb96a
+SHA256: 6a51f0b02fb8b0228bfe7d6b5ecba2e07193f79dacb16b0658b8378e7a00b586
+Section: Game hacks
+Name: Super Stickman Golf 3
+
+Package: com.cydiakurd.comshmooboz
+Version: 1.3.5-7+debug
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: shmoo
+Depends: mobilesubstrate, preferenceloader
+Description: 16 features, won't list them all here. you'll see in settingscheck out more cool stuff over at iosgods.com :)
+Filename: /com.cydiakurd.comshmooboz_1.3.5-7+debug_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 3291718
+MD5sum: e302ae86277119d7a712fb9b0980f6a9
+SHA1: dbec26fa998cdc0487fa43e85f66b04b2b4f7931
+SHA256: 0cc720a9cf746433ca7a0b8788117e81508d5b4db507d91fc3a009916701f095
+Section: Game hacks
+Name: Call of Duty: Black Ops Zombies Hack
+
+Package: com.cydiakurd.comshmoocritbug
+Version: 0.6.6-1+debug
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: shmoo
+Depends: mobilesubstrate, preferenceloader
+Description: Fixes a login bug in Critical Ops
+Filename: /com.cydiakurd.comshmoocritbug_0.6.6-1+debug_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 14985452
+MD5sum: 93c3fcb10f00e7f42f3995928067ae17
+SHA1: 68f9e074a144f7daaab6724c8bc542f222c3fe90
+SHA256: 9baf5313fb8e46d4071c1e6d08ba831fa6725657547a7dece91ef819b707896e
+Section: Game hacks
+Name: Critical Ops Login Bug Fix
+
+
+Package: com.cydiakurd.ila-patcher
+Version: 1.0-3
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Mohadu313
+Depends: coreutils-bin, coreutils, findutils, com.ericasadun.utilities, com.cydiakurd.iloveappleappfinder, wget
+Description: patch helper
+Filename: /com.cydiakurd.ila-patcher_1.0-3_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 48150
+MD5sum: ff95ef913d412e060608f493a9f0685a
+SHA1: 146b3f8ecea256f02baea6036b473054ff5f7062
+SHA256: 1728a316a463d7e330c046e330e52f77466bbfb5e72221298e397f9f471d0e4d
+Section: Game hacks
+Name: ila-patcher
+
+
+
+Package: com.cydiakurd.iloveappleappfinder
+Version: 1.1fix2
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Mohadu313
+Depends: coreutils-bin, coreutils, findutils, com.ericasadun.utilities
+Description: patch helper
+Filename: /com.cydiakurd.iloveappleappfinder_1.1fix2_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 35884
+MD5sum: bf73eee27c34f98cc5ea436b8c7b0a70
+SHA1: 9257635067a4a49815993c91ea915340588050a6
+SHA256: aa8e91eb077c9a24491c3712058b1875ce2c58832fdb058517daba3556c201ed
+Section: Tweaks
+Name: appfinder
+
+Package: com.ericasadun.utilities 
+Version: 1:0.4.2
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Erica Sadun 
+Description: A collection of command-line utilities for various purposes
+Filename: /com.ericasadun.utilities_1:0.4.2_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 55410
+MD5sum: 89a3bb9791c2deee6f530773089ee43d
+SHA1: b57904d5171e56cd559c798d277ccf9f8d45c556
+SHA256: 4e8e98895576e985be5a50070c96403a2ce2b577eb2267649853686a2ad99f56
+Section: Utilities
+Name: Erica Utilities 
+
+Package: com.rpgfarm.a-bypass
+Version: 1.3.5
+Installed-Size: 960
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Baw Appie
+Depends: mobilesubstrate, com.muirey03.libmryipc, applist
+Description: بۆ شاردنەوەی جلبریک لە ئەپەکان 
+Filename: /com.rpgfarm.a-bypass_1.3.5_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 125508
+Depiction: https://cydiakurd.tk/Depiction/com.rpgfarm.a-bypass/index.html
+MD5sum: 6862e8aac2e8d172dc75c7ce40b3d497
+SHA1: 424331b0eaecf6449d46cbc939303154b15e8698
+SHA256: 2b5ca8dd8b74c9302b911d605f8b848189fe8f830944d5681c500f8c9b77000a
+Section: Tweaks
+Name: A-Bypass
+
+Package: com.cydiakurd.filza
+Version: 3.8.0-24
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: TIGI Software
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit
+Description: بەڕێوبەری فایلەکانە لە ڕێوە ئەتونی دەستکاری فایلەکانت بکەیت چ سیستەم بێ یا تایبەت زۆر کاری پێ ئەکرێت 
+Installed-Size: 31968
+Icon: https://api.ios-repo-updates.com/images/repositories/tigisoftware.png
+Filename: /com.cydiakurd.filza_3.8.0-24_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 12938480
+MD5sum: ede73faa06e82828f3daa995021b44d1
+SHA1: 9be336ad355a1b6e1dcaebe3692b5b46f9ced54a
+SHA256: 9be336ad355a1b6e1dcaebe3692b5b46f9ced54a
+Section: Utilities
+Name: Filza File Manager
+
+Package: com.cydiakurd.iosgodsiapcracker
+Version: 1.0-2+debug
+Installed-Size: 296
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Laxus
+Depends: mobilesubstrate 
+Description: هاوشێوەی لۆکاڵ ئیپ ستۆرە بەکاریەت بۆ هاکردنی بەرنامە و یاریەکان بەڵام پەبێی قسەی هەنێ لە بەکار هێنەران باشترە لە تویکی لۆکاڵ ✅
+Filename: /com.cydiakurd.iosgodsiapcracker_1.0-2+debug_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 18224
+MD5sum: ef4f38b1c13a44a6c6d4b51118c57dc5
+SHA1: 86fd784a7c5810917de32a39cfdaf08b5ceb18eb
+SHA256: c2b57fac244eda72c5e92a9d2104aa8fc0c0fa1da4558c6054b7e20e7790d89d
+Section: Tweaks
+Name: iAP Cracker
+
+Package: com.cydiakurd.appstoreplusplus
+Version: 0.9.12
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Conflicts: com.unlimapps.uaupdatetools
+Description: بەکاریەت بۆ دابەزاندنەوەی وەشانی ئەپەکان لەڕێی ئەپستۆرەوە (چۆنێتی بەکار هێنان لە ئەپستۆر پەنجە لەسەر ئنستاڵ هەر ئەپێک داگرە بۆ 3 چرکە ) 
+Filename: /com.cydiakurd.appstoreplusplus_0.9.12_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 616656
+Depiction: https://cydiakurd.tk/Depiction/1/index.html
+Priority: optional
+MD5sum: ab61463865b7c845218e0b3c306e518d
+SHA1: 2454960b795ba619be2e937bd50c32cbc351adb6
+SHA256: eb21d527c3d142f429d38cc17808426973b4597b6f11dd98494b5f4b2ed786e6
+Section: Tweaks
+Name: AppStore++
+Icon: https://banana-gfp.github.io/repo/DebIcon.png
+
+Package: com.cydiakurd.snapbreak
+Version: 1.7.1Do
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: s0me1ne & Khaled
+Depends: firmware (>= 10.0), mobilesubstrate, sed
+Conflicts: com.cokepokes.snapdecent, com.cokepokes.libphantom, com.cokepokes.spectre, tv.othman.scothman, tv.othman.scothman.ios11, com.s0me1ne.betaatweakdisabler, fr.s0me1ne.betasnapbreak, com.s0me1ne.atweakdisabler, fr.s0me1ne.snapbreak
+Description: زیاد کردنی تایبەت مەندی سناپ پڵەس پڵەس بۆ سناپچات وەک دابەزاندنی ڤیدۆ و ڕەسمی ستۆریەکان و دانانی بینەری تەزویر بۆ ستۆرییەکەت  زۆر تایبەت مەندی تریش تێبینی بەکار هێنانی ئەم تویکە لەسەر بەرپرسیارێتی خۆتە 
+Filename: /com.cydiakurd.snapbreak_1.7.1Do_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 6464152
+MD5sum: c4e34c0c20256812f8cbb7dc6a3951e9
+SHA1: b629a08477a8cd9575286a5cbc347ecdb79a8f66
+SHA256: 0f015b843258ed231c5a37b99b9deb9b6a4bd0730e84889315b21c72f3154e19
+Section: Tweaks 
+Name: SnapBreak with antiban
+
+Package: com.cydiakurd.choicy
+Version: 1.2.4-2
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: opa334
+Depends: mobilesubstrate, applist
+Description: بەکار یەت بۆ شاردنەوەی جلبریک لە ئەپەکان 
+Filename: /com.cydiakurd.choicy_1.2.4-2_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 162834
+Installed-Size: 840
+MD5sum: aad731649d1aec8aecfd7307a22f2d93
+SHA1: cff9475e65bd8cbaacb48736c1a22cc869b619a3
+SHA256: 6f67d48e2e58cbe21ce5749fd7dffddb662e4e925a4e7f485c6d02b70a00e706
+Section: Tweaks
+Name: Choicy
+
+Package: com.cydiakurd.1passwordhack
+Version: 0.0.2
+Installed-Size: 384
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: pxcex
+Depends: mobilesubstrate
+Description: 1Password Pro Subscription lifetime.
+Filename: /com.cydiakurd.1passwordhack_0.0.2_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 120584
+MD5sum: 5e245e2d3198054ff5b84f1527b3ba6a
+SHA1: 056a9fd56cd64e9d69a02ff483ac9c9ffb3568c0
+SHA256: dcefed4aa0b33b448fd99b319181db093fc85a935c9fae05efa973c6518afff8
+Section: Tweaks
+Name: 1Password Hack
+
+
+Package: com.cydiakurd.appdatamanager
+Version: 1.5.3-2
+Architecture: iphoneos-arm
+Maintainer: TIGI Software
+Author: TIGI Software
+Description: بەکاریەت بۆ سڕینەوەی داتای ئەپەکان یا گەڕانەوەیان  
+Filename: /com.cydiakurd.appdatamanager_1.5.3-2_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 3670466
+Installed-Size: 9244
+Depiction: https://cydiakurd.tk/Depiction/4/index.html
+MD5sum: b0c37a5fffc61d63f60e4b8ef6910164
+SHA1: 125e134de0e21b6a5667c736c44a9f2c2c416280
+SHA256: 8f9ea3146d41e4648b5630ac605c74058e607c062805ea57191813cb58c18ee7
+Section: Utilities
+Name: Apps Manager
+
+Package: net.p0358.fbdarkmode
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: p0358
+Depends: mobilesubstrate
+Conflicts: com.hackyouriphone.fbdarkmode
+Description: زیاد کردنی دۆخی شەو بۆ فەیسبووک 13.6
+Filename: /net.p0358.fbdarkmode_1.0.1_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 6778
+Installed-Size: 100
+MD5sum: 62728f0cdb17d1385a50073847646bfd
+SHA1: 7a8f7ffc18df998c30f8ac4c6c198b76e9d22f88
+SHA256: 1e90adad9a99c00f5232d841673cc096562313781ee626266228a7ce016c204d
+Section: Tweaks
+Name: FBDarkMode
+
+Package: com.cydiakurd.alfiras
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Azozz ALFiras
+Depends: mobilesubstrate,ws.hbang.common
+Conflicts: me.a1iraqi.scothman, com.abcapps.snapplus, com.abcapps.snappluslite, com.cokepokes.phantom, com.sharedroutine.skylerk99.snapbreak, com.sharedroutine.skylerk99.mlbreak, me.a1iraqi.scothman.beta, me.a1iraqi.scothman.beta, tv.othman.scothman, tv.othman.scothman.ios11, me.a1iraqi.scothman.ios9.10
+Description: بۆ دابەزاندنی ڤیدیۆ و ڕەسمی سناپچات بەکارهێنانی ئەم تویکە لەسەر بەرپرسیارێتی خۆتە 13.6.1 
+Filename: /com.cydiakurd.alfiras_1.1_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 51468
+MD5sum: c959fb680737206de0266df7ab545d9a
+SHA1: f25b6efa9f37db348ce7f4370b39a0b5e80977dd
+SHA256: d8e160fe15bdf94629cd1e58f29d7afd3028b65bf0b508df12ff64907af44d43
+Section: Tweaks 
+Name: ALFiras for Snap
+
+
+
+Package: com.cydiakurd.adgpro
+Version: 0.0.1-2
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: md.furman
+Depends: mobilesubstrate
+Description: hack
+Filename: /com.cydiakurd.adgpro_0.0.1-2_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 5064
+MD5sum: 32eb3aa9e35be380b2a0b33502363d5d
+SHA1: b9a78b018e9a19f77384a701571ba962a25464bc
+SHA256: a14ef11127618204f09513ab60f9045de6cfcf65fd374a13e6df658e0b769aa5
+Section: Tweaks
+Name: AdGuard Pro Hack
+
+
+
+Package: com.cydiakurd.batterynotch
+Version: 1.6
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: gilshahar7
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.6.8), preferenceloader
+Description: بۆ گۆڕینی ڕووکاری پاتری 
+Filename: /com.cydiakurd.batterynotch_1.6_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 146328
+Depiction: https://cydiakurd.tk/Depiction/2/index.html
+Installed-Size: 2372
+MD5sum: 107155ff88aa9fb308df3a6c1ad50deb
+SHA1: e0699b6a7068987566c0f18eb8868b74ffdf64e0
+SHA256: 0aa927a83e9c59bc464bbb6b4b917558cc2f3553ab5293316388cdd8f9cc3af1
+Section: Tweaks
+Name: BatteryNotch
+
+Package: com.cydiakurd.bazzi2
+Version: 2.0.8
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Blake Boxberger
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.rpetrich.rocketbootstrap
+Conflicts: com.neinzedd9.bazzi, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Replaces: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Description: بۆ گۆڕینی ڕووکاری پاتری 
+Filename: /com.cydiakurd.bazzi2_2.0.8_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 85796
+MD5sum: 0b9f3758d48de414e34adbfc16865fda
+SHA1: 7eb2ff349f8fc7462484b63a23b8e42f8ab767e6
+SHA256: ead1b1fb118632c898b642badb74c50702d4b5ce5a542b969fbcebfc24326104
+Section: Tweaks
+Name: Bazzi 2
+
+Package: com.cydiakurd.bioprotectxs
+Version: 4.4-51
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Elias Limneos 
+Depends: mobilesubstrate, preferenceloader, github.io.gfp.limneosos
+Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Description: بە کاریەت بۆ قفڵ کردنی ڕەسم و ئەپەکان بە بەسمە و فەیس ئایدی چەند تایبەت مەندییەکی تریش 
+Filename: /com.cydiakurd.bioprotectxs_4.4-51_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 821454
+Installed-Size: 2268
+MD5sum: ef89f1119eb16c2b2a7d67f5a1540d08
+SHA1: 2db5311f364f500668c4656d18d6ba1a30986f42
+SHA256: c96d0c78e6b0d587281316211869aa8d811f802a9415f5e25963cb68d9ca96fe
+Section: Tweaks
+Name: BioProtect XS (iOS 12/13)
+
+
+Package: com.cydiakurd.stemgrade180.facebookdarkmode
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: StemGrade
+Depends: mobilesubstrate
+Description: زیادکردنی دۆخی شەو بۆ فەیسبووک 
+Filename: /com.cydiakurd.stemgrade180.facebookdarkmode_1.0_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 440144
+MD5sum: d4cc24f50239b3eaee2ec2c330511f6d
+SHA1: 0bbedfa8f3327151ed9ca73c1141adb49865e681
+SHA256: 268d6e6b6f8b16391a0d778aecf13323e5d990fa700ca933092edb08a39b6da1
+Section: Tweaks
+Name: Facebook darkmode
+
+
+Package: com.cydiakurd.callrecorderxplus
+Version: 3.20-6
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: hAcx
+Depends: firmware (>= 12.0), mobilesubstrate, org.hacx.hacxdaemon (>= 3.6)
+Conflicts: org.hacx.callrecorder, org.hacx.callrecorder.ios9, org.hacx.superrecorder, org.hacx.superrecorderxplus, org.hacx.superrecorder.ios9
+Description: بەکاریەت بۆ تۆمار کردنی پەیوندییەکان پشتگیری سەرجەم وەشانی 13 دەکا
+Filename: /com.cydiakurd.callrecorderxplus_3.20-6_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 8415756
+MD5sum: 916b55e8f744e4aa076eb8f521473f4e
+SHA1: 2ccad5b764ba3930bfd1b4fd96efeb749d7eed3e
+SHA256: 3794643a18b76b4e1dac68ca431acd5b5997228b0251e4733ca3b90ca90770e4
+Section: Tweaks
+Name: Call Recorder X+ (iOS 12,13)
+Tag: purpose::extension, compatible_min::ios12
+
+
+Package: com.cydiakurd.datalza
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: CrazyMind90
+Depends: mobilesubstrate
+Description: فێلزای خێرا لە هەر ئەپێکا  دوو پەنجە لەسەر شاشە کە ڕاگرە فایلی ئەپەکەت بۆ ئەکاتەوە 
+Filename: /com.cydiakurd.datalza_0.0.1_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 2173986 
+MD5sum: 8ec30bab1a4b903118b84d324016574a
+SHA1: 1f4e16e5988116d7f92d9ba7d47552b9e32486e3
+SHA256: c500a8127651e17733934c62908e5af6716d317200a4fa4b589d6fdbe12af376
+Section: Tweaks
+Name: Datalza Manager 
+Installed-Size: 5340
+
+Package: com.cydiakurd.rhino
+Version: 2.9
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Michael Lema 
+Depends: mobilesubstrate, firmware (>= 5.0)
+Description: بەکارهێنەر• داگرتنی خولگەکان• داگرتنی وێنە و ڤیدیۆکانی کورتەی وێب• پیشاندانی هەموو وێنەی پرۆفایلی بەکارهێنەر• دیاری بکە ئەگەر بەکارهێنەران بەدوات ئەکەون• داگرتنی وێنە و ڤیدیۆ کان لە سندوقی ئینبۆکس• پیشاندانی ونبوونی وێنەکان/ڤیدیۆکان بۆماوەی بێسنوور‎————————————————ستۆری• داگرتنی وێنە و ڤیدیۆی چیرۆک• داگرتنی ڤیدیۆ ڕاستەوخۆکان• لەکارخستنی نیشانەکردنی چیرۆکەکان وەک بینراو• شاردنەوەی چەتی ڕاستەوخۆ لە کاتی جۆگەی ڕاستەوخۆ• هیچ ڕیکلامێکی چیرۆک——————————PRo• پیشاندانی نامە نەنێردراوەکان• داگرتنی هەموو بابەتەکانی بەکارهێنەر• فلتەرکردنی بابەتەکانی بەکارهێنەر• وەک دووپاتکردنەوە• فیدباکی هاپتیک• ئۆتۆماتیکی وەک ڕیلە• بەدواکەوتنی خۆکار بەکارهێنەران لە لاپەڕەی گەڕانی خولاوەکان
+• بە خێرایی داواکاریەکانی بەدواداگەڕان و بەکارهێنەرە پێشنیارکراوەکان پەسەند بکە• زیادکردنی چینێکی زیادەی ئاسایش لەگەڵ ناسنامەی دەموچاو/ناسنامەی لەمسی بۆ بینینی کاربەرنامەی ئینگرام
+ئەم درەوشونە هەموو وێنەکان و ڤیدیۆکان بە بەرزترین کوالیتی دابەزێنە. هیچ شێوەبەندییەکی میدیا پێویست نیە.
+پێکهێنانی هەڵبژاردنەکان لە ڕێکبەندەکان
+Filename: /com.cydiakurd.rhino_2.9_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 4126422
+MD5sum: 7846dd3aa37cb0485ebd0f0e0d2b45c2
+SHA1: fec998e863d48d53f03d458928f30b534ed348f8
+SHA256: 78eeebb442285c16793dfedbfe8805714db822f56c0308f6fcc0401982cb22f2
+Section: Tweaks
+Name: Rhino for insta
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Installed-Size: 12525
+dev: lema
+
+
+Package: com.cydiakurd.protakehk
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: KIIIMO
+Depends: mobilesubstrate
+Description: Hack
+Filename: /com.cydiakurd.protakehk_0.0.1_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 111190
+Installed-Size: 340
+MD5sum: 3e5b0f6e7cda16053f40215c0a157fa9
+SHA1: 3437694498b20c23b039c35e98991994026453d7
+SHA256: cf291277a939f2f043c3379459f62a39306fb0eca60c5025d54aef6528103054
+Section: Tweaks
+Name: Protake Hack
+
+
+
+Package: com.cydiakurd.notifillpro
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: rafferli
+Depends: mobilesubstrate (>= 0.9.5000)
+Description: hack
+Filename: /com.cydiakurd.notifillpro_1.1.1_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 41642
+Installed-Size: 420
+MD5sum: cf71a1b69ae56648c4bbeb3c3974d94e
+SHA1: 3b8776d1728bef34fde0a556e4b2e169aa0a1374
+SHA256: dfcc11531b0618594bb6afe925eba24f8f0cb003e7b472dea23dbc58b244b299
+Section: Tweaks 
+Name: NotiFill Pro
+
+Package: com.cydiakurd.crane
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: opa334
+Depends: firmware (>=13.0), mobilesubstrate, applist, com.rpetrich.rocketbootstrap
+Conflicts: com.opa334.cranelite, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Description: ئتوانی زیاد لە چەند ئەکاونتێک لە 1 ئەپ بەکار بێنی 
+Filename: /com.cydiakurd.crane_1.0.2_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 340670 
+Installed-Size: 1952
+Icon: https://repo.packix.com/api/Packages/5f47aad427f6a8001ac6eb05/icon/download?size=medium
+MD5sum: f4783d9221359e9e063e4a238e811b3d
+SHA1: 6fe42b255b261f724b74b092aa4918d491113590
+SHA256: 04c9df587b89980776831144010197b76f61484be2075aff4385554e7e44f27e
+Section: Tweaks
+Name: Crane
+
+Package: com.cydiakurd.11pro
+Priority: optional
+Version: 2.0-5
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: ahmedmakls
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Description: زیقد کردنی تایبەت مەندییەکانی کامێرای ئایفۆن 11 بۆ مۆبایلەکانی تر 9-13.6
+Filename: /
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 586352
+Tag: purpose::extension, compatible::ios13
+Installed-Size: 1522
+dev: ahmedmakls
+MD5sum: 0d8d120296d2673103426253fba7e5d4
+SHA1: 4c9a23483777a3946caab69de212737db6743fc5
+SHA256: c93021be580b1c71f62efca273994772a7795e56d4d23a84c7e831d9870d9692
+Section: Tweaks 
+Name: 11Pro Camera
+
+
+Package: org.mr.azflibrary
+Version: 2.2
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Azozz ALFiras
+Depends: mobilesubstrate, preferenceloader
+Installed-Size: 2056
+Icon: https://repo.packix.com/api/Packages/5e60d8fd18bc81001a7a31f3/icon/download?size=medium
+Description: This library is dedicated to helping Azozz ALFiras Tweak's
+Filename: /org.mr.azflibrary_2.2_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 365672
+MD5sum: a8e5a24695a8fe3e019862dc8a43ad01
+SHA1: dacd5816010d9e004ee4f5bd244b8da980a0fa97
+SHA256: 337670bbef253dfbae182b84b924e5d545b326d2cd127c3513ba096b372a9dda
+Section: Development
+Name: azfLibrary
+
+Package: org.mr.afsocial
+Version: 1.0-1-1k
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Azozz ALFiras
+Depends: mobilesubstrate, org.mr.azflibrary | co.azozzalfiras.azflibrary
+Installed-Size: 4072
+Icon: https://repo.packix.com/api/Packages/5efffb746668c1001a158771/icon/download?size=medium
+Tag: cydia::commercial
+Description: بۆ دابەزاندنی ڤیدۆ  زۆر بابتی تر لە سۆشیاڵ میدیاکان لە یەک تویکا تیبینی//ئەگەر ئەم تویکەت لایە ئەوا بیسڕەوە لە پێشا لەگەڵ azflibrary 
+Filename: /org.mr.afsocial_1.0-1-1k_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 1771050
+MD5sum: a2a8d013098e24b13d115871678700fe
+SHA1: 58a49bd4c729d0a133bb3608faa15625295f8fbc
+SHA256: c51f1bd80ba8f5cbc7765e9cf9a6f3aba3dc65e89ad033a49687bfe708733062
+Section: Tweaks
+Name: AFSocial cracked
+
+Package: com.cydiakurd.AceCata
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: iAnas
+Description: theme ace catalina
+Filename: /com.cydiakurd.acecata_1.2_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 14416874
+MD5sum: 671bf5ffa519eccdaabe78f70772c1ba
+SHA1: 1f3449c298e3967efd53b2e0f9dc5426697052c8
+SHA256: 51964b38561364c3b5bfd753ca7efbb634f7683290289afd99fbe5b5a67e92e1
+Section: Themes
+Name: Ace Catalina
+
+Package: com.cydiakurd.Blackviola
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Bousrih
+Description: work with all versions 
+Filename: /com.cydiakurd.blackviola_1.2_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 18443332
+MD5sum: d8a35f1545f0d31859e8e8e9699bef26
+SHA1: a1597963ed0aa9cd17c201d9bc57e78492e0ef0c
+SHA256: 3b75487ec0134207fe65d144a4407b405ce451e64cf79730d44328ba0a7466e8
+Section: Themes
+Name: Viola Black
+
+Package: com.cydiakurd.kadirbaran
+Version: 1.1.5
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: kadirbaran
+Description: great Theme
+Filename: /com.cydiakurd.kadirbaran_1.1.5_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 22277492
+MD5sum: 3114de906c3fddd6e4e678d3ae92503a
+SHA1: d772bf7b49dd75806e6ce80050253ec7abc97168
+SHA256: 43dd50de96f95af75184a0aa9887fcb2f95a846f8c2bdb8d072fdf897240f316
+Section: Themes
+Name: LeafDark 13
+
+
+Package: com.cydiakurd.viola
+Version: 1.9.6
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Bousrih
+Description: +1800 icon 
+Filename: /com.cydiakurd.viola_1.9.6_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 62360550
+MD5sum: e9e86e9b7f7f28f98c520bd7e3080cc4
+SHA1: c65794878ba7b9e0c3c3e1b397707a369110ffda
+SHA256: aa606610e0fafb3806cb32e85e6d1ed6c093e9ba02cff79ddf3617b49cfbabb2
+Section: Themes
+Name: Viola
+
+Package: com.cydiakurd.dockx
+Version: 1.6.4
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: udevs
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0), firmware(>=12.0), ws.hbang.alderis
+Conflicts: com.restiveconch.actionbar
+Description: تویکێکی نایابە بۆ زیاد کردنی چەند کردارێک بۆ کیبۆردەکەت وەک (copy|paste|select|redo|undo) ios7-13.7 ئەگونجێ 
+Filename: /com.cydiakurd.dockx_1.6.4_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 174416
+Installed-Size: 668
+MD5sum: fcd7e35fcc836ae83934d8206ce84bb0
+SHA1: d423ed5eb5bc068171160d8dfb3e1e53cf49f72f
+SHA256: a1a5070db59a26ba529ce5a2b0764673b4c8ba19c76ebd8b0290c1e47ea58e7c
+Section: Tweaks
+Name: DockX
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+
+Package: com.rileytestut.altdaemon
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Riley Testut - T7Y
+Depends: firmware (>=12.2)
+Description: یارمەتی دەری ئاڵتستۆرە بۆ تازەکردنەوەی بڕوانامەی ئەپەکان بەکاریەت بەبێ بەکارهاێنانی کۆمپیتەر 
+Filename: /com.rileytestut.altdaemon_0.2_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 873486
+MD5sum: da9adf74b588bad97fffa70d67273ead
+SHA1: d4d36d2b5d1877963c4ca4b2de952640105135bb
+SHA256: d5a225612d6fcacf886a67760db19932e908d90c41a37f4d046699ca9a2a61be
+Section: System
+Name: AltDaemon
+
+Package: com.rileytestut.altstore.alpha.jailbroken
+Version: 1.4a9
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Riley Testut
+Depends: github.io.gfp.altdaemon
+Description: بەکاریەت بۆ تازەکردنەوەی بڕوانامەی ئەپەکان کاتێ  جەیڵبریک نەمێنێ ئەو بەرنامانە هەر کار بکەن بۆ ئەوانەی ئەنکەڤەر بەکار ئەهێنن بەسوودە بڕوانەمەی ئەنکەڤەر تازە کەنەوە ئەگەر جەیڵبریکیشیان نەمێنێ ئەتوانن هەر ئەنکەڤەر بەکار بێنن پشتگیری تا وەشانی 13.5 
+Filename: /com.rileytestut.altstore.alpha.jailbroken_1.4a9_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 5059380
+MD5sum: 25a86b4c65ba41a66b4a094e4bcc9d08
+SHA1: 1d3359af880f60b3fba4e15f2876fbe5ca2520b7
+SHA256: 389b2c9c26f1872a0c3c68d00c1c2dca5bd2bb4ed3490b568cd2df7f6518dc9f
+Section: Tweaks 
+Name: AltStore Alpha
+Icon: https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png
+
+Package: net.angelxwind.appsyncunified
+Version: 84.0
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Linus Yang, Karen/„ÅÇ„Åë„Åø <karen@akemi.ai>
+Depends: firmware (>= 5.0), firmware (<= 13.7), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
+Provides: appsync
+Replaces: us.hackulo.appsync50
+Installed-Size: 496
+Description: هەربەرنامەیەک لەدەرەوەی ئەپستۆر داگرە بێ ڕیڤۆک بوون بێ کێشە تا ئەم تویکەت لابێ 13.7 
+Filename: /net.angelxwind.appsyncunified_84.0_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 42090
+MD5sum: df355bb410ee88b6784379e5eb0c73bc
+SHA1: ace809b40d70e5396a0965a1ef0ec94fbcdd1aab
+SHA256: 4bd0a70ed5292b7d8be90a9108004370600298e16c0da9ce3160cb20dcbec6b4
+Section: Tweaks
+Name: AppSync Unified
+
+Package: com.cydiakurd.trigger-fist
+Version: 1.11
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Support@ilove-apple.com
+Depends: zip, unzip, coreutils, com.ericasadun.utilities, com.yourepo.mohadu31.ldone
+Description: hack game
+Filename: /com.cydiakurd.trigger-fist_1.11_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 4932362
+MD5sum: 39d34c32a137bb3e9bae8116d2f65cc6
+SHA1: 9efd821c077395b9316b9288e08cf2225b9e97b5
+SHA256: 8aec365b9b44a499c9cc06c6767ff1ff8fae9dee5058b1593170d14495615fc9
+Section: Game hacks
+Name: Trigger Fist hack
+
+
+
+Package: com.cydiakurd.temple-run-2
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Support@ilove-apple.com
+Depends: zip, unzip, coreutils, com.ericasadun.utilities, com.yourepo.mohadu31.ldone
+Description: hack game
+Filename: /com.cydiakurd.temple-run-2_1.0_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 34654
+MD5sum: 3bba74f3b7aacbc149d8e23d02780358
+SHA1: 274efaa1ffee70622b21103c7dd1a024481a2cfb
+SHA256: 5d0f7a5c5c7f6e053298daa4098d68bbbad5eb30e1790d97dda5bb080deb0d59
+Section: Game hacks
+Name: Temple Run 2 [SAV]
+
+Package: com.cydiakurd.sniper
+Version: 1.0.3-3
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Support@ilove-apple.com
+Depends: mobilesubstrate, preferenceloader
+Description: hack
+Filename: /com.cydiakurd.sniper_1.0.3-3_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 7141342
+MD5sum: 515feaeb86f4731f652839bcaa5f6579
+SHA1: bd4483dd8242824c8b52b8edd96e1a1487329b0d
+SHA256: a84a804384c44247b43998ccc3d1ab42224b1382c5a7a61900337a966fb5156c
+Section: Game hacks
+Name: Sniper Fury Cheat
+
+Package: com.cydiakurd.smash-hit-pro
+Version: 1.4.0
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Support@ilove-apple.com
+Depends: zip, unzip, coreutils, com.ericasadun.utilities
+Description: hack
+Filename: /com.cydiakurd.smash-hit-pro_1.4.0_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 884
+MD5sum: a1c5eeeeea9dd67e9924be69894180f4
+SHA1: 5ea86507018126125cd4858790c1779fd9983e67
+SHA256: ca11df8408c9f4ba95a24175851016b47c61aa82e930d92b562ea8549d438f10
+Section: Game hacks
+Name: Smash Hit Pro Version Hack
+
+
+Package: com.cydiakurd.skouthack
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: EMDamaker
+Depends: mobilesubstrate
+Description: hack 
+Filename: /com.cydiakurd.skouthack_1.0.0-1_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 15060
+MD5sum: 4f89d56e8c2272d1d92afb79689d6023
+SHA1: 4d10b42e865e11c2b3ac63908486f4a4ad9348fe
+SHA256: 308f4bea5102b0d1c939f1c5b78e13aeb491187fc851e9981f0ea92d47c16841
+Section: Game hacks
+Name: Skout+ Hack
+
+
+
+Package: com.cydiakurd.skout
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Joka
+Depends: mobilesubstrate
+Description: A nice fancy premium hack made
+Filename: /com.cydiakurd.skout_0.0.1-2+debug_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 7234
+MD5sum: e5ae7dd0bb24ce442494ed754e213395
+SHA1: b7b8c5f00c9aac95a84d90194cba6b29ab82dc8a
+SHA256: e7511dae440b0e1698b204e5a6e76cfad1fe16cbaf9d6011f6109491fee8108d
+Section: Game hacks
+Name: SKOUT Premium Hack!
+
+Package: com.cydiakurd.simcitybuilditcheats
+Version: 1.5.6
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: IOSCheats
+Depends: mobilesubstrate
+Description: hack 
+Filename: /com.cydiakurd.simcitybuilditcheats_1.5.6_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 217768
+MD5sum: c54d70422432a29a13b785c3a92c7552
+SHA1: 17378f94268078ef4c41974b6724145667446d01
+SHA256: 2e2dfffd6d82a2033eeb7363d3e5bf7f3d2ef5607690fd057f7cf37ce2a6fd73
+Section: Game hacks
+Name: SimCity BuildIt Cheats
+
+Package: com.cydiakurd.blitz-brigade-hack
+Version: 1.4.1
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Support@ilove-apple.com
+Depends: mobilesubstrate
+Description: hack
+Filename: /com.cydiakurd.blitz-brigade-hack_1.4.1_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 10346
+MD5sum: 8ab7fc0fba1936352bb3b7588e49734c
+SHA1: 44c83e7643c09717af99d26462634aedbc531fd2
+SHA256: 47ee82579765721454c2375bb2a55cceb947379920866127d8b0c8576f2aaa6b
+Section: Game hacks
+Name: Blitz Brigade hack
+
+Package: com.cydiakurd.bladesofbrimcheats
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: mohadu31
+Depends: mobilesubstrate
+Description: Cheats: Infinite Coin (Spend some), Infinite Gem (Spend some), Infinite Boost Items (Spend some).... More Coming Soon.. Configure 
+Filename: /com.cydiakurd.bladesofbrimcheats_1.0.0_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 166382
+MD5sum: 7b98cca244326ea0bdaff3c50cfbeae9
+SHA1: 059b74b1c96db6dc248f7231ed2f14afa822a264
+SHA256: dbb8a0595e2979ec069d5e756721752c34bb9fee2b4bcfd6839cbef6f7cd741f
+Section: Game hacks
+Name: Blades of Brim Cheats
+
+
+
+Package: com.cydiakurd.bandstarscheats
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Support@ilove-apple.com
+Depends: mobilesubstrate
+Description: Band Stars Cheats
+Filename: /com.cydiakurd.bandstarscheats_1.0_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 25924
+MD5sum: 0d714511fb2cf8f7148257a3075efad5
+SHA1: 7a100b96bdbda78698acf2a813a5057999584c20
+SHA256: a9514d84dd692390a4af9fc9d73acee9f64f60a2506be9984181c489187f0ee0
+Section: Game hacks
+Name: Band Stars Cheats +3
+
+Package: com.cydiakurd.asphalt8260
+Version: 2.6.0-1
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Battousai
+Depends: mobilesubstrate, preferenceloader
+Conflicts: kr.typostudio.tsprotector8
+Description: hack
+Filename: /com.cydiakurd.asphalt8260_2.6.0-1_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 9642488
+MD5sum: a9971b10a09c9e7230097d680a7d4d26
+SHA1: 06c7149037b615901c9fadc4fd7b6cd4c1a7b3ca
+SHA256: 3f3358e9eb6675cfd3bab48d33efb58dfe6d6b278f923db1cf37f969eec73787
+Section: Game hacks
+Name: Asphalt 8 v2.6.0 +13 Cheats
+
+Package: com.cydiakurd.angrybirds2cheats
+Version: 2.0.1
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: IOSCheats
+Depends: mobilesubstrate
+Description: hack
+Filename: /com.cydiakurd.angrybirds2cheats_2.0.1_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 37552
+MD5sum: 91899dc7d2fa9e4d578cc4e7b3ddee60
+SHA1: fc662553ba17964e5726307fe0bea1d71c6f54d3
+SHA256: 05b010cc76464fb3764e04557dc749f7e23050b70c6562f86dccbafa486b5528
+Section: Game hacks
+Name: Angry Birds 2 Cheats
+
+Package: com.cydiakurd.3dsounds
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Support@ilove-apple.com
+Depends: mobilesubstrate
+Description: hack
+Filename: /com.cydiakurd.3dsounds_1.0-1_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 52176426
+MD5sum: b980cf53e2f0af6acb51e50c1908b452
+SHA1: eafdf9891252b5471a7450c380405d089f3f3d85
+SHA256: 2edba521bf0ed19f184908187f1b77b633c4ead4790d148515d9c9d280d9feb4
+Section: Game hacks
+Name: Real 3D Sounds
+
+
+Package: com.cydiakurd.rhino
+Version: 2.9
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Michael Lema 
+Depends: mobilesubstrate, firmware (>= 5.0)
+Description: بەکارهێنەر• داگرتنی خولگەکان• داگرتنی وێنە و ڤیدیۆکانی کورتەی وێب• پیشاندانی هەموو وێنەی پرۆفایلی بەکارهێنەر• دیاری بکە ئەگەر بەکارهێنەران بەدوات ئەکەون• داگرتنی وێنە و ڤیدیۆ کان لە سندوقی ئینبۆکس• پیشاندانی ونبوونی وێنەکان/ڤیدیۆکان بۆماوەی بێسنوور‎————————————————ستۆری• داگرتنی وێنە و ڤیدیۆی چیرۆک• داگرتنی ڤیدیۆ ڕاستەوخۆکان• لەکارخستنی نیشانەکردنی چیرۆکەکان وەک بینراو• شاردنەوەی چەتی ڕاستەوخۆ لە کاتی جۆگەی ڕاستەوخۆ• هیچ ڕیکلامێکی چیرۆک——————————PRo• پیشاندانی نامە نەنێردراوەکان• داگرتنی هەموو بابەتەکانی بەکارهێنەر• فلتەرکردنی بابەتەکانی بەکارهێنەر• وەک دووپاتکردنەوە• فیدباکی هاپتیک• ئۆتۆماتیکی وەک ڕیلە• بەدواکەوتنی خۆکار بەکارهێنەران لە لاپەڕەی گەڕانی خولاوەکان• بە خێرایی داواکاریەکانی بەدواداگەڕان و بەکارهێنەرە پێشنیارکراوەکان پەسەند بکە• زیادکردنی چینێکی زیادەی ئاسایش لەگەڵ ناسنامەی دەموچاو/ناسنامەی لەمسی بۆ بینینی کاربەرنامەی ئینگرام ئەم درەوشونە هەموو وێنەکان و ڤیدیۆکان بە بەرزترین کالیتی دابەزێنە.هیچ شێوەبەندییەکی میدیا پێویست نیە.پێکهێنانی هەڵبژاردنەکان لە ڕێکبەندەکان
+Filename: /com.cydiakurd.rhino_2.9_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 4126422
+MD5sum: 7846dd3aa37cb0485ebd0f0e0d2b45c2
+SHA1: fec998e863d48d53f03d458928f30b534ed348f8
+SHA256: 78eeebb442285c16793dfedbfe8805714db822f56c0308f6fcc0401982cb22f2
+Section: Tweaks
+Name: Rhino for insta
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Installed-Size: 12525
+dev: lema
+
+
+Package: com.cydiakurd.protakehk
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: KIIIMO
+Depends: mobilesubstrate
+Description: Hack
+Filename: /com.cydiakurd.protakehk_0.0.1_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 111190
+Installed-Size: 340
+MD5sum: 3e5b0f6e7cda16053f40215c0a157fa9
+SHA1: 3437694498b20c23b039c35e98991994026453d7
+SHA256: cf291277a939f2f043c3379459f62a39306fb0eca60c5025d54aef6528103054
+Section: Tweaks
+Name: Protake Hack
+
+
+
+Package: com.cydiakurd.notifillpro
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: rafferli
+Depends: mobilesubstrate (>= 0.9.5000)
+Description: hack
+Filename: /com.cydiakurd.notifillpro_1.1.1_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 41642
+Installed-Size: 420
+MD5sum: cf71a1b69ae56648c4bbeb3c3974d94e
+SHA1: 3b8776d1728bef34fde0a556e4b2e169aa0a1374
+SHA256: dfcc11531b0618594bb6afe925eba24f8f0cb003e7b472dea23dbc58b244b299
+Section: Tweaks 
+Name: NotiFill Pro
+
+Package: com.cydiakurd.crane
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: opa334
+Depends: firmware (>=13.0), mobilesubstrate, applist, com.rpetrich.rocketbootstrap
+Conflicts: com.opa334.cranelite, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Description: ئتوانی زیاد لە چەند ئەکاونتێک لە 1 ئەپ بەکار بێنی 
+Filename: /com.cydiakurd.crane_1.0.2_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 340670 
+Installed-Size: 1952
+Icon: https://repo.packix.com/api/Packages/5f47aad427f6a8001ac6eb05/icon/download?size=medium
+MD5sum: f4783d9221359e9e063e4a238e811b3d
+SHA1: 6fe42b255b261f724b74b092aa4918d491113590
+SHA256: 04c9df587b89980776831144010197b76f61484be2075aff4385554e7e44f27e
+Section: Tweaks
+Name: Crane
+
+Package: com.cydiakurd.11pro
+Priority: optional
+Version: 2.0-5
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: ahmedmakls
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Description: زیاد کردنی تایبەت مەندییەکانی کامێرای ئایفۆن 11 بۆ مۆبایلەکانی تر 9-13.6
+Filename: /
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 586352
+Tag: purpose::extension, compatible::ios13
+Installed-Size: 1522
+dev: ahmedmakls
+MD5sum: 0d8d120296d2673103426253fba7e5d4
+SHA1: 4c9a23483777a3946caab69de212737db6743fc5
+SHA256: c93021be580b1c71f62efca273994772a7795e56d4d23a84c7e831d9870d9692
+Section: Tweaks 
+Name: 11Pro Camera
+
+
+Package: org.mr.azflibrary
+Version: 2.2
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Azozz ALFiras
+Depends: mobilesubstrate, preferenceloader
+Installed-Size: 2056
+Icon: https://repo.packix.com/api/Packages/5e60d8fd18bc81001a7a31f3/icon/download?size=medium
+Description: This library is dedicated to helping Azozz ALFiras Tweak's
+Filename: /org.mr.azflibrary_2.2_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 365672
+MD5sum: a8e5a24695a8fe3e019862dc8a43ad01
+SHA1: dacd5816010d9e004ee4f5bd244b8da980a0fa97
+SHA256: 337670bbef253dfbae182b84b924e5d545b326d2cd127c3513ba096b372a9dda
+Section: Development
+Name: azfLibrary
+
+Package: org.mr.afsocial
+Version: 1.0-1-1k
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Azozz ALFiras
+Depends: mobilesubstrate, org.mr.azflibrary | co.azozzalfiras.azflibrary
+Installed-Size: 4072
+Icon: https://repo.packix.com/api/Packages/5efffb746668c1001a158771/icon/download?size=medium
+Tag: cydia::commercial
+Description: بۆ دابەزاندنی ڤیدۆ  زۆر بابتی تر لە سۆشیاڵ میدیاکان لە یەک تویکا تیبینی//ئەگەر ئەم تویکەت لایە ئەوا بیسڕەوە لە پێشا لەگەڵ azflibrary 
+Filename: /org.mr.afsocial_1.0-1-1k_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 1771050
+MD5sum: a2a8d013098e24b13d115871678700fe
+SHA1: 58a49bd4c729d0a133bb3608faa15625295f8fbc
+SHA256: c51f1bd80ba8f5cbc7765e9cf9a6f3aba3dc65e89ad033a49687bfe708733062
+Section: Tweaks
+Name: AFSocial cracked
+
+Package: com.cydiakurd.AceCata
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: iAnas
+Description: theme ace catalina
+Filename: /com.cydiakurd.acecata_1.2_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 14416874
+MD5sum: 671bf5ffa519eccdaabe78f70772c1ba
+SHA1: 1f3449c298e3967efd53b2e0f9dc5426697052c8
+SHA256: 51964b38561364c3b5bfd753ca7efbb634f7683290289afd99fbe5b5a67e92e1
+Section: Themes
+Name: Ace Catalina
+
+Package: com.cydiakurd.Blackviola
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Bousrih
+Description: work with all versions 
+Filename: /com.cydiakurd.blackviola_1.2_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 18443332
+MD5sum: d8a35f1545f0d31859e8e8e9699bef26
+SHA1: a1597963ed0aa9cd17c201d9bc57e78492e0ef0c
+SHA256: 3b75487ec0134207fe65d144a4407b405ce451e64cf79730d44328ba0a7466e8
+Section: Themes
+Name: Viola Black
+
+Package: com.cydiakurd.kadirbaran
+Version: 1.1.5
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: kadirbaran
+Description: great Theme
+Filename: /com.cydiakurd.kadirbaran_1.1.5_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 22277492
+MD5sum: 3114de906c3fddd6e4e678d3ae92503a
+SHA1: d772bf7b49dd75806e6ce80050253ec7abc97168
+SHA256: 43dd50de96f95af75184a0aa9887fcb2f95a846f8c2bdb8d072fdf897240f316
+Section: Themes
+Name: LeafDark 13
+
+
+Package: com.cydiakurd.viola
+Version: 1.9.6
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Bousrih
+Description: +1800 icon 
+Filename: /com.cydiakurd.viola_1.9.6_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 62360550
+MD5sum: e9e86e9b7f7f28f98c520bd7e3080cc4
+SHA1: c65794878ba7b9e0c3c3e1b397707a369110ffda
+SHA256: aa606610e0fafb3806cb32e85e6d1ed6c093e9ba02cff79ddf3617b49cfbabb2
+Section: Themes
+Name: Viola
+
+Package: com.cydiakurd.dockx
+Version: 1.6.4
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: udevs
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0), firmware(>=12.0), ws.hbang.alderis
+Conflicts: com.restiveconch.actionbar
+Description: تویکێکی نایابە بۆ زیاد کردنی چەند کردارێک بۆ کیبۆردەکەت وەک (copy|paste|select|redo|undo) ios7-13.7 ئەگونجێ 
+Filename: /com.cydiakurd.dockx_1.6.4_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 174416
+Installed-Size: 668
+MD5sum: fcd7e35fcc836ae83934d8206ce84bb0
+SHA1: d423ed5eb5bc068171160d8dfb3e1e53cf49f72f
+SHA256: a1a5070db59a26ba529ce5a2b0764673b4c8ba19c76ebd8b0290c1e47ea58e7c
+Section: Tweaks
+Name: DockX
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+
+Package: com.rileytestut.altdaemon
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Riley Testut - T7Y
+Depends: firmware (>=12.2)
+Description: یارمەتی دەری ئاڵتستۆرە بۆ تازەکردنەوەی بڕوانامەی ئەپەکان بەکاریەت بەبێ بەکارهاێنانی کۆمپیتەر 
+Filename: /com.rileytestut.altdaemon_0.2_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 873486
+MD5sum: da9adf74b588bad97fffa70d67273ead
+SHA1: d4d36d2b5d1877963c4ca4b2de952640105135bb
+SHA256: d5a225612d6fcacf886a67760db19932e908d90c41a37f4d046699ca9a2a61be
+Section: System
+Name: AltDaemon
+
+Package: com.rileytestut.altstore.alpha.jailbroken
+Version: 1.4a9
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Riley Testut
+Depends: github.io.gfp.altdaemon
+Description: بەکاریەت بۆ تازەکردنەوەی بڕوانامەی ئەپەکان کاتێ  جەیڵبریک نەمێنێ ئەو بەرنامانە هەر کار بکەن بۆ ئەوانەی ئەنکەڤەر بەکار ئەهێنن بەسوودە بڕوانەمەی ئەنکەڤەر تازە کەنەوە ئەگەر جەیڵبریکیشیان نەمێنێ ئەتوانن هەر ئەنکەڤەر بەکار بێنن پشتگیری تا وەشانی 13.5 
+Filename: /com.rileytestut.altstore.alpha.jailbroken_1.4a9_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 5059380
+MD5sum: 25a86b4c65ba41a66b4a094e4bcc9d08
+SHA1: 1d3359af880f60b3fba4e15f2876fbe5ca2520b7
+SHA256: 389b2c9c26f1872a0c3c68d00c1c2dca5bd2bb4ed3490b568cd2df7f6518dc9f
+Section: Tweaks 
+Name: AltStore Alpha
+Icon: https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png
+
+Package: net.angelxwind.appsyncunified
+Version: 84.0
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Linus Yang, Karen/„ÅÇ„Åë„Åø <karen@akemi.ai>
+Depends: firmware (>= 5.0), firmware (<= 13.7), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
+Provides: appsync
+Replaces: us.hackulo.appsync50
+Installed-Size: 496
+Description: هەربەرنامەیەک لەدەرەوەی ئەپستۆر داگرە بێ ڕیڤۆک بوون بێ کێشە تا ئەم تویکەت لابێ 13.7 
+Filename: /net.angelxwind.appsyncunified_84.0_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 42090
+MD5sum: df355bb410ee88b6784379e5eb0c73bc
+SHA1: ace809b40d70e5396a0965a1ef0ec94fbcdd1aab
+SHA256: 4bd0a70ed5292b7d8be90a9108004370600298e16c0da9ce3160cb20dcbec6b4
+Section: Tweaks
+Name: AppSync Unified
+
+Package: com.cydiakurd.trigger-fist
+Version: 1.11
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Support@ilove-apple.com
+Depends: zip, unzip, coreutils, com.ericasadun.utilities, com.yourepo.mohadu31.ldone
+Description: hack game
+Filename: /com.cydiakurd.trigger-fist_1.11_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 4932362
+MD5sum: 39d34c32a137bb3e9bae8116d2f65cc6
+SHA1: 9efd821c077395b9316b9288e08cf2225b9e97b5
+SHA256: 8aec365b9b44a499c9cc06c6767ff1ff8fae9dee5058b1593170d14495615fc9
+Section: Game hacks
+Name: Trigger Fist hack
+
+
+
+Package: com.cydiakurd.temple-run-2
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Support@ilove-apple.com
+Depends: zip, unzip, coreutils, com.ericasadun.utilities, com.yourepo.mohadu31.ldone
+Description: hack game
+Filename: /com.cydiakurd.temple-run-2_1.0_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 34654
+MD5sum: 3bba74f3b7aacbc149d8e23d02780358
+SHA1: 274efaa1ffee70622b21103c7dd1a024481a2cfb
+SHA256: 5d0f7a5c5c7f6e053298daa4098d68bbbad5eb30e1790d97dda5bb080deb0d59
+Section: Game hacks
+Name: Temple Run 2 [SAV]
+
+Package: com.cydiakurd.sniper
+Version: 1.0.3-3
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Support@ilove-apple.com
+Depends: mobilesubstrate, preferenceloader
+Description: hack
+Filename: /com.cydiakurd.sniper_1.0.3-3_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 7141342
+MD5sum: 515feaeb86f4731f652839bcaa5f6579
+SHA1: bd4483dd8242824c8b52b8edd96e1a1487329b0d
+SHA256: a84a804384c44247b43998ccc3d1ab42224b1382c5a7a61900337a966fb5156c
+Section: Game hacks
+Name: Sniper Fury Cheat
+
+Package: com.cydiakurd.smash-hit-pro
+Version: 1.4.0
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Support@ilove-apple.com
+Depends: zip, unzip, coreutils, com.ericasadun.utilities
+Description: hack
+Filename: /com.cydiakurd.smash-hit-pro_1.4.0_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 884
+MD5sum: a1c5eeeeea9dd67e9924be69894180f4
+SHA1: 5ea86507018126125cd4858790c1779fd9983e67
+SHA256: ca11df8408c9f4ba95a24175851016b47c61aa82e930d92b562ea8549d438f10
+Section: Game hacks
+Name: Smash Hit Pro Version Hack
+
+
+Package: com.cydiakurd.skouthack
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: EMDamaker
+Depends: mobilesubstrate
+Description: hack 
+Filename: /com.cydiakurd.skouthack_1.0.0-1_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 15060
+MD5sum: 4f89d56e8c2272d1d92afb79689d6023
+SHA1: 4d10b42e865e11c2b3ac63908486f4a4ad9348fe
+SHA256: 308f4bea5102b0d1c939f1c5b78e13aeb491187fc851e9981f0ea92d47c16841
+Section: Game hacks
+Name: Skout+ Hack
+
+
+
+Package: com.cydiakurd.skout
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Joka
+Depends: mobilesubstrate
+Description: A nice fancy premium hack made
+Filename: /com.cydiakurd.skout_0.0.1-2+debug_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 7234
+MD5sum: e5ae7dd0bb24ce442494ed754e213395
+SHA1: b7b8c5f00c9aac95a84d90194cba6b29ab82dc8a
+SHA256: e7511dae440b0e1698b204e5a6e76cfad1fe16cbaf9d6011f6109491fee8108d
+Section: Game hacks
+Name: SKOUT Premium Hack!
+
+Package: com.cydiakurd.simcitybuilditcheats
+Version: 1.5.6
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: IOSCheats
+Depends: mobilesubstrate
+Description: hack 
+Filename: /com.cydiakurd.simcitybuilditcheats_1.5.6_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 217768
+MD5sum: c54d70422432a29a13b785c3a92c7552
+SHA1: 17378f94268078ef4c41974b6724145667446d01
+SHA256: 2e2dfffd6d82a2033eeb7363d3e5bf7f3d2ef5607690fd057f7cf37ce2a6fd73
+Section: Game hacks
+Name: SimCity BuildIt Cheats
+
+Package: com.cydiakurd.blitz-brigade-hack
+Version: 1.4.1
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Support@ilove-apple.com
+Depends: mobilesubstrate
+Description: hack
+Filename: /com.cydiakurd.blitz-brigade-hack_1.4.1_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 10346
+MD5sum: 8ab7fc0fba1936352bb3b7588e49734c
+SHA1: 44c83e7643c09717af99d26462634aedbc531fd2
+SHA256: 47ee82579765721454c2375bb2a55cceb947379920866127d8b0c8576f2aaa6b
+Section: Game hacks
+Name: Blitz Brigade hack
+
+Package: com.cydiakurd.bladesofbrimcheats
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: mohadu31
+Depends: mobilesubstrate
+Description: Cheats: Infinite Coin (Spend some), Infinite Gem (Spend some), Infinite Boost Items (Spend some).... More Coming Soon.. Configure 
+Filename: /com.cydiakurd.bladesofbrimcheats_1.0.0_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 166382
+MD5sum: 7b98cca244326ea0bdaff3c50cfbeae9
+SHA1: 059b74b1c96db6dc248f7231ed2f14afa822a264
+SHA256: dbb8a0595e2979ec069d5e756721752c34bb9fee2b4bcfd6839cbef6f7cd741f
+Section: Game hacks
+Name: Blades of Brim Cheats
+
+
+
+Package: com.cydiakurd.bandstarscheats
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Support@ilove-apple.com
+Depends: mobilesubstrate
+Description: Band Stars Cheats
+Filename: /com.cydiakurd.bandstarscheats_1.0_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 25924
+MD5sum: 0d714511fb2cf8f7148257a3075efad5
+SHA1: 7a100b96bdbda78698acf2a813a5057999584c20
+SHA256: a9514d84dd692390a4af9fc9d73acee9f64f60a2506be9984181c489187f0ee0
+Section: Game hacks
+Name: Band Stars Cheats +3
+
+Package: com.cydiakurd.asphalt8260
+Version: 2.6.0-1
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Battousai
+Depends: mobilesubstrate, preferenceloader
+Conflicts: kr.typostudio.tsprotector8
+Description: hack
+Filename: /com.cydiakurd.asphalt8260_2.6.0-1_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 9642488
+MD5sum: a9971b10a09c9e7230097d680a7d4d26
+SHA1: 06c7149037b615901c9fadc4fd7b6cd4c1a7b3ca
+SHA256: 3f3358e9eb6675cfd3bab48d33efb58dfe6d6b278f923db1cf37f969eec73787
+Section: Game hacks
+Name: Asphalt 8 v2.6.0 +13 Cheats
+
+Package: com.cydiakurd.angrybirds2cheats
+Version: 2.0.1
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: IOSCheats
+Depends: mobilesubstrate
+Description: hack
+Filename: /com.cydiakurd.angrybirds2cheats_2.0.1_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 37552
+MD5sum: 91899dc7d2fa9e4d578cc4e7b3ddee60
+SHA1: fc662553ba17964e5726307fe0bea1d71c6f54d3
+SHA256: 05b010cc76464fb3764e04557dc749f7e23050b70c6562f86dccbafa486b5528
+Section: Game hacks
+Name: Angry Birds 2 Cheats
+
+Package: com.cydiakurd.3dsounds
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Support@ilove-apple.com
+Depends: mobilesubstrate
+Description: hack
+Filename: /com.cydiakurd.3dsounds_1.0-1_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 52176426
+MD5sum: b980cf53e2f0af6acb51e50c1908b452
+SHA1: eafdf9891252b5471a7450c380405d089f3f3d85
+SHA256: 2edba521bf0ed19f184908187f1b77b633c4ead4790d148515d9c9d280d9feb4
+Section: Game hacks
+Name: Real 3D Sounds
+
+
+Package: com.cydiakurd.poolhax
+Version: 3.8.5
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Mohadu313
+Depends: mobilesubstrate
+Description: خەتی دارە کە دوورو درێژ ئەکا
+Filename: /com.cydiakurd.poolhax_3.8.5_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 9514
+MD5sum: ad35adbb9596e086a4d291f746fee2de
+SHA1: ea30f5a56949751fce83d44741573f111f8a6ef3
+SHA256: 6ff04a385150814f8325d19c98d6e0f8cd973a724341c387ff137d3b594aa30a
+Section: Game hacks
+Name: 8 Ball Pool (All Versions) Unlimited Guidelines + No Ban/JB Detection
+
+Package: com.cydiakurd.appsyncunifiednochimera
+Version: 82.0
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Linus Yang, Karen/„ÅÇ„Åë„Åø
+Depends: firmware (>= 5.0), firmware (<= 13.6.1), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
+Description: هەربەرنامەیەک لەدەرەوەی ئەپستۆر داگرە بێ ڕیڤۆک بوون بێ کێشە تا ئەم تویکەت لابێ 13.6.1 
+Filename: /com.cydiakurd.appsyncunifiednochimera_82.0_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 64062
+MD5sum: 3f2eb293e09a2e81d3288ad719ddd666
+SHA1: 80075a093d3a5abea27eb64e002fbaf6fc69a3ea
+SHA256: 34691d72b66053eff40760de27b1c4110c2d73d670fbbbba3b031416707605e9
+Section: Tweaks
+Name: AppSync Unified (iOS 5 to iOS 13.6.1)
+
+
+
+Package: com.cydiakurd.cercube
+Version: 5.2.3
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Majd Alfhaily
+Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
+Icon: https://apt.alfhaily.me/cdn/assets/cercube-icon.png
+Description: بۆ داونلۆد کردنی. ڤیدیۆ یوتوب بە سەرجەم کوالتییەکان و دەنگ چەند تایبەتمەنددیەکی تریش 13.6.1
+Filename: /com.cydiakurd.cercube_5.2.3_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 5660744
+MD5sum: c8e749dcce34c3800fa724f1c74a3bc1
+SHA1: 06cf26aa35396547ab1498b533e1eb9ec029eed8
+SHA256: 757a4bd77c3aaa8b4518791808265478f4487b0403ce0f2e39cb985945a5b355
+Section: Tweaks
+Name: Cercube for YouTube
+
+Package: com.cydiakurd.8ballpool2020hackbygera
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Gera
+Depends: mobilesubstrate
+Description: hack
+Filename: /com.cydiakurd.8ballpool2020hackbygera_1.0.0_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 8222
+MD5sum: f9a6dcb63f19dd669458054f630aa739
+SHA1: 42212fb82edf7c3a3a216c8dbe764d98cd409a28
+SHA256: 0089ac7cd289ce5d15e8be008744d18d885f9ed24ad0cd2e8d457af945aca617
+Section: Tweaks
+Name: 8 Ball Pool 2020 Hack
+
+Package: com.cydiakurd.appdata
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Fouad Raheb
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Description: لە هۆم سکرین هەر ئەپێک بتەوێ پەنجە لەسەر ئەپەکە بۆ سەرەوە ڕاکێشە 1-توانای کۆپی کردنی بندل ئایدی چونە ناو فایلی بندل و داتای ئەپەکە ڕاستەوخۆ لە فێڵزاوە و چەند تایبەت مەندییەکی تریش 
+Filename: /com.cydiakurd.appdata_1.2.3_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 170898
+MD5sum: b79e2756ae4939b1d08b2f42db08b25e
+SHA1: 54885e2c6ee7e6c0fdb5ccc26d0381ee69eeb906
+SHA256: 5892f998df83c04d2047a8be935e27074d99d8933cf9484a945ae9db213ce549
+Section: Tweaks
+Name: AppData
+Icon: https://banana-gfp.github.io/repo/depictions/github.io.gfp.appdata/DebIcon.png
+
+Package: com.cydiakurd.dra1n
+Version: 1.3k
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: MegaDev & Charlie While
+Depends: mobilesubstrate, firmware (>= 11.0),ws.hbang.common,preferenceloader,com.cokepokes.libnotifications (>= 0.2-2), com.muirey03.libmryipc
+Icon: https://repo-cdn.dynastic.co/342300381885235201.fc2c9ea5055d0d8a1f498be667fecb21-96?size=96
+Installed-Size: 15183
+Description: بۆزانینی چی تویکێک کاریگەری لەسەر دابەزینی ڕێژەی پاترییەکە دەکا کراوە بە زمانی کوردی 
+Filename: /com.cydiakurd.dra1n_1.3k_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 7410386
+MD5sum: 8b67ab7a0ab852a84944a72032c371e8
+SHA1: 293021f979d1956c1a6ad463c89d803c8240ebe7
+SHA256: 3ed4e7cc7a2bff9e42c4a16c8a5edaee93f7323ede0e502c1114da819961515e
+Section: Tweaks
+Name: Dra1n KURDISH
+
+Package: com.cydiakurd.ccsupport
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: opa334
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Provides: com.ioscreatix.silo
+Replaces: com.ioscreatix.silo
+Conflicts: com.ioscreatix.silo
+Description: Support tweak for CC modules!
+dev: opa334
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Filename: /com.cydiakurd.ccsupport_1.2.2_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 47616
+MD5sum: e51574961e751f8c67ff56ddfb5e8144
+SHA1: c2c739ddec955252515f82c1d92dceb471225a15
+SHA256: 045e110e160d78f985f2b1032d2f3ee08c88edafb81e64ba8cd00abd93699cdb
+Section: Tweaks
+Name: CCSupport
+
+Package: com.cydiakurd.goodwifi
+Version: 0.0~beta5
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: julioverne
+Depends: mobilesubstrate, preferenceloader
+Description: بەکار یەت بۆ بەهێز کردنی وایفای و پشاندانی پاسۆردی وایفایەکان 
+Filename: /com.cydiakurd.goodwifi_0.0~beta5_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 128538
+MD5sum: f9b767ff57a00e6a82bc580e08be5165
+SHA1: 845a4344f5b0a2e4ad7f5532acb67e5b665570a6
+SHA256: d325d35bf344db3de3514a02a7c88927aeffbeb72662c50f5012694983fb355c
+Section: Tweaks
+Name: GoodWiFi
+
+Package: com.cydiakurd.powermodule
+Version: 1.3.1
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Muirey03
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
+Installed-Size: 652
+Description: بەکاریەت بۆ زیاد کردنی ڕیسپرنگ و سەیفمۆد وچەند کردارێکی تر زەرورە ئەم تویکە تان لابێت بەتایبەتی ئەوانەی پەپجی ئەکەن پێویستە لە کاتی یاری کردنا لەسەر سەیف مۆد بێد تا باند نەبن چونکە سەیفمۆد باشترین ڕێگایە بۆ نەگەیشتنی تویکەکان بە سیستەم شێوازی چالاک کردن لە سێتنگە و زیاد کردنی لە بەشی کۆنترۆل سێنتەرە  
+Filename: /com.cydiakurd.powermodule_1.3.1_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 110792
+MD5sum: 5d8f9997e154025e01a7f3ee41577e54
+SHA1: 75671cbf08f7928ffb25f245b689fb59b9174f9e
+SHA256: dc21e16eaa2eedc9c7917246d166879a912f111f109048c69f90b50239b14071
+Section: Tweaks 
+Name: PowerModule
+
+
+
+Package: me.alfhaily.rocket
+Version: 3.7.6
+Priority: optional
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Majd Alfhaily
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+SileoDepiction: https://api.getrocketapp.io/depiction/sileo
+Description: بۆ داونلۆد کردنی ڤیدیۆ و ڕەسمی ئینستاگرام و نیشاندانی ڕەسمی پڕۆفایل و زۆر تایبەتمەندی تریش 
+Icon: https://api.getrocketapp.io/resources/depiction/images/icon.png
+Filename: /me.alfhaily.rocket_3.7.6_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 7468146
+MD5sum: 02179591db64a8227893a65c829d98d8
+SHA1: f630bb065ba25e5c9be267969b095e460fd58cbd
+SHA256: ab6f91837bdf66be74942cda19a3e663e7d402b37ae71da48fcd3262ab092604
+Section: Tweaks
+Name: Rocket for Instagram
+
+Package: com.cydiakurd.reflection
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Duraid Abdul 
+Depends: mobilesubstrate, preferenceloader
+Description: بۆ نەهێشتنی عەکس کردنەوەی ڕەسمی سێڵفی لە کامێرای ئایفۆنەکە وەک سناپچات لێکا
+Filename: /com.cydiakurd.reflection_2.0_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 38406
+MD5sum: 7062433fba5872bc188263bdacf5c1bb
+SHA1: 22ca129d6426a91b46966f43b22373bba0899949
+SHA256: a5f8ff63643e5859604972e7131daf8aaba165beb9152d7d6c4703d6ac3522c0
+Section: Tweaks
+Name: Reflection
+
+Package: com.cydiakurd.bazaart
+Version: 6.5.8
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Laxus
+Depends: mobilesubstrate
+Description: hack
+Filename: /com.cydiakurd.bazaart_6.5.8_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 1123816
+MD5sum: 944bc7790356aee54952801652ed2799
+SHA1: e17ebc11c0622269c0a909b7cded71fbadbc68fe
+SHA256: 3271ddf02ef38d84187fba4b33d9ed044717c380591696c67a75231358b45ad2
+Section: APPS HACK
+Installed-Size: 3592
+Name: Bazaart Photo Editor & Collage Hack
+
+
+
+Package: com.cydiakurd.camera360hack
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: pxcex
+Depends: mobilesubstrate
+Description: hack
+Filename: /com.cydiakurd.camera360hack_0.0.2_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 83178
+MD5sum: caf015f66a3235f82458311a99c9260e
+SHA1: 9a09a758256a17fc07f9b0efa03fda5a7cad84f1
+SHA256: d9da7fb078e4bc350bfcd3f18347b61a4bc4e45b6de5649b3c84427f475e5fc1
+Section: Tweaks
+Name: Camera360 Hack
+Installed-Size: 256
+Tag: purpose::extension, compatible_max::ios12.2
+
+Package: com.cydiakurd.canarymailpro
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: strejda603
+Depends: mobilesubstrate
+Description: hack
+Filename: /com.cydiakurd.canarymailpro_1.0.0_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 4278
+MD5sum: e602e7a83926f793455953702fcbeb71
+SHA1: 8f6d5c7de6642f74af786004fa37a5ccb7423e20
+SHA256: 798aeabd525884556b119910829f81fe5d59d35ee06cd7a31cfd4f8ba34da4bb
+Section: Tweaks
+Installed-Size: 136
+Name: Canary Mail (Pro)
+
+Package: com.cydiakurd.copiedlabel
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: pxcex
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Description: لە هەر ئەپێکا بێ پەنجە لەسەر هەر نوسینێک داگرە ئەتوانی کۆپی کەی لە سێتینگەوە چالاک ئەکرێ
+Filename: /com.cydiakurd.copiedlabel_1.0.1_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 43028
+Installed-Size: 432
+MD5sum: 5c65b03e80c2e00919e3d11d14263d8f
+SHA1: b8309e210837d753be74e6dfee3f4e00d1b20594
+SHA256: 0691c920e5fc6d3597a54965e47dedbf7470dd15e4ce2057b2427493c70fb223
+Section: Tweaks
+Name: CopiedLabel
+
+
+Package: com.cydiakurd.darkroomnewhack
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: pxcex
+Depends: mobilesubstrate
+Description: hack
+Filename: /com.cydiakurd.darkroomnewhack_0.0.2_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 3898
+Installed-Size: 136
+MD5sum: b22d4878d7eb7ce65837f8fcbab29c2a
+SHA1: 25ba8e906b6cc8fcd1a2c22ebf4c1c1c26e06a37
+SHA256: c32ba27b01dc6f0c436e8249f91efdd7e0d33b3ea89bd303ee99466bcb01e4fd
+Section: Tweaks
+Name: DarkRoom Hack
+
+Package: com.cydiakurd.DUrecorder
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: DXcool223
+Depends: mobilesubstrate
+Description: hack
+Filename: /com.cydiakurd.durecorder_0.0.1-1+debug_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 23188
+Installed-Size: 192
+MD5sum: b537772c38e2cf28837aa1aa216bfbf5
+SHA1: ecdd2032cead42d85b92a96afa7055e68673d776
+SHA256: df2f3bee2c95f31fec2973cf6182e5635685685e3b745594ddd651e1757a4666
+Section: APPS HACK
+Name: DU Recorder - Screen Recorder Hack
+
+Package: com.cydiakurd.enlightquickshot
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: pxcex
+Depends: mobilesubstrate
+Description: hack
+Filename: /com.cydiakurd.enlightquickshot_0.0.2_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 78746
+Installed-Size: 272
+MD5sum: a511248ecc73d3e40429fbb612b54702
+SHA1: d60b789381cfbf996381c5920aa8affd8239121b
+SHA256: 5af8960380a0faef19a0767eca337375e82eface667d65a90d6f7d29788e9956
+Section: Tweaks
+Name: Enlight Quickshot Hack
+
+Package: com.cydiakurd.enlightvideoleaphack
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: pxcex
+Depends: mobilesubstrate
+Description: hack
+Filename: /com.cydiakurd.enlightvideoleaphack_0.0.1-1_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 5510
+MD5sum: b11bc603388a1b0b0264d026b8c9b3b0
+SHA1: eb7c9861220d4e2a855d4217a30b27ded3649f04
+SHA256: b0082d96fc4b5784a3c1300aa5a284c9f7fffd51e5aa783fefbb675084ec7056
+Section: Tweaks
+Name: Enlight Videoleap Hack
+
+
+
+Package: com.cydiakurd.evernotehack
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: pxcex
+Depends: mobilesubstrate
+Description: hack
+Filename: /com.cydiakurd.evernotehack_0.0.2_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 3754
+MD5sum: 8e99bd57ecf776c86d107b55bc5424e8
+SHA1: 88adfa6bea11c6cc7ecd5eb0ecf3de26d8196f5a
+SHA256: 579df8afd4ac2834c05d15945e93e687dc9fb333e4045fbd21a8b071eb41bd79
+Section: Tweaks
+Name: Evernote Hack
+
+Package: com.cydiakurd.foxforttools
+Version: 1.1.4
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: FoxfortMobile
+Depends: mobilesubstrate, com.foxfort.libfoxfortutils (>= 1.0.18), com.rpetrich.rocketbootstrap (>> 1.0.6)
+Installed-Size: 2264
+Description: Helper tools for Foxfort tweaks
+Tag: role::developer
+Filename: /com.cydiakurd.foxforttools_1.1.4_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 990534
+MD5sum: 7c76ff6f835a22aa5fff2da637f29f22
+SHA1: fe8a2711a4b9b56067314b543b08a4652d1e4cfc
+SHA256: a0a1c16f6a07b36773e82743c370ac8b66bc69a31a46107d5096f0520a0ef7ad
+Section: Tweaks
+Name: FoxFort Tools
+
+Package: com.cydiakurd.funimate
+Version: 9.5.1
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Laxus
+Depends: mobilesubstrate
+Description: hack
+Filename: /com.cydiakurd.funimate_9.5.1_iphoneos-arm
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 1036022
+MD5sum: ee9497c42d8c7727385a78e5b83e79e5
+SHA1: 5418101e5c3f27c7cd66cf39a8a17c7deaa61660
+SHA256: 0872561527625a574a398610016fd9239605a9f6c55cb9d05e72ab91ec64ce3c
+Section: Tweaks
+Name: Funimate - Be Music Video Star Hack
+
+
+Package: com.cydiakurd.fusedhack
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: pxcex
+Depends: mobilesubstrate
+Description: hack
+Filename: /com.cydiakurd.fusedhack_0.0.2_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 121910
+Installed-Size: 432
+MD5sum: 4e961bed92e43b6710e4d5bfe95ae693
+SHA1: 45b01af5c15aaba8bb5207f109146132ce9f26d1
+SHA256: a61a5fba4c4d087025e79684aa5dde132aff183d2e16231d47a81796833b3fa3
+Section: Tweaks
+Name: Fused Hack
+
+
+
+Package: com.cydiakurd.glow
+Version: 0.4-24
+Installed-Size: 916
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Elias Limneos
+Depends: mobilesubstrate, preferenceloader, firmware ( >= 12)
+Description: با شاشەی قوفڵەکەت بدرەوشێتەوە
+Filename: /com.cydiakurd.glow_0.4-24_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 335384
+Depiction: https://cydiakurd.tk/Depiction/3/index.html
+MD5sum: df71dcccb99fc2d9277d7c77a5a7ba34
+MainLibMD5: e7420c6c4fadb7a5fb37ba12ba2bb4bd
+SHA1: 5747041e80a0315269d7f37819b16ac7e8989b44
+SHA256: d33754fe9addd986a794985fd94158b33c70e6506a30190ce2934cad9dfb784c
+Section: Tweaks
+Name: Glow
+
+Package: com.cydiakurd.gradiendtphotohack
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: pxcex
+Depends: mobilesubstrate
+Description: hack
+Filename: /com.cydiakurd.gradiendtphotohack_0.0.4_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 113408
+Installed-Size: 416
+MD5sum: 2b9213f009aa11c1959f0cd122d01e9b
+SHA1: 0d43777e366946e6069360726baef3915e67487a
+SHA256: 22c69f23db48e7c3a5a76eba82722a55849f2d5469531694d5fa3209be7c2f1f
+Section: Tweaks
+Name: Gradient Photo Hack
+
+Package: com.cydiakurd.groovepadhack
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: pxcex
+Depends: mobilesubstrate
+Description: hack
+Filename: /com.cydiakurd.groovepadhack_0.0.2_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 113948
+Installed-Size: 416
+MD5sum: 534103cfe333a81b00ddd727654bd91c
+SHA1: f586d21eadc7bfe7483a96a32caa59e8ce7bf90d
+SHA256: c91aea2aec940b2408e6f4d5e0deaf82456fd5ca44c765f1001028ecf81b38a4
+Section: Tweaks
+Name: Groovepad Hack
+
+Package: com.cydiakurd.guardianhack
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: pxcex
+Depends: mobilesubstrate
+Description: hack
+Filename: /com.cydiakurd.guardianhack_0.0.4_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 114374
+Installed-Size: 384
+MD5sum: a62eeea70ed209f3877ff63db2611091
+SHA1: ff8fb2c210501484a34058875a07df8b00890aab
+SHA256: a3b407e5b7105eddf90d7749942d83604f8ef0db7e14b98df3be657f402dc800
+Section: Tweaks
+Name: Guardian VPN Hack
+Icon: https://guofenpai.github.io/repo/icon/gfp.png
+
+
+
+
+Package: com.cydiakurd.homegesture
+Version: 1.8.2
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: VitaTaf/MidnightChips/PINPAL
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), org.thebigboss.libcolorpicker
+Pre-Depends: com.spark.libsparkapplist
+Description: شێوازی ئایفۆنەکەت بگۆڕە بۆ شێوازی ئایفۆن ئکس تانها بۆ 8 پلەس بەرەو خوار 
+Filename: /com.cydiakurd.homegesture_1.8.2_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 784766
+Installed-Size: 1216
+MD5sum: c451744085ec2846cdb4c5e355147974
+SHA1: 1c15e8f95c1837d9d2fcaa719d20d1bc41a73eb2
+SHA256: cd612d944a2f6c57ff7bc8e76d3103e8bc3a24dc94f328534d4063056658f74c
+Section: Tweaks
+Name: HomeGesture
+https://cdn.discordapp.com/attachments/418170831592488972/465268776091254815/icon.png
+
+Package: com.cydiakurd.hotspotcrack
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: SarahH12099
+Depends: mobilesubstrate
+Description: hack
+Filename: /com.cydiakurd.hotspotcrack_1.2.3_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 4148
+Installed-Size: 69
+MD5sum: f923aae8dd509a017562df053aa09eaf
+SHA1: fad1cbf58339aff8db0d7554d74603bb7bc87f30
+SHA256: 10d9bb2be557f50d1b7cf838c609fe2dadd3ead01e05d5e1906f8763c4bb2324
+Section: Tweaks
+Name: Hotspot Shield++
+
+
+
+Package: com.cydiakurd.protakehk
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: KIIIMO
+Depends: mobilesubstrate
+Description: hack
+Filename: /com.cydiakurd.protakehk_0.0.1_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 111190
+Installed-Size: 340
+MD5sum: a34a42f96d8888c5f9b6ae5177f8f558
+SHA1: 0b5512df8aeb48d56aa3fd5475ac474baf4447db
+SHA256: 4379243b9c85eb8cb8e235232bb0827354428c5f1d188be447b7a0e4a0e597cc
+Section: Tweaks
+Name: Protake Hack
+
+Package: com.cydiakurd.pxcexfotorhack
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: pxcex
+Depends: mobilesubstrate
+Description: hack
+Filename: /com.cydiakurd.pxcexfotorhack_0.0.2_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 115422
+Installed-Size: 416
+MD5sum: e69a8a48d682336524e581ccf4feb6aa
+SHA1: da63c30c265ab66e57f656a9870e6d0032f1a364
+SHA256: 9df2a7caa6fea756b3bb2aef5916906b574a96195975f27b6968451c442a62e2
+Section: APPS HACK
+Name: Fotor Photo Hack
+
+Package: com.cydiakurd.screenmirrorbrowserhk
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: KIIIMO
+Depends: mobilesubstrate
+Description: hack
+Filename: /com.cydiakurd.screenmirrorbrowserhk_0.0.1_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 111342
+Installed-Size: 340
+MD5sum: ee3fcfc5f1d2669f71c22c8d9699a0f6
+SHA1: 763576ccdb1061510f26f2af1f2d5d93de0c3c61
+SHA256: 2f766aa920111db79b8afe34a3da3342f9b944d8848d7de710cfe6aa680441d8
+Section: Tweaks
+Name: Screen Mirror Browser Hack
+
+
+
+Package: com.cydiakurd.snowboard
+Version: 1.3.6~Beta3
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Spark & Dennis D. Bednarz
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Description: بەکار یەت بۆ دانانی ڕوکاری ئەپەکان و گۆڕینیان 
+Filename: /com.cydiakurd.snowboard_1.3.6~Beta3_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 2108370
+Installed-Size: 4720
+MD5sum: bb1cce2c1820e7fbfdac51cce8ea8e4b
+SHA1: e0f317b25c03b74a0392bed530909ca0fae4e0cf
+SHA256: 6fecd2dda1f0dc8d560f9bd82c0c3c196dfa85868db709f3eec55eb511df18a0
+Section: Tweaks
+Name: SnowBoard
+
+Package: com.cydiakurd.spotilife
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: julioverne
+Depends: mobilesubstrate
+Description: hack
+Filename: /com.cydiakurd.spotilife_1.2_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 199180
+MD5sum: 55e761ab698883209fa2ebcb1da70ece
+SHA1: 70f07917e452d59fc865ad6059815f6a36c64727
+SHA256: 902af15f8addfc4d9bfb7ed22122dd98bc6f234a62b6fb9ffc239d507dabbdff
+Section: Tweaks
+Name: Spotify Premium
+
+Package: com.hack8ball.sa
+Version: 4.8.4-2+debug
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: DNS_Sys
+Depends: mobilesubstrate
+Description: hack
+Filename: /com.hack8ball.sa_4.8.4-2+debug_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 9046
+Installed-Size: 112
+MD5sum: 8e87827795ceb368fddfc864c608d46d
+SHA1: 2dead8845e21beef4fe94995bd50457e49baad1c
+SHA256: 902edcea9c2d614ad733c7dbf5b103329c4f3d4b497229d909cc28a60f170349
+Section: Tweaks
+Name: Hack8Bool
+
+
+Package: com.cydiakurd.gtta
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: roarijo89
+Depends: mobilesubstrate
+Description: hack
+Filename: /com.cydiakurd.gtta_1.0_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 185120
+MD5sum: e12b1f94f95d139efffa3f28e7fba648
+SHA1: d64899348b72e9d1fe6ea2f47ec12e3c74f18f81
+SHA256: 24e20f5ba910c8c7c2d63afc9c4510f270601e5403002f2a07cbaa2d3aedda6a
+Section: Tweaks
+Name: GTA San Andreas
+
+
+
+
+Package: com.cydiakurd.network-cmds
+Version: 307.0.1-6rev1-1
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: mo
+Description: network cmd
+Filename: /com.cydiakurd.network-cmds_307.0.1-6rev1-1_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 239194
+MD5sum: 6d1cb2690c9ec66e00ba4e0354deb9f3
+SHA1: 01ad87f21c7be7ab987285f9895824edef905a70
+SHA256: fa003e6ec1584ead19c718585f677e4d9a30033896b5d29decfdc486c7c62da0
+Section: Networking
+Name: network-cmds
+
+
+Package: com.cydiakurd.sniper3dassassinshoottokillcheats
+Version: 1.5.1-1
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Laxus
+Depends: mobilesubstrate, preferenceloader
+Description: 3D Assassin: Shoot to Kill v1.5.1 +4 Hacked by Laxus. Visit iOSCheaters &
+Filename: /com.cydiakurd.sniper3dassassinshoottokillcheats_1.5.1-1_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 94326
+MD5sum: 1643d1ff7383edf1aca55b68d04d38e4
+SHA1: af313530b065e7b18d13fb3c226fafe5b60a54cf
+SHA256: 51c226004808afda58d1189b35ab31c23532c602c351da4dd554b42e8b09c39a
+Section: Game hacks
+Name: Sniper 3D Assassin: Shoot to Kill
+
+
+
+Package: com.cydiakurd.dlgmemorinjected
+Version: 11.3.1
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: AnonymousxiosdeV
+Depends: mobilesubstrate, preferenceloader, applist
+Conflicts: com.yourepo.ghacks.dlgmemorinjected
+Description: بەکار یەت بۆ هاکردنی یاریە کان پارە بێ یا هەرشتێ هاوشێوەی چیت ئینجنە 
+Filename: /com.cydiakurd.dlgmemorinjected_11.3.1_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 264228
+MD5sum: b4813dc753926b91df029f254efd2bc1
+SHA1: fc6c577acfeb922b4dceb747c42556920109b85c
+SHA256: c43efbc49e36d918703c6b36d773cfc849d7af9443153adf76343e5533530a21
+Section: Utilities
+Name: DLGMemor Injected
+
+
+Package: com.cydiakurd.zebra
+Version: 1.1.12
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Wilson Styres 
+Depends: dpkg, uikittools, firmware (>= 9.0)
+Description: هەمان شێوەی سیدیایە بۆ تویک داگرتن بەکاریەت بەڵام باشتر و خێراترە لە ڕوی لۆد کردنی سۆرس و تویکەکان و دابەزاندنیان 
+Filename: /com.cydiakurd.zebra_1.1.12_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 27410564
+Installed-Size: 58432
+MD5sum: 57f8ea70d9189471a762984dc7c643d1
+SHA1: 3138f820519119d472010c12732f69f4674ca9eb
+SHA256: fe1e44087f58c20c34ffa7d0acc47452b4153fc5f2ff10f7d383ebd807279095
+Section: Packaging
+Name: Zebra
+Tag: compatible::9.0-13.5
+
+
+
+Package: com.cydiakurd.slices3
+Version: 3.1.3
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Baw Appie
+Depends: firmware (>=11), mobilesubstrate, preferenceloader, applist (>= 1.5.0), com.rpetrich.rocketbootstrap (>=1.0.7~beta3)
+Conflicts: com.expetelek.slices, com.subdiox.slices2
+Description: بەکار یەت بۆ بەکارهێنانی چەند ئەکاونتێک لە ئەپەکانە ئەوەنەت لەسەرە لە سێتینگ چالاکی کەیت و ئەو ئەپە هەڵبژێری کە ئەتەوێ بۆ نمونە من ئەکاونتی پای پارەکەیم گەیانە 250 لە 1 ڕۆژا ئەکاونتی تەزویرم دروست ئەکرد و کۆدی ئینڤایتی ئەکاونتە سەرەکیەکام ئەیا پێی :D
+Filename: /com.cydiakurd.slices3_3.1.3_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 249826
+MD5sum: 271381d3f1d96b493de333fe9f97f857
+SHA1: 3114a6d8c9c3820833e5a3b4e79f9cbb5679a1de
+SHA256: ce3d6e9b1d35e65aac9a4ba10b67ca6df67e9dd340c3f253b88d8b64393fb300
+Section: Tweaks
+Name: Slices 3
+Installed-Size: 960
+
+
+
+Package: com.cydiakurd.antirevoke
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: stem grade
+Depends: mobilesubstrate
+Description: بەکار یەت بۆ نەهێشتنی ڕیڤۆکی ئەپەکان 
+Filename: /com.cydiakurd.antirevoke_0.0.1_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 51200
+MD5sum: 9e2beb812ab0de88f350846e5a4ee18a
+SHA1: 57e4415286abb035cbbad557f3577d6b879ea283
+SHA256: b6b7c6e9cbbf827f2f66374983a006e8a86fbfc7c2abb84f1c6e94c91c00bf9f
+Section: IOS13
+Name: antirevoke
+
+
+Package: com.cydiakurd.uasharedtools
+Version: 2.2r-20
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: UnlimApps Inc.
+Depends: mobilesubstrate, firmware (>= 7.0)
+Conflicts: com.yourepo.abo1bs.uasharedtoolsno-ads, com.hackyouriphone.uasharedtools
+Description: shared tools for unlimapps tweaks
+Filename: /com.cydiakurd.uasharedtools_2.2r-20_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 23257652
+MD5sum: a29e005345235ca98ca6a9724105a534
+SHA1: dd41fb6f0180d0075fb7abb412a0a0c5dae704ad
+SHA256: 6f880c03bd6b2b8a4d71816b33e20b375aa852a7c08cc6ef804ceba52598cb4f
+Section: Development
+Name: uasharedtools
+
+
+
+Package: com.cydiakurd.fbpp
+Version: 1.6r-38
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: UnlimApps Inc 
+Depends: firmware (>= 5.0), mobilesubstrate, com.cydiakurd.uasharedtools (>= 2.2r-20)
+Conflicts: repo.biteyourapple.net.pluscrack, repo.biteyourapple.net.gramplus
+Description: 
+Filename: /com.cydiakurd.fbpp_1.6r-38_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 2605484
+MD5sum: a8897e6f78a17817bf70ed67ff0893f9
+SHA1: 904e3841d6bec482f1c187106f783f41385da490
+SHA256: bb03b0e3166daee9d1ba9bf86a8819a4aa9ee6c62e2cce0378c2459dab706e3b
+dev: i4iphones
+Tag: purpose::extension, role::enduser
+Section: Tweaks
+Name: Facebook ++
+
+Package: com.cydiakurd.nostash
+Version: 2.2r-76
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: UnlimApps Inc.
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: com.yourepo.abo1bs.uasharedtoolsno-ads, com.hackyouriphone.uasharedtools, com.unlimapps.uasharedtools.stash, com.unlimapps.uasharedtools (<< 2.2r-36)
+Description: shared tools for unlimapps tweaks
+Filename: /com.cydiakurd.nostash_2.2r-76_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 23523450
+MD5sum: 5187ecbcfbb88ae7b74f06204f6ab256
+SHA1: ad20d97b084b53d61ff1fa56927ccc887e787383
+SHA256: 77b5893ad6679a87bebdb28a45be9aec73ac8c6a061c4ac710e6a2cd7ec21064
+Section: Development
+Name: uasharedtools (iOS 11)
+
+
+Package: com.cydiakurd.rocketbootstrap
+Version: 1.0.9
+Architecture: iphoneos-arm
+Maintainer: cydiakurd 
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
+Description: پشتگیری لایبێری دەکا کە رێگە بە تویکەکان ئەدا پەیوەندی کا لەگەل پڕۆسەکانی ساندبۆکس ( هەنی کات تویکەکانت لە بەشی سێتینگ دەرناکەون پێویستە ئەم تویکە هەبێ )
+Filename: /com.cydiakurd.rocketbootstrap_1.0.9_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 66964
+MD5sum: d6da64671cfb827be720f9cacff86e35
+SHA1: b5a45d81c544ce08ae18ad575bfd2a847867ea09
+SHA256: 59e3dd414cebbc3a05507b4d0fbdd3976e0c339a90c3c55ee40ec90a4a4bf1b7
+dev: rpetrich
+Tag: purpose::extension, role::developer
+Section: Tweaks
+Name: RocketBootstrap
+Installed-Size: 596
+
+
+
+
+Package: com.cydiakurd.hostscleaner
+Version: 1.4.1
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Thireus
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: sed, grep, coreutils
+Depiction: https://github.com/ahmadsorann/cydiakurd/blob/master/com.cydiakurd.hostscleaner_1.4.1_iphoneos-arm.deb
+Conflicts: com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker, com.thireus.untrustedhostsblocker9, com.thireus.untrustedhostsblockerexperimental, com.thireus.untrustedhostsblockermega, com.reddestdream.minimalhostsblocker, com.sukarodo.notavoke, com.ceadd.blockyou12, com.nathanaccidentally.systemhostsblocker, com.thireus.untrustedhostsblockermegaipv4, com.ichitaso.removeadstoggle, com.ichitaso.removeads, com.spinward.hostsfileflipswitch, com.clezz.restorehosts, ro.iphonews.adblock, com.rishanan.hostadblocker, miktr.switch.adblocker, miktr.switch.adblocker2, com.nathanaccidentally.mdnsflush
+Description: Restore your original /etc/hosts file 
+Filename: /com.cydiakurd.hostscleaner_1.4.1_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 1822
+MD5sum: fbfd13a63b788b016d76c825466fa9b6
+SHA1: ee088cc52dcc6d65a913682d1400fec71841dc4e
+SHA256: 92f660379ac22516d0d7d999e95acb547039dd4689e95e78ab58707a4d57ec89
+Section: Security
+Name: Hosts Cleaner
+
+
+Package: com.cydiakurd.instalauncher2
+Version: 1.7.1
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Jonathan Winger Lang 
+Depends: mobilesubstrate, preferenceloader, applist(>=1.5.15), firmware(>=12.1) 
+Description: کورکراوە ئەو ئەپانەی کە ئەتوێت بەکاریان بێنی وەک گەلەکسی ئدج لای ڕاستی شاشەکە ڕاکێشی لیستەکە بۆ ئەهێنێ 
+Filename: /com.cydiakurd.instalauncher2_1.7.1_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 346802
+MD5sum: 23932cabd8343d69cfdf8837843ebd4d
+SHA1: 9f18eaea53dd9cc3b91da5eb47f549511f0c2b69
+SHA256: e91ca9cf070f639b73f9557a00cc2874f42d99319a68bc428a6ed5499abd4d14
+Section: Tweaks
+Name: InstaLauncher 2
+
+Package: com.cydiakurd.ikeywi4
+Version: 4.1.4
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Hiraku
+Depends: preferenceloader, mobilesubstrate, firmware (>= 11.0), applist
+Conflicts: org.thebigboss.ikeywi, tw.hiraku.ikeywi2, tw.hiraku.ikeywi3, tw.hiraku.ikeywi3p, com.tw3pole.exkey, gsc.ipad
+Description: بۆ دانانی ژمارە لە سەروو کیبۆردەکە وەک ئەندرۆید هەروەها ئەتونی دەستکاری یان کەی لە بری ژمارە نوسینێک یا ئەمڕازێک دانێی کە خۆت بەکاری ئەهێنی  
+Filename: /com.cydiakurd.ikeywi4_4.1.4_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 381324
+MD5sum: e07c2d6a08aa63682ad2bdcdf6589fbc
+SHA1: 0422e1ee7930f3085efdb8ec8249f2f8de43fbbc
+SHA256: 69d30661239570b3612590b9ab78dcdcdc11229e036d8128ef3fe9cd5055699c
+Section: Tweaks
+Name: iKeywi 4 Cracked
+
+Package: com.cydiakurd.photoshopexpresshack
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: pxcex
+Depends: mobilesubstrate
+Description: HACK
+Filename: /com.cydiakurd.photoshopexpresshack_0.0.2_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 115196
+MD5sum: 78f82b5644043c07f442d91f7368a5db
+SHA1: 056d5af18b046c9a0af0ce4eb79a22e6e9ebc87b
+SHA256: 7f452f11136faa19a50a6a4fa78ef8ebb4d8ca58b09d1a6f631f05e589d97f69
+Section: Tweaks
+Name: Photoshop Express Hack
+
+Package: com.cydiakurd.truecallerpremiumgold
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: strejda603
+Depends: mobilesubstrate
+Description: hack
+Filename: /com.cydiakurd.truecallerpremiumgold_1.0.0_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 9792
+MD5sum: c31cfdd053186144aca26e7b4972f32b
+SHA1: 8535126372a336627015b7b01a5914e0758bd831
+SHA256: 5d52c81663d05eda0ba3820ed49b50b76a01ed2ad4ed8829ffd1de6132cd6275
+Section: Tweaks
+Name: Truecaller (Premium Gold)
+
+Package: com.cydiakurd.turbovpnhack
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: pxcex
+Depends: mobilesubstrate
+Filename: /com.cydiakurd.turbovpnhack_0.0.2_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 5614
+Installed-Size: 152
+MD5sum: c2f4648a4513cfdad92b92c3a4fae1eb
+SHA1: 3f50dd094116e331a01982223143ca9e99e712ad
+SHA256: c7d44b6aa12d209cbae32df30207b53b0b72187b0ec63ec869c98bd674045fda
+Section: Tweaks
+Name: Turbo VPN Hack
+
+
+
+
+Package: com.cydiakurd.whatsappdarkmode
+Version: 1.0.8
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Neo Ighodaro
+Depends: mobilesubstrate
+Description: زیاد کردنی دۆخی تاریک بۆ واتساپ
+Filename: /com.cydiakurd.whatsappdarkmode_1.0.8_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 58322
+MD5sum: 3fe49e22a667fb2220898e400dce6545
+SHA1: 96a124427f32a5bfa223999802656ab627cb5b12
+SHA256: bd73a80677d2d173dd7ff1ecb4c3a44137671fd878439584bbaee7d14bc1cdf9
+Section: Tweaks
+Name: WhatsApp Dark Mode
+
+Package: com.cydiakurd.picsarthack
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: pxcex
+Depends: mobilesubstrate
+Description: Hack
+Filename: /com.cydiakurd.picsarthack_0.0.2_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 82032
+Installed-Size: 288
+MD5sum: 1ad96f4e899f14f27f5c332eed2c7f1e
+SHA1: 9d9ba13cc596b16ec1185135e119f45ddd5da594
+SHA256: d20dc9addd94b3828fe73be8430f4ddec6a63fd51ff120df05767ae3ca22c46d
+Section: Tweaks
+Name: PicsArt Hack
+Tag: purpose::extension, compatible_max::ios12.2
+
+Package: com.cydiakurd.vpnproxymasterhack
+Version: 2.0.2
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: pxcex
+Depends: mobilesubstrate
+Description: hack
+Filename: /com.cydiakurd.vpnproxymasterhack_2.0.2_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 124130
+MD5sum: cc61b89c30555b234fa229d3d9f144e2
+SHA1: 3616ac050ba8783c4c4f43d49b1d23626d08d430
+SHA256: d26274f3ff5f8fc344f267ed23cdc1315df23925033a94c9cafd53d4b4b5de8b
+Section: Tweaks
+Name: VPN Proxy Master Hack
+
+
+
+Package: com.cydiakurd.reprovision
+Version: 0.5.2~EOL
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Matt Clarke
+Depends: firmware (>= 9.0)
+Description: بۆ تازە کردنەوەی بڕوانامەی ئەپەکان بەکار دێ وەک ئەنکەڤەر کاتێ بڕوانامەی تازەکرێتەوە مۆبایلەکەشت بکوژێتەوە جیلبریک نەمێنێ کێشە نابێ هەر ئیشئەکات 
+Filename: /com.cydiakurd.reprovision_0.5.2~EOL_iphoneos-arm.deb 
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 14391642
+MD5sum: 68ba170eff61e5c204a490038a284301
+SHA1: e3ab4438767ede80e3aed5f867d0dc277d59f32d
+SHA256: 9ba0f0d7c997e5a51ee033e78a6276253b80d6e25cc1097379e26cc4b27f0cdc
+Section: Tweaks
+Name: ReProvision
+
+Package: com.cydiakurd.volocohack
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: pxcex
+Depends: mobilesubstrate
+Description: hack
+Filename: /com.cydiakurd.volocohack_0.0.2_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 79354
+MD5sum: d355fac70dac5b2e5fea799b5227a6cb
+SHA1: 30fdf824438d3f005b3f20b2421fb60df375daee
+SHA256: 724c262b36e7c397f825976c9b7682f10f1967572b6fbac510dc7537f728df20
+Section: Tweaks
+Name: Voloco Hack
+
+
+Package: com.cydiakurd.starvpnhack
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: pxcex
+Depends: mobilesubstrate
+Description: hack
+Filename: /com.cydiakurd.starvpnhack_0.0.2_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 113690
+MD5sum: d59a17c7ac498863c4d99242b529a07c
+SHA1: 53a33ec9454d5e7b3ac64ff3d11ee1e1bf6a9a23
+SHA256: e49561e182bf07fb7a1e50525222e2fbb5bb8e3078a1d83e702f7a55b216176b
+Section: Tweaks
+Name: Star VPN Hack
+
+
+
+Package: com.cydiakurd.scannerpdfhack
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: pxcex
+Depends: mobilesubstrate
+Description: hack
+Filename: /com.cydiakurd.scannerpdfhack_0.0.2_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 114416
+MD5sum: bb43b84b7d2dfaf72b70d1c957e2838d
+SHA1: cdf114625503657fed0b664a57600d435afc798a
+SHA256: 7109bba93d161026e173b0bb4078b1c08644307819e473ba01406f1efa7eaf90
+Section: Tweaks
+Name: Scanner PDF Hack
+
+Package: com.cydiakurd.Yourubecer
+Version: 15.26.4
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: CYDIAKURD
+Depends: mobilesubstrate
+Description: بەکاریەت بۆ دابەزاندنی ڤیدیۆ کانی یوتوب بەسەرجەم کوالتیەکان و دەنگ و خستنی ناو بەشی فۆتۆ یا ئایتونس چەند تایبەت مەندییەکی تریش
+Filename: /com.cydiakurd.yourubecer_15.26.4_iphoneos-arm.deb 
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 88665364
+MD5sum: 7eec195246f5c764914364ea3392a819
+SHA1: 609cbe430f41a0b8cf3e86f7e4882ffb142f3f48
+SHA256: ca632b047257187642df8ab5a11a48894d24f2e7431b97fce858d2330198e57b
+Section: Tweaks
+Name: Youtube with Cercube l
+
+Package: com.cydiakurd.over
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: pxcex
+Depends: mobilesubstrate
+Description: hack
+Filename: /com.cydiakurd.over_1.0.3_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 122882
+MD5sum: 8c64557bdb7130197bdb62ffc21c0bac
+SHA1: 270f6608229274f527e58966b2008dac7982713c
+SHA256: e7ddb4266992ab676a95e177a4ac11e5755aa247ea9889400e9284601a0d00af
+Section: Tweaks 
+Name: OverHack
+
+Package: com.cydiakurd.commeno
+Version: 0.19
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Shelby IOS
+Depends: mobilesubstrate
+Description: مۆد مینیۆ پەپجی بەکار هێنانی ئەم هاکە لەسەر بەرپرسیاریتی خۆتە 
+Filename: /com.cydiakurd.commeno_0.19_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 171910
+MD5sum: d879c4113d3612c38d7fa97dc669a07f
+SHA1: 16afaea3aeed4bc67600fac2cf59eb83f584aabf
+SHA256: eb414304634c39a33141bec9036380e73a26269725122b0eaaeb71d54faa2102
+Section: Tweaks
+Name: PUBGMOD MENU By Shelby IOS
+
+Package: com.cydiakurd.mixhack
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: pxcex
+Depends: mobilesubstrate
+Description:  HACK
+Filename: /
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 83430
+MD5sum: 70c2e908bb124cc33c9d46b06d13dd32
+SHA1: 513a6f785b3b445949338fc1d5c1f9558e2fa5d2
+SHA256: 2076596bebfcca0cac62dd1ecd2207a81b269b1de71806b06c5f1cf829c26980
+Section: Tweaks
+Name: Mix Hack
+
+Package: com.cydiakurd.myiapcracker2
+Version: 0.0.5
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: stem grade
+Depends: mobilesubstrate
+Description: هاکی چەند بەرنامەک لە خۆ دەگرێ 
+Filename: /
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 82044
+MD5sum: 2573e6bd0031402e1decbc4cc8da19a8
+SHA1: 1c81e24eeba9e7a68287ef8bdb57bbcd62ffe90a
+SHA256: 96c4eaccbb711432527772458082c2ef6e11789559cfb63c12effbadf3246cf9
+Section: Tweaks
+Name: My IAP CRACKER 2
+
+Package: com.cydiakurd.kinemasterhack
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: pxcex
+Depends: mobilesubstrate
+Description: kine master hack
+Filename: /com.cydiakurd.kinemasterhack_0.0.4_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 114956
+MD5sum: 480c9591869b45f4cf7330515137a419
+SHA1: d79d1135519279fafa215aeb4641c952fde51b6f
+SHA256: 7e431aa62d1294ace030c0ac1f376f635fa2199878862429bdbf6783b87fc15a
+Section: Tweaks
+Name: KineMaster Hack
+
+Package: com.cydiakurd.instanshack
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: pxcex
+Depends: mobilesubstrate
+Description: hack
+Filename: /com.cydiakurd.instanshack_1.0.2_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 83254
+MD5sum: 1d79d9ca85326333b8561711d137f2a4
+SHA1: e9d56275d1e8ac3805cf290c76e13afaaafe70b7
+SHA256: 6d6b2915c88727e5a0a09336213364c648fc18e7169a716db5d17202f82f81c6
+Section: Tweaks
+Name: Instans Hack
+
+Package: com.cydiakurd.mugihack
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: pxcex
+Depends: mobilesubstrate
+Description: hack
+Filename: /com.cydiakurd.mugihack_0.0.2_iphoneos-arm
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 113716
+MD5sum: 4946974999f0f5c69026e04e5c42d54d
+SHA1: 61f90f65ea58ff62a859a001ff1b068d2be1a0ca
+SHA256: 7190363aa949ec4afca24847374d8b7b33be4b4f1ed04cb2e4330ca1e1c5cf6d
+Section: Tweaks
+Name: Magi+ Hack
+
+Package: com.cydiakurd.comcom
+Version: 0.19.0-1
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: qwq_cn and @QWLeoQW
+Depends: mobilesubstrate
+Description: بەکار هێنانی ئەم هاکە لەسەر بەرپرسیارێتی خۆتە
+Filename: /com.cydiakurd.comcom_0.19.0-1_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 282938
+MD5sum: bd803b5c82b2e62adb8c70394c86cb12
+SHA1: d77a4a98e0619c34d3fb1a1b157a86fe826dfefb
+SHA256: 8e796e0537c05997ece3d075d14572fcf753ea044e26928d6f632062f12f230e
+Section: Games
+Name: QWQ PUBG HACK 0.19.0
+
+
+Package: com.cydiakurd.crackerxinew
+Version: 1.1.16
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: SarahH12099
+Depends: firmware (>= 11.0)
+Description: Decrypts iOS Apps
+Filename: /com.cydiakurd.crackerxinew_1.1.16_iphoneos-arm.den
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 9960906
+MD5sum: 2fd4faecf290f0720952e5ceb260b0e7
+SHA1: d0bf92e6f56ceea536bf759dea9575155f2c64e8
+SHA256: 316936789e39b1b45cb0c858b3d749fb66fa278936a7e5388e9c7f6c60e08d93
+Section: Tweaks
+Name: CrackerXI+ New
+
+
+Package: com.cydiakurd.pixaloophack
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: iA7myd
+Depends: mobilesubstrate
+Description: HACK
+Filename: /com.cydiakurd.pixaloophack_0.0.1-1+debug_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 4430
+MD5sum: 55982ba54145a57567476c55e333cec0
+SHA1: 47953c82577170d8daaaa78db998ca6092da90b9
+SHA256: aac6266eac03c6ff47390567e6c8ba1659e0daceb2c79a09942101c0eb86b575
+Section: APPS HACK
+Name: Pixaloop Hack
+
+Package: com.cydiakurd.facetunes2
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: DzMohaipa
+Depends: mobilesubstrate
+Description: Premium
+Filename: /com.cydiakurd.facetunes2_0.0.1-1_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 7124
+MD5sum: 72b04d17e19284cf32f6156e9add3dab
+SHA1: c719d705606f07ad41c57e12b16732f12b2b4f11
+SHA256: 4f49ad4992c51fb0635d513481fada59d50cd8cb23eb6b7d1aaf62ddfc3fa091
+Section: APPS HACK
+Name: Facetunes2
+
+Package: com.cydiakurd.cutecutpro
+Version: 1.0.0-2
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: DzMohaipa
+Depends: mobilesubstrate
+Description: PRO
+Filename: /com.cydiakurd.cutecutpro_1.0.0-2_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 6778
+MD5sum: 044bc73c8d4cfd559b94c945d4331161
+SHA1: 2909924b3b13bc383530444b027c040f9cfbb346
+SHA256: dcdce05620f8736ef3c4e0bb6819808222b0a83786f286e0d79730c4a1e4bf97
+Section: APPS HACK
+Name: CuteCutPro
+
+
+Package: com.cydiakurd.cracktool4
+Version: 4.0~beta9c
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: julioverne
+Depends: ldid (>= 2.1.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
+Description: بۆ کراک کردنی هەندێک تویک
+Filename: /
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 517118
+MD5sum: 541ff65312f004801953e9a89f0036e7
+SHA1: f9e9198571ea65a040fbffa805c0098a8a9c8019
+SHA256: f7bfdf181f6910b81f9267720d4ad6a17010f26c8f71be1139977a6022f0172b
+Section: Tweaks
+Name: CrackTool4 (iOS 12-13) KURDISH
+
+
+
+Package: com.cydiakurd.callbarxsios12rus
+Version: 3.2-143k
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Elias Limneos
+Depends: mobilesubstrate, preferenceloader, com.yourepo.mohadu31.simpleactivationactions, firmware ( >= 12), sedfix, wget
+ 
+Description: بەکار یەت بۆ گۆڕینی شێوازی تەلەفون کردن و هاتن کراوە بە زمانی کوردی
+Filename: /com.cydiakurd.callbarxsios12rus_3.2-143k_iphoneos-arm.deb 
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 514204
+MD5sum: 875ab9dd80fc0166f301621518a2e0b2
+SHA1: c35843d0a51ecbad4b8076b64a739044413e50d0
+SHA256: 7c1bd9a7eac751728752c5078fc926d9a414fe6ca959c30f333aa27522eceaa7
+Section: Tweaks
+Name: CallBar XS (iOS 12/13) Cracked KURDISH
+Icon: https://www.limneos.net/cydia/packageImages/net.limneos.callbarxs/icon.png?fe=18
+ 
+
+Package: com.cydiakurd.360vpn
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: DzMohaipa
+Depends: mobilesubstrate
+Description: HACK
+Filename: /com.cydiakurd.360vpn_0.0.2_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 121028
+MD5sum: 8bb9c43a4586929f1f13aa8d0342014c
+SHA1: 0fa8c0b38f59651e86cc5312f31d33c4b626ba2b
+SHA256: 0ca9a1c13599aed4389982a7eecd410cb1f73c0f5bd5fe21c7155840aa615043
+Section: Tweaks 
+Name: 360vpn
+
+Package: com.cydiakurd.localiapstore
+Version: 1.4-4
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: anondev
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
+Description: بۆ کڕینەوەی شتی ناو ئەپکان یان هاک کردنیان 
+Filename: /com.cydiakurd.localiapstore_1.4-4_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 70668
+MD5sum: bd4546e22d72d77cc09d117a02ef7a87
+SHA1: 6886d65e0a590ce8f83de6dc58caff61d2d500b6
+SHA256: ba28777180f241e37467a39ca1465f389cd4c438cdc6818a7a872cf25c4633c1
+Section: Tweaks
+Name: LocalIAPStore
+
+Package: com.cydiakurd.preferenceloader
+Version: 2.2.5
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Sam Bingner
+Depends: mobilesubstrate
+description: load preferences in style
+Filename: / com.cydiakurd.preferenceloader_2.2.5_iphoneos-arm.deb
+Size: 61890
+MD5sum: 85cb4ced38348650fae13bb2d902572b
+SHA1: 969bb1cc85a511aa7827733965320f4ec3a5c0cf
+SHA256: 694e289ce0f6f2119d4c12d7df9723ef276daa095b11d6379a1400bb38b8a28f
+Section: System
+Name: PreferenceLoader
+
+Package: com.cydiakurd.zip
+Priority: important
+Version: 2.32-1
+Architecture: iphoneos-arm
+Multi-Arch: foreign
+Maintainer: CYDIAKURD
+Author:
+Depends: 
+Pre-Depends: dpkg (>= 1.14.25-8)
+description: standard Windows compression tool
+Filename: /zip_2.32-1_iphoneos-arm.deb
+Size: 52214
+Installed-Size: 728
+MD5sum: b1cef31bfb417f23e93861159176af0b
+SHA1: 32ea892c1964f8f6893b0d157b5497aab3769588
+SHA256: 55b500e5750a7fe9395f8571749c0e04a90111b271832e552b6a3cf64324393c
+Section: Archiving
+Name: zip
+
+Package: com.cydiakurd.unzip
+Priority: important
+Version: 6.0+deb9u1-1
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD 
+Author:
+Depends: 
+Pre-Depends: dpkg (>= 1.14.25-8)
+description: de-compesses files in zip format
+Filename: /unzip_6.0+deb9u1-1_iphoneos-arm.deb
+Size: 90196
+MD5sum: 75f0c28bdfd5dd04c1f5d48ba9f8860f
+SHA1: 6fc3212fd33d1ce912f4e7fb810c6be38594149c
+SHA256: 3ad2e6282193a521dba00c8f79c80661cf4f96064f1ba75e56ba80e7ee512766
+Section: Archiving
+Installed-Size: 808
+Name: unzip
+
+Package: com.cydiakurd.unrar
+Version: 5.6.4-1
+Priority: optional
+Architecture: iphoneos-arm
+Multi-Arch: foreign
+Installed-Size: 736
+Maintainer: CYDIAKURD
+Author:
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: 
+description: de-compresses files in rar format
+Filename: /unrar_5.6.4-1_iphoneos-arm.deb
+Size: 118130
+MD5sum: 3ec416b41c2fa800cd2cbd957213cdbf
+SHA1: b1be3febc8b517410eef1ca2f29869d28c857c00
+SHA256: 7e9dacd328519d4e9a0c0a0940213621530ae5f7677c1327de00952425e51858
+Section: Archiving
+Name: unrar
+Homepage: http://www.rarlab.com/rar_add.htm
+
+
+
+Package: com.cydiakurd.p7zip
+Priority: optional
+Version: 16.02-1
+Architecture: iphoneos-arm
+Multi-Arch: foreign
+Maintainer: CYDIAKURD
+Author: 
+Depends: 
+Installed-Size: 9080
+description: claims to be a good compressor
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: /p7zip_16.02-1_iphoneos-arm.deb
+Size: 930130
+MD5sum: 6661ea346cd9f07b626384869fbab414
+SHA1: 1f1bd63961328c1a33096abaacdf1f8ca7934eb8
+SHA256: cda97749c51a46b56f41276b792496492e5dc9f1fed3efed2963f121ceff99af
+Section: Archiving
+Name: p7zip
+
+
+
+Package: com.cydiakurd1.iosgodscomcriticalopsfree
+Version: 0.6.6-5
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: caoyin
+Depends: mobilesubstrate, preferenceloader
+description: هاکی یاری کریتیکاڵ ئۆپس 
+Filename: /com.cydiakurd1.iosgodscomcriticalopsfree_0.6.6-5_iphoneos-arm.deb
+Size: 15138618
+MD5sum: bc3e816fdddd4d5f2cdb910b0047f07d
+SHA1: d740f4d174017bceb0649d58a4afadf5a3adb039
+SHA256: 002d47c669d93ee33c609a745470bdc8d49b6c545eec4a9cb644a28515f749e9
+Section: Tweaks
+Name: Critical Ops OP Cheats
+
+Package: com.cydiakurd.videostar
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: pxcex
+Depends: mobilesubstrate
+description: هاکی پریمیەم
+Filename: /com.cydiakurd.videostar_1.0.2_iphoneos-arm.deb
+Size: 129338
+MD5sum: 786515256d4d6abad8e0a6226283fc7d
+SHA1: 12d0767d3ab51e3222a1cf19eba5861b884dbadd
+SHA256: 4b618b9358a1f7bc3f95a6c0c6d26cbbff38751083b707343dafddc02663435d
+Section: Tweaks
+Name: Video Star Hack
+
+Package: com.cydiakurd.smashhithack
+Version: 1.4.0-2
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: ZahirSher
+Depends: mobilesubstrate, preferenceloader
+description: Unlimited Balls - Balls increase 
+Filename: /com.cydiakurd.smashhithack_1.4.0-2_iphoneos-arm.deb
+Size: 283942
+MD5sum: 4a3b5b167c13f3d22f49dcea35f6baa1
+SHA1: 63b55bdfcb687ec0a85e1c7b908c01ccb07a437f
+SHA256: 7cb957b8d04ca00e626dba27f2304caea48ede893bacc929fdd89de64ef08fc3
+Section: Tweaks
+Name: Smash Hit Cheats
+
+Package: com.cydiakurd.otadisabler
+Version: 0.1-7
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: ichitaso
+Depends: firmware (>= 9.0), system-cmds, mobilesubstrate
+description: Delete and disable OTA badge
+Filename: /com.cydiakurd.otadisabler_0.1-7_iphoneos-arm.deb
+Size: 28936
+MD5sum:
+SHA1:
+SHA256:
+Section: Tweaks
+Name: OTADisabler
+
+
+
+Package: com.cydiakurd.livephotosenablerios9
+Version: 1.0.0-4
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: evilgoldfish
+Depends: firmware (>= 9.0), mobilesubstrate
+description: لایڤ فۆتۆ بۆ مۆبایلە کۆنەکان پشتگیری وەشانی ٩
+Filename: /com.cydiakurd.livephotosenablerios9_1.0.0-4_iphoneos-arm.deb
+Size: 6152
+MD5sum: ca59163fb96407303049841936c5a483
+SHA1: 50c52304800df9d9a741c9f19431c1d1a16ec5cd
+SHA256: 50c52304800df9d9a741c9f19431c1d1a16ec5cd
+Section: apps cracked
+Name: Live Photos Enabler iOS9
+
+
+
+Package: com.cydiakurd.infltrpro
+Version: 0.0.1-13
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: iTheGentle
+Depends: firmware (>=9.3), mobilesubstrate
+description: Get All Infltr's Pro Features!
+Filename: /com.cydiakurd.infltrpro_0.0.1-13_iphoneos-arm.deb
+Size: 10158
+MD5sum: ec6d359b03a18b7069a8ce2a3542c97d
+SHA1: 9c8a4486920d082654f00496e68621fb1fa83051
+SHA256: 16a18f88ee100414ad627efe20e973f32cf01606f74cc7e302818faf636a8d64
+Section: Tweaks
+Name: InfltrPro
+
+
+
+Package: com.cydiakurd.imoplus
+Version: 1.0-4
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: DzMohaipa
+Depends: mobilesubstrate
+description: Unlock All premium features
+Filename: /com.cydiakurd.imoplus_1.0-4_iphoneos-arm.deb
+Size: 7364
+MD5sum: 288c255a596e6dd1b8a4cf39537b3dd0
+SHA1: 951f1528ac66ad3bac0213ec6f0fa5e4cb9a36f9
+SHA256: 4b711f947df2a476ebb1f08d1529fadf49fa04a226fc17b79809a707e09eaa92
+Section: Tweaks
+Name: ImoPlus
+
+
+
+Package: com.cydiakurd.icleanerpro
+Version: 7.8.3
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Ivano Bilenchi
+Depends: firmware (>= 4.0), apt | apt7, findutils
+description: بەکار یەت بۆ پاک کردنەوەی ئامێرەکا لە فایلی زیادە و بێسوود کە جێگایەکی زۆر لە گێگا بایتی مۆبایلەکەت ئەبا کراوە بە زمانی کوردی لە لایەن سیدیا کورد بۆ هەڵبژاردنی زمانی کوردی لە سێتینگ کەوە بیخەرە سەر کوردی 
+Filename: /com.cydiakurd.icleanerpro_7.8.3_iphoneos-arm.deb
+Size: 9610880
+MD5sum: 0067bc9947b7f94bd20c02df3c63ba34
+SHA1: e8a553c43d510bf2f98a7745b2311d2c3f17f1a5
+SHA256: 991f36154d7a0e898f60356965bd263003b92d4c5ca26cffda3caedf7fb8e3fa
+Section: Tweaks
+Name: iCleaner Pro
+Icon: file:///Applications/iCleaner.app/Icon.png
+ 
+
+Package: com.cydiakurd.followershack
+Version: 2.5.2-4
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: techprohacker
+Depends: mobilesubstrate
+description: Followers for Instagram v2.5.2 +6 Hacks
+Filename: /com.cydiakurd.followershack_2.5.2-4_iphoneos-arm.deb
+Size: 5686
+MD5sum: 6225e6b3c01247e5b610be14d07affcc
+SHA1: 04b90b14c765f04dfef7b8117acde34171f20908
+SHA256: f7dfc69b8cc3062eefd587055cbde88524d2ea5de648ab77b93ca042c2bd3d8e
+Section: apps cracked
+Name: Followers for Instagram v2.5.2 +6 Hacks
+
+Package: com.cydiakurd.youcammakeuppp
+Version: 1.0.0.1
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: SarahH12099
+Depends: mobilesubstrate, firmware (>= 10.0), 
+description: hack premium 
+Filename: /com.cydiakurd.youcammakeuppp_1.0.0.1_iphoneos-arm.deb
+Size: 7042
+MD5sum: d00cd48e536ed3f92248b4a213b09e48
+SHA1: d1fd2a91a46f2240579570dc2bb0e77e3ca18466
+SHA256: eeb5e8518b7d5270eaf73d6f486e07cd3dabbf417052c48e8c8101a582a8f76a
+Section: Tweaks
+Name: YouCam Makeup++
+
+Package: com.cydiakurd.videostar
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: pxcex
+Depends: mobilesubstrate
+description: Video Star Gold Pass (All Access Pass)
+Filename: /com.cydiakurd.videostar_1.0.2_iphoneos-arm.deb
+Size: 129338
+MD5sum: 786515256d4d6abad8e0a6226283fc7d
+SHA1: 12d0767d3ab51e3222a1cf19eba5861b884dbadd
+SHA256: 4b618b9358a1f7bc3f95a6c0c6d26cbbff38751083b707343dafddc02663435d
+Section: Tweaks
+Name: Video Star Hack
+
+Package: com.cydiakurd.videofx
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: DzMohaipa
+Depends: mobilesubstrate
+description: Unlock Premium features
+Filename: /com.cydiakurd.videofx_1.0-1_iphoneos-arm.deb
+Size: 198618
+MD5sum: ab881ebc72573611456797c79c9ec15a
+SHA1: 8c42f42e22a9885386ae008017f51ee233e601fc
+SHA256: d890a874162258ebda83d09a0cd15aca8cb07b2a5cbe7d2ad60a198fe84c4f22
+Section: Tweaks 
+Name: VideoFx
+
+Package: com.cydiakurd.tutuapphack
+Version: 1.1-2
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: @DzMohaipa
+Depends: mobilesubstrate
+description: Premium Activated
+Filename: /com.cydiakurd.tutuapphack_1.1-2_iphoneos-arm.deb
+Size: 5638
+MD5sum: 3a8b0e1ab9d4c8909ca2b58da704af44
+SHA1: 7fb3089f18cd6e6ddf68ae8bbc8300904e86168c
+SHA256: b829d5b11bac177813d5e163ee7673adbb7b7b9e057707725ed76b474a3f860e
+Section: Tweaks
+Name: TutuApp Hacked
+
+Package: com.cydiakurd.tiktokgod
+Version: 1.9.1
+Architecture: iphoneos-arm
+Maintainer:  Hao Nguyen
+Author:  Hao Nguyen
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.3.0), firmware (>= 10)
+description: داونلۆد کردن و گۆڕینی ناوچە و زۆر شتی تر هەمووی کراوە بە زمانی کوردی 
+Filename: /com.cydiakurd.tiktokgod_1.9.1_iphoneos-arm.deb
+Size: 69472
+MD5sum: aef9f339ac5c8e039c3005feddd84538
+SHA1: b9dc0f66c3dad24ab27dfdf53f56b11aed6458da
+SHA256: 1bc82c2c399bc4ecb5925e0e3c28309f4e00e73d16de06869b3417d82d986707
+Section: Tweaks
+Name: TikTok God
+Installed-Size: 404
+
+Package: com.cydiakurd.fbpp
+Version: 1.6r-38
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: UnlimApps Inc 
+Depends: firmware (>= 5.0), mobilesubstrate, com.unlimapps.uasharedtools (>= 2.2b-20)
+description:  زیادکردنی تایبەت مەندییەکانی پلەس پلەس بۆ فەیسبووک پشتگیری تا وەشانی ١٣.٦.١ 
+Filename: /com.cydiakurd.fbpp_1.6r-38_iphoneos-arm.deb
+Size: 2605478
+MD5sum: 18defbeb954783b0eab834d26b52edb9
+SHA1: 461748dddabd90ebec7561f73e267b4109210fa7
+SHA256: 4c2cdf2254416b88ae2aff5090306cba3cb804019ba9000b0653723aa4d7d019
+Section: Tweaks 
+Name: Facebook ++
+
+Package: cydiakurd.curl
+Version: 7.65.0-1
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: cydiakurd
+Depends: libnghttp2-14, libssh2, libssl1.0 
+description: 
+Filename: /cydiakurd.curl_7.65.0-1_iphoneos-arm.deb
+Size: 402090
+MD5sum: 723d8a37a0bcdf0f1ee3a24115da5cb0
+SHA1: 308b4763d62b5b3d204d2ac7951c2bae561c4afc
+SHA256: 3eca4f0920de7f867415bb8eae409c3c8c64911a75dfafbda2d4d84cdba8bc0d
+Section: Networking
+Pre-Depends: dpkg (>= 1.14.25-8)
+Priority: standard
+Name: curl
+
+Package: com.cydiakurd.xenhtml
+Version: 2.0~beta4
+Priority: optional
+Filename: /com.cydiakurd.xenhtml_2.0~beta4_iphoneos-arm.deb
+MD5sum:  5ecf64f9d0db9a64da0160fef7fdcf6e
+Section: System
+Maintainer: cydiakurd 
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox, com.rpetrich.rocketbootstrap
+Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3,
+com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml, com.junesiphone.xeninfo, com.modmyi.widgetweather3, com.matchstic.infostats2, com.matchstic.infostats
+Name: Xen HTML
+Author: Matt Clarke 
+Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/IconPackageManager.png
+
+
+Package: com.cydiakurd.wget
+Version: 1.19.5-2
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Sam Bingner
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: gettext, libssl1.0
+description: 
+Filename: /com.cydiakurd.wget_1.19.5-2_iphoneos-arm.deb
+Size: 256182
+MD5sum: 832b5f671010b9a2e0456d158f919ed8
+SHA1: ec54a88c8cb44dfb23d7d24a9985be2a6e672c9b
+SHA256: 6c006273532070c95dbfc0f893d9a221f6f671eb437aea5c2aea326243be78f0
+Name: wget
+Priority: important
+Section: Networking
+
+Package: com.cydiakurd.watusitools
+Version: 2.1.26
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Fouad Raheb 
+Depends: firmware (>= 9.0), darwintools, github.io.gfp.watusi
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+description: 
+Filename: /com.cydiakurd.watusitools_2.1.26_iphoneos-arm.deb
+Size: 13817328
+MD5sum: 84a539a06ccbc77745aa243c6994c9f1
+SHA1: c7a26951d8a2786446eff14497a1731409b5844d
+SHA256: 9f2230e13079652b4bc2f05badec1f382e99133b686afafda007d65d7edcb92f
+Section: Development
+Name: WatusiTools
+
+Package: com.cydiakurd.nostash
+Version: 2.2r-94 
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: UnlimApps Inc
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: com.yourepo.abo1bs.uasharedtoolsno-ads, com.hackyouriphone.uasharedtools, com.unlimapps.uasharedtools.stash, com.unlimapps.uasharedtools (<< 2.2r-36)
+Provides: com.unlimapps.uasharedtools.virtual
+Replaces: com.unlimapps.uasharedtools.stash, com.unlimapps.uasharedtools (<< 2.2r-36)
+description: 
+Filename: /com.cydiakurd.nostash_2.2r-94_iphoneos-arm.deb
+Size: 19769106
+MD5sum: 2c4b86985e7831aad268e233a7ce84e4
+SHA1: 39caf5bd07acc8c8c4681e1b7a15eb2195c0dca4
+SHA256: d27affa23735fc1059015f34b2bf09e19539a7516f731127b5ccc19bc6554de6
+Section: Development
+Name: uasharedtools (iOS 11 12)
+Tag: purpose::library, role::developer
+
+Package: com.cydiakurd.libsparkapplist
+Version: 1.0.9
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Spark
+Depends: 
+description: 
+Filename: /com.cydiakurd.libsparkapplist_1.0.9_iphoneos-arm.deb
+Size: 54686
+MD5sum: 45f78ba009aac2c82fae81baefc6a1c3
+SHA1: f12b9aa708192eb81b1209b1fb111104ffbe370c
+SHA256: 3afe547468e5f6bd20c5a2199259a8434565d8342166fb0a64ad92fc5476a820
+Section: System
+Name: libSparkAppList
+
+
+Package: com.cydiakurd.libnghttp2-14
+Version: 1.38.0-1
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: classic
+Pre-Depends: dpkg (>= 1.14.25-8)
+Conflicts: nghttp2, libnghttp2
+Provides: nghttp2, libnghttp2
+Replaces: nghttp2, libnghttp2
+description: 
+Filename: /com.cydiakurd.libnghttp2-14_1.38.0-1_iphoneos-arm.deb
+Size: 71330
+MD5sum:
+SHA1:
+SHA256:
+Section: Development
+Name: libnghttp2-14
+
+
+Package: com.cydiakurd.libiarrays
+Version: 1.0.12-beta-1k
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: IArrays
+Depends: 
+Pre-Depends: firmware (>=7.0)
+Conflicts: com.iarrays.libiarrays1
+description: 
+Filename: /com.cydiakurd.libgraphite_2.2.4_iphoneos-arm.deb
+Size: 292862
+MD5sum: 736fee2be4f4b02b8eca8da4d28a0d37
+SHA1: 3822307a4c44872fe8d094aa016ddfa9ce9f919d
+SHA256: 68464e799cc44ee7202908455fc16b4b32af48881565d8df90ad717ad26f2749
+Section: Development
+Name: libiarrays
+
+
+Package: com.cydiakurd.libgraphite
+Version: 2.2.4
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Geometric Software
+Depends: firmware (>= 10.0)
+Conflicts: com.muris.libgraphite
+Provides: com.muris.libgraphite (= 2.2.3)
+Replaces: com.muris.libgraphite
+description: 
+Filename: /com.cydiakurd.libgraphite_2.2.4_iphoneos-arm.deb
+Size: 395996
+MD5sum: 84a1f00923b5c5c807516054bde99514
+SHA1: 45d1bd1d2c11c17fa22ae3c3f8a7d24ea9d8cfdd
+SHA256: 72adc4658349102e920cbf79167379284f2b40f24a8cfee422ee10f750a33a46
+Section: Development
+Name: libgraphite
+
+
+Package: com.cydiakurd.libcspreferences
+Version: 1.4.7
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: CreatureSurvive
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate, preferenceloader
+description: 
+Filename: /com.cydiakurd.libcspreferences_1.4.7_iphoneos-arm.deb
+Size: 1495382 
+MD5sum: a8fc728982764d29697bfdd22b27bbfe
+SHA1: ac4333fd4b1210937cf2bcd6956e2ca319edb676
+SHA256: 37914c917e5ed1ee2721fc82718ddc65fe9eb50eb30acd02dd4ab96e57675ad6
+Section: System
+Name: libcspreferences 
+
+
+Package: com.cydiakurd.jodebox
+Version: 4.0.4
+Section: Development
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Name: JODebox
+Author: Jalal Ouraigua <ouraigua@icloud.com>
+Sponsor: xRepo.co <http://xRepo.co>
+Icon: file:///Library/PreferenceBundles/JODebox.bundle/icon@2x.png
+Tag: purpose::extension, role::developer, compatible::ios12:
+Pre-Depends: firmware (>= 12.2)
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.6), org.swift.libswift (>= 5.0)
+Replaces: com.ouraigua.old.jodebox
+description: 
+Filename: /com.cydiakurd.jodebox_4.0.4_iphoneos-arm.deb
+Size: 463472
+MD5sum: b88ab8c6c5e83e2c435a3f2612766174
+SHA1: cbc18199497cb0f0a460a51b6f69ac8439d95d8a
+SHA256: 78bc49587c3f4c9e0d0f069e6f3a4fb5632e34fb62fd96b215699ba4f666d223
+
+
+
+
+Package: com.cydiakurd.graphite
+Name: Graphite Library
+Architecture: iphoneos-arm
+Description: powerful library for iOS development
+Maintainer: cydiakurd
+Author: Geometric Software
+Section: Development
+Tag: purpose::library role::developer
+Depends: firmware(>=13.0)
+Conflicts: com.muris.libgraphite
+Filename: /com.cydiakurd.graphite_1.1.1_iphoneos-arm.deb
+Version: 1.1.1
+Installed-Size: 1032
+Size: 251706
+MD5sum: 6668d238ec42ff43c3f89ad3dc3eb744
+SHA1: 783caaf8355414c204b51db4f0d2554b5e774857 
+SHA256: 73851954ae52a3e65af046eab02e580e614a8e4b7fd91a69bc65dfa6302a781a 
+
+
+Package: com.cydiakurd.Gesto
+Name: Gesto
+Version: 1.3.2
+Description: Gesto enhances iOS's multitasking view, making it powerful yet familiar, with a native-looking design and gorgeous animations.
+Section: System
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: 
+Replaces: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: gabriele filipponi
+dev: gabriele filipponi
+Homepage:
+Depiction: 
+Maintainer: Gabriele Filipponi & Alessandro Chiarlitti (aesign)
+Filename: /com.cydiakurd.Gesto_1.3.2_iphoneos-arm.deb
+Size: 1156050
+MD5sum: 8eb33d7b724ff648313b66bf5beb9e2e
+SHA1: 63550d37cee325a21cd367ceb4428449298d49f8 
+SHA256: 63d48d663c29b0fcdbf68840b1ce287bea1af575f4518a0e082d22281622993b
+
+
+
+Package: com.cydiakurd.crux
+Version: 1.0.0
+Section: System
+Maintainer: cydiakurd
+Depends: firmware (>= 9.0)
+Architecture: iphoneos-arm
+Installed-Size: 68
+Name: crux
+Author: CreatureSurvive <support@creaturecoding.com>
+Icon: https://api.ios-repo-updates.com/images/repositories/creaturesurvive-s.png
+Filename: /com.cydiakurd.crux_1.0.0_iphoneos-arm.deb
+Size: 3018
+MD5sum: 7de1abd39941d94b2e17d209e74eaf65
+SHA1: 47506a09a7d0402aaae527d9114808d6f29c9513
+SHA256: ded8bca6dc994d86e3e24eae864d81cdf690c3b576d6221ab7d041250c3de761
+
+
+Package: com.cydiakurd.appinst
+Name: appinst (App Installer)
+Priority: standard
+Pre-Depends: firmware (>= 5.0)
+Depends: net.angelxwind.appsyncunified (>= 5.1)
+Architecture: iphoneos-arm
+Description: Install IPAs from the command line
+Maintainer: Karen/„ÅÇ„Åë„Åø <karen@akemi.ai>
+Author: Linus Yang <laokongzi+appsync@gmail.com>
+Section: Utilities
+Tag: role::enduser, purpose::console
+Conflicts: com.sull.appinstaller
+Version: 1.1.3
+Installed-Size: 392
+Filename: /com.cydiakurd.appinst_1.1.3_iphoneos-arm.deb
+Size: 119280
+MD5sum: 09280aa543fd8d4410108dd59ba6d724
+SHA1: 553f9b5a9018a28d4267df264883874cb8d9b5cc
+SHA256: 043911e9a0c52c831ed971247b56846aff0bc2375995d961a0a4ab4084767b68
+
+
+
+
+
+
+Package: com.cydiakurd.libhdev
+Version: 4.5.0
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Hao Nguyen
+Depends: mobilesubstrate, preferenceloader, firmware (>= 10)
+description: system requirements 
+Filename: /com.haoict.libhdev_4.5.0_iphoneos-arm.deb
+Size: 45172
+MD5sum: 8f1576fcd8b6ec3263c73ac48b365e5d
+SHA1: c7b6a86124e34d2c77daa90eb3b855fceb352126
+SHA256: 862bdd9616684e6e20b74ee967adeb87b1f203e62cfdf4c18406a0acdaa8e647
+Section: System
+Name: libhdev
+
+
+Package: com.cydiakurd.cercube
+Version: 5.2.2
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Majd Alfhaily
+Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+description: bo dabazandni video youtube ba sarjam quality kan mp3-1080 ios 13.6.1
+Filename: /com.cydiakurd.cercube_5.2.2_iphoneos-arm.deb
+Size: 5636718
+MD5sum: e0ac7307df25931b852ee41bd73ae713
+SHA1: 7d0830b071b083745aebd3e0d9a778bb03063839
+SHA256: f1aa6c365f4f68d1dab804454ee4770690be15e56406fddf00e0c55897b1f96f
+Section: Tweaks
+Name: cercube for Youtube
+
+Package: com.cydiakurd.blanca
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Author: Phoenix Dev
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 13.0)
+Description: بەکار یەت بۆ گۆڕینی شێوازی ئاگادار کەرەوە و دۆک و گۆرانی لێدەر 
+Filename: /
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 79030
+Installed-Size: 452
+MD5sum: 93b8c5dd2dfbbfe11251a49dd2aaca8b
+SHA1: d06b605cb4597cd4d830ddacbb770bbcd7fe2948
+SHA256: cfbc3f9e676eba328b46a0040b1d6cfb99ef756a7d15bb0547cd10187116d64f
+Section: Tweaks
+Name: Blanca KURDISH
+
+
+
+Package: com.cydiakurd.iosgodscomangrybirds2
+Version: 3-2.8.3
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Filename: /com.cydiakurd.iosgodscomangrybirds2_2.8.3-3_iphoneos-arm.deb
+Size: 13781524
+MD5sum: c69fca415637992e918e8e4b1624687d
+SHA1: e8717b71c0b50d84230228a6b34b4f363569884d
+SHA256: d15bc28c0346b6d1de0f5e409b0e88a7ff0b32f5150a9b457aad9ca97c4e0e84
+Section: Tweaks
+Description: hack gems
+Author: iosgods 
+Name: angry bird 2 hack
+
+Package: com.cydiakurd.libsparkcolourpicker
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Filename: /com.cydiakurd.libsparkcolourpicker_1.0.0_iphoneos-arm.deb
+Size: 122032
+MD5sum: ef369b6e267514ede56aab1c3a562d60
+SHA1: 89d9da630baef776ae62140833dc88b98597db10
+SHA256: 29d18f8edc1f18c9db37c25d740c00892bb9d714e32999ab07ad09a41b4e4aca
+Section: Tweaks
+Description: hack 
+Author: spark
+Name: libsparkcolourpicker
+
+
+
+
+Package: com.cydiakurd.beatmakerhack
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Filename: /com.cydiakurd.beatmakerhack_1.0.2_iphoneos-arm.deb
+Size: 88740
+MD5sum: f5f2e32c15c23a3e4f5ab41f70c43656
+SHA1: 40e5cdd814d516e72d2dc468bfd8ff8e836ba46e
+SHA256: 297e6a64da2030afdf6d355ea3a6ee77fad031602083c1b0a267d36f88ea5cd5
+Section: Tweaks
+Description: HACK .........
+Author: pcex
+Name: beat maker hack
+
+
+Package: com.cydiakurd.calmhack 
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Filename: /com.cydiakurd.calmhack_0.0.2_iphoneos-arm.deb
+Size: 81556
+MD5sum: 2160ccca2e3083c4a1fa8b9ed97b2e73
+SHA1: 1a03cdde3140e55c6df6558ca78b29d6803498b4
+SHA256: d31f26ad6c65d686903a3bd5c25f2d597a9a0d1b3dcd400ab857bd27702703db
+Section: Tweaks
+Description: HACK
+Author: kayleymqs 
+Name: Calm hack 
+
+Package: com.cydiakurd.hack8ball
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Filename: /com.cydiakurd.hack8ball.sa_4.8.4-2+debug_iphoneos-arm.deb
+Size: 9044
+MD5sum: d63b568732b6e9556d54a37f68555a37
+SHA1: b746aac8438731e82fa170d1964692f4df650b0a
+SHA256: acbb56262d4337c5d9c3ef3025a370f3a46358527161a63b319041a28e08094a
+Section: Tweaks
+Description: hack yari 8 ball pool 
+Author: CYDIA KURD 
+Name: 8ball pool cheat 
+
+Package: com.cydiakurd.betternet
+Version: 1.4.4
+Architecture: iphoneos-arm
+Maintainer: CYDIAKURD
+Filename: /com.cydiakurd.pxcexbetternethack_0.0.6_iphoneos-arm.deb
+Size: 84190
+MD5sum: dd42e85dd8ac0cfd293a7c5b0f255667
+SHA1: 8db446556e01528e7f0cd36b1f8c46d8256e4bd2
+SHA256: 4c237df615a9483af4aab4b603dca71ed1531e0634a58071124ff814a87be044
+Section: Tweaks
+Description: hack
+Author: pxcex 
+Name: BETTERNET HACK 
+

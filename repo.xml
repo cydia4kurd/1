@@ -1,0 +1,16 @@
+<repo>
+	<footerlinks>
+		<link>
+	        <url>https://reddit.com/u/_lightmann</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+		<link>
+			<url>https://github.com/UsrLightmann</url>
+			<iconclass>fa fa-github</iconclass>
+		</link>
+		<link>
+			<url>mailto:lightmanns11@gmail.com</url>
+			<iconclass>fa fa-envelope</iconclass>
+		</link>
+	</footerlinks>
+</repo>

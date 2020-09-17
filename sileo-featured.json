@@ -1,0 +1,37 @@
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{296, 148}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+        "url": "https://usrlightmann.github.io/assets/banners/me.lightmann.aeaea.png",
+        "title": "Aeaea",
+        "package": "me.lightmann.aeaea",
+        "hideShadow": false
+    },
+    {
+        "url": "https://usrlightmann.github.io/assets/banners/me.lightmann.vinyl.png",
+        "title": "Vinyl",
+        "package": "me.lightmann.vinyl",
+        "hideShadow": false
+    },
+    {
+        "url": "https://usrlightmann.github.io/assets/banners/me.lightmann.quorra.png",
+        "title": "Quorra",
+        "package": "me.lightmann.quorra",
+        "hideShadow": false
+    },
+    {
+        "url": "https://usrlightmann.github.io/assets/banners/me.lightmann.msgswap.png",
+        "title": "MsgSwap",
+        "package": "me.lightmann.msgswap",
+        "hideShadow": false
+    },
+    {
+        "url": "https://usrlightmann.github.io/assets/banners/me.lightmann.stripecount.png",
+        "title": "StripeCount",
+        "package": "me.lightmann.stripecount",
+        "hideShadow": false
+    }
+  ]
+}
