@@ -8,7 +8,7 @@ Pre-Depends: firmware (>= 13)
 Description: تایبەتمەندیە شاراوەکان چالاک بکە، تایبەتمەندی نوێ بناسەوە، نیشانەی خانە گەورە بکە، خێرایی داتا و زیاتر گەورە بکە!
 Filename: /com.cydiakurd.carriercrack-global_3.1.12_iphoneos-arm.deb
 Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
-Depiction: https://cydiakurd.tk//Depiction/5/index.html
+Depiction: https://cydia4kurd.github.io/1/Depiction/5/index.html
 Size: 5067584
 MD5sum: 311e3c0ef0de91f95a83079fbca1e16c
 SHA1: 3817dfd7852b07179b9d0d131d0602bb75f849e0
@@ -22,7 +22,7 @@ Architecture: iphoneos-arm
 Maintainer: CYDIAKURD
 Author: 4nni3
 Depends: mobilesubstrate,preferenceloader,com.creaturesurvive.libcscolorpicker
-Depiction: https://cydiakurd.tk//Depiction/6/index.html
+Depiction: https://cydia4kurd.github.io/1/Depiction/6/index.html
 Description: Cool tweak
 Filename: /com.cydiakurd.coolcc_3.4_iphoneos-arm.deb
 Installed-Size: 448
@@ -60,7 +60,7 @@ Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Fle
 Description:  +24 hack included 
 Filename: /com.cydiakurd.flex3_3~Beta90k_iphoneos-arm.deb
 Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
-Depiction: https://cydiakurd.tk/Depiction/com.cydiakurd.flex/index.html
+Depiction: https://cydia4kurd.github.io/1/Depiction/1/index.html
 Size: 14082480
 MD5sum: b4a8f751351363ae7d44174fb9718281
 SHA1: a2bc8afd713a2ede573d7d01c8980c24c3fda404
@@ -460,7 +460,7 @@ Description: بۆ شاردنەوەی جلبریک لە ئەپەکان
 Filename: /com.rpgfarm.a-bypass_1.3.5_iphoneos-arm.deb
 Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
 Size: 125508
-Depiction: https://cydiakurd.tk/Depiction/com.rpgfarm.a-bypass/index.html
+Depiction: https://cydia4kurd.github.io/1/Depiction/com.rpgfarm.a-bypass/index.html
 MD5sum: 6862e8aac2e8d172dc75c7ce40b3d497
 SHA1: 424331b0eaecf6449d46cbc939303154b15e8698
 SHA256: 2b5ca8dd8b74c9302b911d605f8b848189fe8f830944d5681c500f8c9b77000a
@@ -514,7 +514,7 @@ Description: بەکاریەت بۆ دابەزاندنەوەی وەشانی ئە�
 Filename: /com.cydiakurd.appstoreplusplus_0.9.12_iphoneos-arm.deb
 Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
 Size: 616656
-Depiction: https://cydiakurd.tk/Depiction/1/index.html
+Depiction: https://cydia4kurd.github.io/1/Depiction/1/index.html
 Priority: optional
 MD5sum: ab61463865b7c845218e0b3c306e518d
 SHA1: 2454960b795ba619be2e937bd50c32cbc351adb6
@@ -585,7 +585,7 @@ Filename: /com.cydiakurd.appdatamanager_1.5.3-2_iphoneos-arm.deb
 Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
 Size: 3670466
 Installed-Size: 9244
-Depiction: https://cydiakurd.tk/Depiction/4/index.html
+Depiction: https://cydia4kurd.github.io/1/Depiction/4/index.html
 MD5sum: b0c37a5fffc61d63f60e4b8ef6910164
 SHA1: 125e134de0e21b6a5667c736c44a9f2c2c416280
 SHA256: 8f9ea3146d41e4648b5630ac605c74058e607c062805ea57191813cb58c18ee7
@@ -657,7 +657,7 @@ Description: بۆ گۆڕینی ڕووکاری پاتری
 Filename: /com.cydiakurd.batterynotch_1.6_iphoneos-arm.deb
 Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
 Size: 146328
-Depiction: https://cydiakurd.tk/Depiction/2/index.html
+Depiction: https://cydia4kurd.github.io/1/Depiction/2/index.html
 Installed-Size: 2372
 MD5sum: 107155ff88aa9fb308df3a6c1ad50deb
 SHA1: e0699b6a7068987566c0f18eb8868b74ffdf64e0
@@ -2141,7 +2141,7 @@ Description: با شاشەی قوفڵەکەت بدرەوشێتەوە
 Filename: /com.cydiakurd.glow_0.4-24_iphoneos-arm.deb
 Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
 Size: 335384
-Depiction: https://cydiakurd.tk/Depiction/3/index.html
+Depiction: https://cydia4kurd.github.io/1/Depiction/3/index.html
 MD5sum: df71dcccb99fc2d9277d7c77a5a7ba34
 MainLibMD5: e7420c6c4fadb7a5fb37ba12ba2bb4bd
 SHA1: 5747041e80a0315269d7f37819b16ac7e8989b44
