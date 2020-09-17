@@ -1,1 +1,1 @@
-# testy
+http://cydiakurd.tk/ لینک سۆرسەکە 
