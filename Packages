@@ -585,7 +585,6 @@ Filename: /com.cydiakurd.appdatamanager_1.5.3-2_iphoneos-arm.deb
 Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
 Size: 3670466
 Installed-Size: 9244
-Depiction: https://cydia4kurd.github.io/1/Depiction/4/index.html
 MD5sum: b0c37a5fffc61d63f60e4b8ef6910164
 SHA1: 125e134de0e21b6a5667c736c44a9f2c2c416280
 SHA256: 8f9ea3146d41e4648b5630ac605c74058e607c062805ea57191813cb58c18ee7
@@ -626,25 +625,6 @@ SHA1: f25b6efa9f37db348ce7f4370b39a0b5e80977dd
 SHA256: d8e160fe15bdf94629cd1e58f29d7afd3028b65bf0b508df12ff64907af44d43
 Section: Tweaks 
 Name: ALFiras for Snap
-
-
-
-Package: com.cydiakurd.adgpro
-Version: 0.0.1-2
-Architecture: iphoneos-arm
-Maintainer: CYDIAKURD
-Author: md.furman
-Depends: mobilesubstrate
-Description: hack
-Filename: /com.cydiakurd.adgpro_0.0.1-2_iphoneos-arm.deb
-Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
-Size: 5064
-MD5sum: 32eb3aa9e35be380b2a0b33502363d5d
-SHA1: b9a78b018e9a19f77384a701571ba962a25464bc
-SHA256: a14ef11127618204f09513ab60f9045de6cfcf65fd374a13e6df658e0b769aa5
-Section: Tweaks
-Name: AdGuard Pro Hack
-
 
 
 Package: com.cydiakurd.batterynotch
@@ -1803,6 +1783,7 @@ Description: لە هۆم سکرین هەر ئەپێک بتەوێ پەنجە لە
 Filename: /com.cydiakurd.appdata_1.2.3_iphoneos-arm.deb
 Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
 Size: 170898
+Depiction: https://cydia4kurd.github.io/1/Depiction/4/index.html
 MD5sum: b79e2756ae4939b1d08b2f42db08b25e
 SHA1: 54885e2c6ee7e6c0fdb5ccc26d0381ee69eeb906
 SHA256: 5892f998df83c04d2047a8be935e27074d99d8933cf9484a945ae9db213ce549
