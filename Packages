@@ -1,3 +1,152 @@
+Package: github.io.gfp.appaze2
+Version: 1.1
+Section: Tweaks
+Maintainer: AnthoPak
+<anthopakdev@gmail.com>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 11.0), com.a3tweaks.flipswitch (>= 1.0.16~beta5)
+Architecture: iphoneos-arm
+Installed-Size: 1364
+Name: Appaze 2
+Author: AnthoPak <anthopakdev@gmail.com>
+Icon: https://guofenpai.github.io/repo/icon/appaze2.png
+Depiction: https://cydia4kurd.github.io/1/Depiction/7/index.html
+Filename: /github.io.gfp.appaze2_1.1_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 796380
+MD5sum: 4255875bebd7e5a6dbc621ead84504fa
+SHA1: 1947dd30f60098b22ae6dc46f5c499c758d9c331
+SHA256: 0c4db7ee8875da5d74bb86a16b087b391d5690bdd61fcd4ac5b8a62bd4b9eee2
+
+Package: com.a3tweaks.flipswitch
+Name: Flipswitch
+Depends: mobilesubstrate (>= 0.9.5001), com.rpetrich.rocketbootstrap (>= 1.0.9) | firmware (<< 7.0)
+Conflicts: com.rpetrich.donotdisturbtoggle (<= 1.0-1), com.jerryen.rotationlockflipswitch, com.jakeashacks.realcc (<< 1.0.2)
+Replaces: com.jerryen.rotationlockflipswitch, tw.garynil.ccfixer93, tw.hiraku.nightshift, com.jakeashacks.realcc (<< 1.0.2)
+Provides: com.jerryen.rotationlockflipswitch, tw.garynil.ccfixer93, tw.hiraku.nightshift
+Architecture: iphoneos-arm
+Description: Centralized toggle system for iOS
+Author: rpetrich <rpetrich+flipswitch@gmail.com>
+Maintainer: rpetrich & a3tweaks <rpetrich+flipswitch@gmail.com>
+Section: System
+Tag: purpose::extension, role::developer
+dev: flipswitch
+Version: 1.0.16
+Installed-Size: 2408
+Depiction: 
+Filename: /com.a3tweaks.flipswitch_1.0.16_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 300972
+MD5sum: 516996c64c4bc054b5b4a67fcfba5a9c
+SHA1: d17d8a66c9d05739dbedc7255530462bdbc4863f
+SHA256: 2dab7e1ee02a638d49342b956b554c24fb4191168e43c91f57b3394926566ed6
+
+Package: org.mr.libiarrays
+Version: 1.0.12-beta-1k
+Section: Development
+Maintainer: MainRepo
+Pre-Depends: firmware (>=7.0)
+Conflicts: com.iarrays.libiarrays1
+SileoDepiction: https://myclassic.net/sileo.php?pid=1608
+Architecture: iphoneos-arm
+Name: libiarrays
+Author: IArrays <support@iarrays.com>
+Icon: https://mainrepo.org/CydiaIcon.png
+Depiction: 
+Filename: /org.mr.libiarrays_1.0.12-beta-1k_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 292914
+MD5sum: 894734f2e9aa21ea49679e0317b61e54
+SHA1: 8d70ed2667832317101d05483acb637b86c1c5d2
+SHA256: 55dbdc7c3c4dc17869596c41225b78dde2d9862b36a4c543789f9f9277d4561f
+
+Package: com.creaturesurvive.libcscolorpicker
+Version: 1.0.3
+Section: System
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Pre-Depends: firmware (>= 7.0)
+Description: A minimal color picker library for developers
+Architecture: iphoneos-arm
+Installed-Size: 460
+Name: libCSColorPicker
+Author: CreatureSurvive <support@creaturecoding.com>
+Tag: purpose::extension, compatible_min::iosiOS7
+Depiction: 
+Filename: /com.creaturesurvive.libcscolorpicker_1.0.3_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 91722
+MD5sum: 12326fbdceb96ea412a13529c4d8b862
+SHA1: ae1cbf649db75725c14cc5bd1034ee4679b85597
+SHA256: ab5b88be9b829ff2a1bd80cbcad65c27b9eceee31a66d4ef83277c5e06591660
+
+Package: com.machport.arch
+Version: 1.4
+Section: Tweaks
+Maintainer: machport
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Architecture: iphoneos-arm
+Installed-Size: 572
+Name: Arch
+Author: machport
+Depiction: https://cydia4kurd.github.io/1/Depiction/8/index.html
+Filename: /com.machport.arch_1.4_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 81886
+MD5sum: 41ccf2088b50361a4f6d39a1b1cb9aa7
+SHA1: cc3003b6b7fa4f17695001c5426839cd3725a763
+SHA256: 2a3a4c0cc922636d48bfd1493727b57aaf0518db1ccd84727e697fc589e07491
+
+Package: com.spark.libsparkapplist
+Version: 1.0.9
+Section: System
+Maintainer: Spark
+Architecture: iphoneos-arm
+Installed-Size: 468
+Name: libSparkAppList
+Author: Spark
+Tag: role::developer
+Depiction: 
+Filename: /com.spark.libsparkapplist_1.0.9_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 27294
+MD5sum: db4894db827ed0426710d805353f6a3e
+SHA1: 79ac47681b5db1e610f785f41c417913a2cb9af4
+SHA256: 97ae17638749e41605c13461afeae499b48cb16afb466df2012dcf0a7495a69d
+
+Package: com.cydiakurd.cosmos13
+Version: 1.2-1
+Section: Tweaks
+Maintainer: cydiakurd 
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), com.creaturesurvive.libcscolorpicker
+Architecture: iphoneos-arm
+Installed-Size: 2768
+Name: Cosmos13
+Author: Sirius24
+Depiction: https://cydia4kurd.github.io/1/Depiction/9/index.html
+Filename: /com.cydiakurd.cosmos13_1.2-1_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 2169540
+MD5sum: cdb036cdd4e5e2ed7cdd9e42191a3956
+SHA1: cd50daf21973cc333fcfc189c510fde20b6d4207
+SHA256: 59d04d6b1c0a611011083a9bfff8ee6eee49a8d3cccc9f4b47b512a59e882cb3
+
+Package: com.cydiakurd.deletecontact10
+Version: 1.5.1-beta-5
+Section: Utilities
+Maintainer: cydiakurd 
+Pre-Depends: firmware (>=8.0)
+Depends: mobilesubstrate, preferenceloader, org.mr.libiarrays (>=1.0.9)
+Architecture: iphoneos-arm
+Installed-Size: 60
+Name: Delete Contact
+Author: IArrays <support@iarrays.com>
+Depiction: https://cydia4kurd.github.io/1/Depiction/10/index.html
+Filename: /com.cydiakurd.deletecontact10_1.5.1-beta-5_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 312132
+MD5sum: 72eb512b0410f4f775d3f9a527eeb9a9
+SHA1: eb3f06d4184ad6228f26888fcf34deeb718efeef
+SHA256: 99e85f9442a153e74cc9dc9ba8f40fb8eab08288645356bd02a0b99e29e1d4e1
+
 Package: com.cydiakurd.carriercrack-global
 Version: 3.1.12
 Architecture: iphoneos-arm
