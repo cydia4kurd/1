@@ -134,22 +134,7 @@ MD5sum: 12326fbdceb96ea412a13529c4d8b862
 SHA1: ae1cbf649db75725c14cc5bd1034ee4679b85597
 SHA256: ab5b88be9b829ff2a1bd80cbcad65c27b9eceee31a66d4ef83277c5e06591660
 
-Package: com.machport.arch
-Version: 1.4
-Section: Tweaks
-Maintainer: machport
-Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
-Architecture: iphoneos-arm
-Installed-Size: 572
-Name: Arch
-Author: machport
-Depiction: https://cydia4kurd.github.io/1/Depiction/8/index.html
-Filename: /com.machport.arch_1.4_iphoneos-arm.deb
-Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
-Size: 81886
-MD5sum: 41ccf2088b50361a4f6d39a1b1cb9aa7
-SHA1: cc3003b6b7fa4f17695001c5426839cd3725a763
-SHA256: 2a3a4c0cc922636d48bfd1493727b57aaf0518db1ccd84727e697fc589e07491
+
 
 Package: com.spark.libsparkapplist
 Version: 1.0.9
