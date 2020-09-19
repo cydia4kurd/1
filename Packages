@@ -1,3 +1,23 @@
+Package: org.mr.afsocial
+Name: AFSocial
+Author: Azozz ALFiras
+Description: Add more features to Social Media apps.
+Maintainer: cydia4kurd  <ahmadsorann@gmail.com
+Version: 1.0-1-1k
+Section: Tweaks
+Depends: mobilesubstrate, org.mr.azflibrary | co.azozzalfiras.azflibrary
+Architecture: iphoneos-arm
+Installed-Size: 4072
+Icon: https://repo.packix.com/api/Packages/5efffb746668c1001a158771/icon/download?size=medium
+Tag: cydia::commercial
+Depiction: https://cydia4kurd.github.io/1/Depiction/11/index.html
+Filename: /org.mr.afsocial_1.0-1-1k_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 1771050
+MD5sum: a2a8d013098e24b13d115871678700fe
+SHA1: 58a49bd4c729d0a133bb3608faa15625295f8fbc
+SHA256: c51f1bd80ba8f5cbc7765e9cf9a6f3aba3dc65e89ad033a49687bfe708733062
+
 Package: github.io.gfp.appaze2
 Version: 1.1
 Section: Tweaks
@@ -1001,24 +1021,6 @@ SHA256: 337670bbef253dfbae182b84b924e5d545b326d2cd127c3513ba096b372a9dda
 Section: Development
 Name: azfLibrary
 
-Package: org.mr.afsocial
-Version: 1.0-1-1k
-Architecture: iphoneos-arm
-Maintainer: CYDIAKURD
-Author: Azozz ALFiras
-Depends: mobilesubstrate, org.mr.azflibrary | co.azozzalfiras.azflibrary
-Installed-Size: 4072
-Icon: https://repo.packix.com/api/Packages/5efffb746668c1001a158771/icon/download?size=medium
-Tag: cydia::commercial
-Description: بۆ دابەزاندنی ڤیدۆ  زۆر بابتی تر لە سۆشیاڵ میدیاکان لە یەک تویکا تیبینی//ئەگەر ئەم تویکەت لایە ئەوا بیسڕەوە لە پێشا لەگەڵ azflibrary 
-Filename: /org.mr.afsocial_1.0-1-1k_iphoneos-arm.deb
-Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
-Size: 1771050
-MD5sum: a2a8d013098e24b13d115871678700fe
-SHA1: 58a49bd4c729d0a133bb3608faa15625295f8fbc
-SHA256: c51f1bd80ba8f5cbc7765e9cf9a6f3aba3dc65e89ad033a49687bfe708733062
-Section: Tweaks
-Name: AFSocial cracked
 
 Package: com.cydiakurd.AceCata
 Version: 1.2
