@@ -1,20 +1,21 @@
 Package: com.cydiakurd.arch
-Version: 1.4
-Section: Tweaks
-Maintainer: machport
-Depends: mobilesubstrate, preferenceloader,
-com.spark.libsparkapplist
-Depiction: https://cydia4kurd.github.io/1/Depiction/13/index.html
-Architecture: iphoneos-arm
-Installed-Size: 572
 Name: Arch
 Author: machport
-Filename: /com.cydiakurd.arch_1.4_iphoneos-arm.deb
+Description: Restrics access to certain apps, Configurable in settings
+Maintainer: MainRepo
+Version: 1.5
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Depiction: https://cydia4kurd.github.io/1/Depiction/13/index.html
+Architecture: iphoneos-arm
+Installed-Size: 492
+Icon: https://mainrepo.org/CydiaIcon.png
+Filename: /com.cydiakurd.arch_1.5_iphoneos-arm.deb
 Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
 Size: 137774
-MD5sum: 5667eb8f04eeabb8ba472475834dbce9
-SHA1: d0228f580fbacdc4e0158489c3f43775dd839213
-SHA256: e7595bfafdf3cf0162035e4a6c865fae421c549dddc00e0ba3a09e57455b8851
+MD5sum: b1c20c96183bfda02289032bb1dca6a2
+SHA1: 46cd23fc8b0de9064b808b2f50fbcc0a8f57e064
+SHA256: 9ecd9386b044ade060f6c10c902e8df6ff1d3e11921df7b6887d90a134fc6749
 
 Package: com.cydiakurd.candycrush
 Name: Candy Crush Saga Cheats
