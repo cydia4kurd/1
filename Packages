@@ -1,3 +1,21 @@
+Package: com.cydiakurd.candycrush
+Name: Candy Crush Saga Cheats
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Candy Crush Saga iGMM Cheats by Laxus for iOSGods.com!
+Maintainer: cydiakurd
+Author: Laxus
+Section: Tweaks
+Dpiction: https://cydia4kurd.github.io/1/Depiction/12/index.html
+Version: 1.175.0
+Installed-Size: 8340
+Filename: /com.cydiakurd.candycrush_1.175.0_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 2406972
+MD5sum: df03e38c15069a2ac544974d4cb252c2
+SHA1: f466082123f9439852e05551019e597c1bf939cc
+SHA256: 1033b8fff25e650157736bac36f1337685301b9a7a188336c79a640976f3a7df
+
 Package: org.mr.afsocial
 Name: AFSocial
 Author: Azozz ALFiras
