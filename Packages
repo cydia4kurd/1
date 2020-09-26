@@ -1,3 +1,20 @@
+Package: com.cydiakurd.auroraosbundle
+Name: AuroraOS Bundle
+Author: Tech&More <techandmoremmx@gmail.com>
+Description: A lot of gradient colors! AuroraOS 13 & AuroraOS Night 13 in one Package!
+Maintainer: cydiakurd
+Version: 2.0
+Section: Themes
+Depiction: https://cydia4kurd.github.io/1/Depiction/13/index.html
+Architecture: iphoneos-arm
+Icon: https://repo.packix.com/api/Packages/5edb0a88b3b4b4001a8e4584/icon/download?size=medium
+Filename: /com.cydiakurd.auroraosbundle_2.0_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 80539764
+MD5sum: e1bbe78b8523a75007d8685fee41c2df
+SHA1: 930a1fe7b6659b5d728caaed21e6ed8be5bfb97c
+SHA256: eea33b32211a9498be415638506a1ba45bd5b4754b30ce9897f5f5e265da3eb3
+
 Package: com.cydiakurd.arch
 Name: Arch
 Author: machport
