@@ -1139,6 +1139,7 @@ SHA1: d423ed5eb5bc068171160d8dfb3e1e53cf49f72f
 SHA256: a1a5070db59a26ba529ce5a2b0764673b4c8ba19c76ebd8b0290c1e47ea58e7c
 Section: Tweaks
 Name: DockX
+Depiction: https://cydia4kurd.github.io/1/Depiction/15/index.html
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
 
 Package: com.rileytestut.altdaemon
