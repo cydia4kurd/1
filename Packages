@@ -1,3 +1,21 @@
+Package: com.cydiakurd.horizon
+Name: Horizon
+Author: Sirius24
+Description: Settings the way YOU want!
+Maintainer: cydiakurd
+Version: 1.1
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, firmware (>= 10.0), com.muirey03.libimagepicker, com.creaturesurvive.libcscolorpicker, ws.hbang.common (>= 1.2)
+Depiction: https://cydia4kurd.github.io/1/Depiction/16/index.html
+SileoDepiction: https://cydia4kurd.github.io/1/Depiction/16/index.html
+Architecture: iphoneos-arm
+Installed-Size: 1060
+Filename: /com.cydiakurd.horizon_1.1_iphoneos-arm.deb
+Size: 483174
+MD5sum: ed2fb25a3d3dc22af1d4791772d2c97a
+SHA1: 80955bf56833d288029c0ae67ed03367dd27f993
+SHA256: 9ab8ed2b9bcc253f15cb62be255499ab96cbf294aca6d5e8c7f309a518c32a99
+
 Package: com.cydiakurd.auroraosbundle
 Name: AuroraOS Bundle
 Author: Tech&More <techandmoremmx@gmail.com>
