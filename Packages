@@ -1,3 +1,21 @@
+Package: com.cydiakurd.amongus
+Name: Among Us! Cheats
+Author: Laxus
+Description: Among Us! iGMM Cheats by Laxus for iOSGods.com!
+Maintainer: cydiakurd
+Version: 2020.9.9
+Section: Tweaks
+Depends: mobilesubstrate
+Depiction: https://cydia4kurd.github.io/1/Depiction/17/index.html
+SileoDepiction: https://cydia4kurd.github.io/1/Depiction/17/index.html
+Architecture: iphoneos-arm
+Installed-Size: 8576
+Filename: /com.cydiakurd.amongus_2020.9.9_iphoneos-arm.deb
+Size: 2421698
+MD5sum: 71d846c1a938efdcb12c739de28cb141
+SHA1: 649d0f9ef03984cc8cdf9f40fdf9d3cafa3e52ee
+SHA256: ca626fa51488114e2cda12842c4ae5cbf03535b04086f45a15596df2968f289e
+
 Package: com.cydiakurd.horizon
 Name: Horizon
 Author: Sirius24
