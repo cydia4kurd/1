@@ -1,3 +1,38 @@
+Package: org.mr.afsocial
+Name: AFSocial Cracked
+Author: Azozz ALFiras
+Description: Add more features to Social Media apps.
+Maintainer: Cydia kurd
+Version: 1.2k
+Section: Tweaks
+Depends: mobilesubstrate, org.mr.azflibrary (>= 2.9)
+Architecture: iphoneos-arm
+Installed-Size: 6500
+Filename: /org.mr.afsocial_1.2k_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 2676906
+Depiction: https://cydia4kurd.github.io/1/Depiction/19/index.html
+MD5sum: af38a40320d305bf0942fa3db3328c10
+SHA1: b9974f7f8295818d40aac241f2c9c44e8403340a
+SHA256: 97bc3d4889bd097c34eb5ce76276237b119b74e8a39e5c6feafd1e2ef32cdc27
+
+Package: org.mr.azflibrary
+Name: azfLibrary
+Author: Azozz ALFiras
+Description: This library is dedicated to helping Azozz ALFiras Tweak's
+Maintainer: Cydia kurd
+Version: 2.9
+Section: Development
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Installed-Size: 2360
+Filename: /org.mr.azflibrary_2.9_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 806626
+MD5sum: 5f686441158994ddaa832e1cd3525a0f
+SHA1: 90740b69788409880d6ede4e3be0703c9fdd7a33
+SHA256: b55bf4079911f498f112b7cf9fcff89decbc1c12d4233ce922c2de111eafc2d6
+
 Package: com.cydiakurd.BlurBright
 Version: 1.4.5
 Section: Themes
