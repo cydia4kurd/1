@@ -1,3 +1,19 @@
+Package: com.cydiakurd.BlurBright
+Version: 1.4.5
+Section: Themes
+Maintainer: cydiakurd 
+Architecture: iphoneos-arm
+Name: BlurBright
+Author: @UAE_AD1001
+Depiction: https://cydia4kurd.github.io/1/Depiction/18/index.html
+SileoDepiction: https://cydia4kurd.github.io/1/Depiction/18/index.html
+Icon: https://cdn.pixabay.com/photo/2017/01/07/19/03/icon-1961299_1280.png
+Filename: /com.cydiakurd.blurbright_1.4.5_iphoneos-arm.deb
+Size: 15641420
+MD5sum: 57e842688f6c35d1010c1b3fa82322cd
+SHA1: 5cabc782fee2c0491832f410f5b0765648879072
+SHA256: 8cb968a7b75aa9f00c3a12f8279d6db07e48c491e96a69d9b79a40a81c3947fb
+
 Package: com.cydiakurd.amongus
 Name: Among Us! Cheats
 Author: Laxus
