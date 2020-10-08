@@ -1,3 +1,21 @@
+Package: com.cydiakurd.flex3
+Name: Flex 3 Beta
+Version: 1:3~Beta90kk
+Architecture: iphoneos-arm
+Description: Develop your own tweaks and share them on the Flex Community Cloud
+Author: John Coates
+Section: Tweaks
+Maintainer: cydiakurd
+Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Depiction: https://cydia4kurd.github.io/1/Depiction/20/index.html
+SileoDepiction: https://cydia4kurd.github.io/1/Depiction/20/index.html
+Filename: /com.cydiakurd.flex3_3~Beta90kk_iphoneos-arm.deb
+Size: 14082378
+MD5sum: d45e3a1cf3774e25ccf050c918fd148a
+SHA1: 6e07f0dc6918101544c2e3b396897cc7c46f09a0
+SHA256: c3e6f1fadc0253b219ba642e7cb907e8c8399ce869be905b933f83af41cc9fbf
+
 Package: org.mr.afsocial
 Name: AFSocial Cracked
 Author: Azozz ALFiras
@@ -345,23 +363,7 @@ SHA256: 862ad772dc5d291a0a0c33c86a37365eafc79608780497ac481cfe39c8de9c70
 Section: Tweaks
 Name: CommCenter Patch
 
-Package: com.cydiakurd.flex3
-Version: 1:3~Beta90k
-Architecture: iphoneos-arm
-Maintainer: CYDIAKURD
-Author: John Coates
-Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
-Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
-Description:  +24 hack included 
-Filename: /com.cydiakurd.flex3_3~Beta90k_iphoneos-arm.deb
-Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
-Depiction: https://cydia4kurd.github.io/1/Depiction/com.cydiakurd.flex/index.html
-Size: 14082480
-MD5sum: b4a8f751351363ae7d44174fb9718281
-SHA1: a2bc8afd713a2ede573d7d01c8980c24c3fda404
-SHA256: 2a2dee1aa6f2dcdbdf67a295e69e1d36f9b06144fd25d489f7418017f7373f4b
-Section: Tweaks
-Name: Flex 3 Beta
+
 
 Package: com.cydiakurd.harpy
 Version: 2.0.1k
