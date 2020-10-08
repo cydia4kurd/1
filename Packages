@@ -9,7 +9,7 @@ Maintainer: cydiakurd
 Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
 Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
 Depiction: https://cydia4kurd.github.io/1/Depiction/20/index.html
-SileoDepiction: https://cydia4kurd.github.io/1/Depiction/20/index.html
+SileoDepiction: https://cydia4kurd.github.io/1/Depiction/20
 Filename: /com.cydiakurd.flex3_3~Beta90kk_iphoneos-arm.deb
 Size: 14082378
 MD5sum: d45e3a1cf3774e25ccf050c918fd148a
