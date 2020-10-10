@@ -6,7 +6,7 @@ Maintainer: Cydiakurd
 Version: 1.2kk
 Section: Tweaks
 Depends: mobilesubstrate,
-org.mr.azflibrary (>= 2.9k)
+org.mr.azflibrary (>= 2.9)
 Depiction: https://cydia4kurd.github.io/1/Depiction/19/index.html
 SileoDepiction: https:/cydia4kurd.github.io/1/Depiction/19/index.html
 Architecture: iphoneos-arm
