@@ -1,39 +1,43 @@
 Package: org.mr.afsocial
-Name: AFSocial Cracked
+Name: AFSocial cracked
 Author: Azozz ALFiras
 Description: Add more features to Social Media apps.
-Maintainer: Cydia kurd
-Version: 1.2k
+Maintainer: Cydiakurd
+Version: 1.2kk
 Section: Tweaks
-Depends: mobilesubstrate, org.mr.azflibrary (>= 2.9)
+Depends: mobilesubstrate,
+org.mr.azflibrary (>= 2.9k)
+Depiction: https://cydia4kurd.github.io/1/Depiction/19/index.html
+SileoDepiction: https:/cydia4kurd.github.io/1/Depiction/19/index.html
 Architecture: iphoneos-arm
 Installed-Size: 6500
-Filename: /org.mr.afsocial_1.2k_iphoneos-arm.deb
-Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
-Size: 2676906
-Depiction: https://cydia4kurd.github.io/1/Depiction/19/index.html
-MD5sum: af38a40320d305bf0942fa3db3328c10
-SHA1: b9974f7f8295818d40aac241f2c9c44e8403340a
-SHA256: 97bc3d4889bd097c34eb5ce76276237b119b74e8a39e5c6feafd1e2ef32cdc27
-
+Icon: https://afsocial.azozzalfiras.co/icon.png
+Filename: /org.mr.afsocial_1.2kk_iphoneos-arm.deb
+Size: 2676898
+MD5sum: be44828d75fd1a1d058adbe48232690d
+SHA1: e14c50dd1a89554790c62f9a59fd9a49beb7b0d3
+SHA256: e14c50dd1a89554790c62f9a59fd9a49beb7b0d3
 
 
 Package: org.mr.azflibrary
-Name: azfLibrary
+Name: azfLibraryy
 Author: Azozz ALFiras
 Description: This library is dedicated to helping Azozz ALFiras Tweak's
-Maintainer: Cydia kurd
-Version: 2.9
+Maintainer: cydiakurd
+Version: 2.9k
 Section: Development
 Depends: mobilesubstrate, preferenceloader
+Depiction: 
+SileoDepiction: 
 Architecture: iphoneos-arm
 Installed-Size: 2360
-Filename: /org.mr.azflibrary_2.9_iphoneos-arm.deb
+Icon: https://repo.packix.com/api/Packages/5e60d8fd18bc81001a7a31f3/icon/download?size=medium
+Filename: /org.mr.azflibrary_2.9k_iphoneos-arm.deb
 Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
-Size: 806626
-MD5sum: 5f686441158994ddaa832e1cd3525a0f
-SHA1: 90740b69788409880d6ede4e3be0703c9fdd7a33
-SHA256: b55bf4079911f498f112b7cf9fcff89decbc1c12d4233ce922c2de111eafc2d6
+Size: 806632
+MD5sum: 535f6efb23a05a05b6b30b8fadc8ed16
+SHA1: 0a175ab76c3986b91a7314da1f4fadc76b37601f
+SHA256: 4602362093e5ca61e6856b7dc2fe3e30af55057262c495985f02685ebfc42798
 
 
 Package: com.cydiakurd.flex3
