@@ -1,3 +1,43 @@
+Package: com.cydiakurd.rocket
+Name: Rocket for Instagram
+Author: Majd Alfhaily
+Description: Save posts and view stories anonymously and do much more
+Maintainer: cydiakurd 
+Version: 3.7.10k
+Section: Tweaks
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Depiction: https://cydia4kurd.github.io/1/Depiction/21/index.html
+Architecture: iphoneos-arm
+Icon: https://apt.alfhaily.me/cdn/assets/rocket-icon.png
+Filename: /com.cydiakurd.rocket_3.7.10k_iphoneos-arm.deb
+Size: 5888326
+MD5sum: d98b31cba86de0bb5b607838b5a16bde
+SHA1: 7b3afdc6345cda7dfc8ec861f509715130468fb0
+SHA256: 68d144579e9ea702811119850a19448fa6dd8d4f9e6125533af7326eaea096a9
+
+Package: com.rpetrich.rocketbootstrap
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
+Name: RocketBootstrap
+Architecture: iphoneos-arm
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: rpetrich
+Tag: purpose::extension, role::developer
+Version: 1.0.10~beta1
+Installed-Size: 596
+Filename: /com.rpetrich.rocketbootstrap_1.0.10~beta1_iphoneos-arm.deb
+Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
+Size: 38344
+MD5sum: b52417e29631c59cdb267379e71e2a69
+SHA1: 5839fce38b27e624ab5629d50fd543f30b473615
+SHA256: d06e18eefbfcb40f3e3b215bfbccaf34091fb30b2ccb1e4f6c519aa91d2b7248
+
+
 Package: org.mr.afsocial
 Name: AFSocial cracked
 Author: Azozz ALFiras
