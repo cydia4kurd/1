@@ -6,7 +6,7 @@ Maintainer: cydiakurd
 Version: 3.7.10k
 Section: Tweaks
 Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap
-Depiction: https://cydia4kurd.github.io/1/Depiction/21/index.html
+Depiction: https://cydia4kurd.github.io/1/Depiction/21/
 Architecture: iphoneos-arm
 Icon: https://apt.alfhaily.me/cdn/assets/rocket-icon.png
 Filename: /com.cydiakurd.rocket_3.7.10k_iphoneos-arm.deb
