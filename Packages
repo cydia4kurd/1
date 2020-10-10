@@ -12,10 +12,10 @@ Architecture: iphoneos-arm
 Installed-Size: 6500
 Icon: https://afsocial.azozzalfiras.co/icon.png
 Filename: /org.mr.afsocial_1.2kk_iphoneos-arm.deb
-Size: 2676898
-MD5sum: be44828d75fd1a1d058adbe48232690d
-SHA1: e14c50dd1a89554790c62f9a59fd9a49beb7b0d3
-SHA256: e14c50dd1a89554790c62f9a59fd9a49beb7b0d3
+Size: 2676968
+MD5sum: 6042f3ca4dd35c0c2b88e8c86a020df7
+SHA1: 3d4f97fa709d3c5828e8f597dbdc75bc02153075
+SHA256: 5c9e02428988d2b289d7ada7de97ff25b53dbbd083559e6f19731266d5f92705
 
 
 Package: org.mr.azflibrary
