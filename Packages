@@ -2192,24 +2192,7 @@ Name: PowerModule
 
 
 
-Package: me.alfhaily.rocket
-Version: 3.7.6
-Priority: optional
-Architecture: iphoneos-arm
-Maintainer: CYDIAKURD
-Author: Majd Alfhaily
-Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap
-SileoDepiction: https://api.getrocketapp.io/depiction/sileo
-Description: بۆ داونلۆد کردنی ڤیدیۆ و ڕەسمی ئینستاگرام و نیشاندانی ڕەسمی پڕۆفایل و زۆر تایبەتمەندی تریش 
-Icon: https://api.getrocketapp.io/resources/depiction/images/icon.png
-Filename: /me.alfhaily.rocket_3.7.6_iphoneos-arm.deb
-Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
-Size: 7468146
-MD5sum: 02179591db64a8227893a65c829d98d8
-SHA1: f630bb065ba25e5c9be267969b095e460fd58cbd
-SHA256: ab6f91837bdf66be74942cda19a3e663e7d402b37ae71da48fcd3262ab092604
-Section: Tweaks
-Name: Rocket for Instagram
+
 
 Package: com.cydiakurd.reflection
 Version: 2.0
@@ -2841,24 +2824,7 @@ Section: Development
 Name: uasharedtools (iOS 11)
 
 
-Package: com.cydiakurd.rocketbootstrap
-Version: 1.0.9
-Architecture: iphoneos-arm
-Maintainer: cydiakurd 
-Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
-Description: پشتگیری لایبێری دەکا کە رێگە بە تویکەکان ئەدا پەیوەندی کا لەگەل پڕۆسەکانی ساندبۆکس ( هەنی کات تویکەکانت لە بەشی سێتینگ دەرناکەون پێویستە ئەم تویکە هەبێ )
-Filename: /com.cydiakurd.rocketbootstrap_1.0.9_iphoneos-arm.deb
-Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
-Size: 66964
-MD5sum: d6da64671cfb827be720f9cacff86e35
-SHA1: b5a45d81c544ce08ae18ad575bfd2a847867ea09
-SHA256: 59e3dd414cebbc3a05507b4d0fbdd3976e0c339a90c3c55ee40ec90a4a4bf1b7
-dev: rpetrich
-Tag: purpose::extension, role::developer
-Section: Tweaks
-Name: RocketBootstrap
-Installed-Size: 596
+
 
 
 
