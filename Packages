@@ -1,21 +1,3 @@
-Package: com.cydiakurd.flex3
-Name: Flex 3 Beta
-Version: 1:3~Beta90kk
-Architecture: iphoneos-arm
-Description: Develop your own tweaks and share them on the Flex Community Cloud
-Author: John Coates
-Section: Tweaks
-Maintainer: cydiakurd
-Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
-Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
-Depiction: https://cydia4kurd.github.io/1/Depiction/20/index.html
-SileoDepiction: https://cydia4kurd.github.io/1/Depiction/20
-Filename: /com.cydiakurd.flex3_3~Beta90kk_iphoneos-arm.deb
-Size: 14082378
-MD5sum: d45e3a1cf3774e25ccf050c918fd148a
-SHA1: 6e07f0dc6918101544c2e3b396897cc7c46f09a0
-SHA256: c3e6f1fadc0253b219ba642e7cb907e8c8399ce869be905b933f83af41cc9fbf
-
 Package: org.mr.afsocial
 Name: AFSocial Cracked
 Author: Azozz ALFiras
@@ -34,6 +16,8 @@ MD5sum: af38a40320d305bf0942fa3db3328c10
 SHA1: b9974f7f8295818d40aac241f2c9c44e8403340a
 SHA256: 97bc3d4889bd097c34eb5ce76276237b119b74e8a39e5c6feafd1e2ef32cdc27
 
+
+
 Package: org.mr.azflibrary
 Name: azfLibrary
 Author: Azozz ALFiras
@@ -50,6 +34,27 @@ Size: 806626
 MD5sum: 5f686441158994ddaa832e1cd3525a0f
 SHA1: 90740b69788409880d6ede4e3be0703c9fdd7a33
 SHA256: b55bf4079911f498f112b7cf9fcff89decbc1c12d4233ce922c2de111eafc2d6
+
+
+Package: com.cydiakurd.flex3
+Name: Flex 3 Beta
+Version: 1:3~Beta90kk
+Architecture: iphoneos-arm
+Description: Develop your own tweaks and share them on the Flex Community Cloud
+Author: John Coates
+Section: Tweaks
+Maintainer: cydiakurd
+Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Depiction: https://cydia4kurd.github.io/1/Depiction/20/index.html
+SileoDepiction: https://cydia4kurd.github.io/1/Depiction/20
+Filename: /com.cydiakurd.flex3_3~Beta90kk_iphoneos-arm.deb
+Size: 14082378
+MD5sum: d45e3a1cf3774e25ccf050c918fd148a
+SHA1: 6e07f0dc6918101544c2e3b396897cc7c46f09a0
+SHA256: c3e6f1fadc0253b219ba642e7cb907e8c8399ce869be905b933f83af41cc9fbf
+
+
 
 Package: com.cydiakurd.BlurBright
 Version: 1.4.5
