@@ -1,3 +1,20 @@
+Package: com.cydiakurd.cydown
+Name: CyDown
+Author: julioverne <julioverne@me.com>
+Description: Cydia Download Manager & Extra Features!
+Maintainer: cydiakurd
+Version: 7.1.1k
+Section: Tweaks
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Depiction: https://cydia4kurd.github.io/1/Depiction/22/
+Architecture: iphoneos-arm
+Filename: /com.cydiakurd.cydown_7.1.1k_iphoneos-arm.deb
+Size: 4388872
+MD5sum: 0c54e2b149cbb635007e14d28058eb03
+SHA1: 521ebd9a24225f8fa6989afee83043342225cf49
+SHA256: cfbdfbfea83f5b6ef5eccc24683603b242341d36fcb77900871008a7d292c77f
+
+
 Package: com.cydiakurd.rocket
 Name: Rocket for Instagram
 Author: Majd Alfhaily
