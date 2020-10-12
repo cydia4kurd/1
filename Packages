@@ -21,7 +21,7 @@ Version: 2.9.3.2kk
 Section: Tweaks
 Maintainer: cydiakurd 
 Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, org.mr.crux | com.creaturecoding.crux
-Depiction: https://cydia4kurd.github.io/1/Depiction/23/index.html
+Depiction: https://cydia4kurd.github.io/1/Depiction/23/
 Architecture: iphoneos-arm
 Installed-Size: 136
 Name: DLEasy
