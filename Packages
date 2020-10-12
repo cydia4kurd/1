@@ -1,3 +1,39 @@
+Package: org.mr.crux
+Version: 1.0.0
+Section: System
+Maintainer: cydiakurd
+Depends: firmware (>= 9.0)
+Architecture: iphoneos-arm
+Installed-Size: 68
+Name: crux
+Author: CreatureSurvive <support@creaturecoding.com>
+Icon: https://api.ios-repo-updates.com/images/repositories/creaturesurvive-s.png
+Filename: /org.mr.crux_1.0.0_iphoneos-arm.deb
+Size: 3024
+MD5sum: 3c510af1186624c5f2d8eeabed31f239
+SHA1: ea0d08834166b62ae7976ddbf284676ad952ec85
+SHA256: fed7dc29ba8e1c453188cab3a8782fbc73e136381d6109a432f1c476875afb3f
+
+
+
+Package: org.mr.dleasy
+Version: 2.9.3.2kk
+Section: Tweaks
+Maintainer: cydiakurd 
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, org.mr.crux | com.creaturecoding.crux
+Depiction: https://cydia4kurd.github.io/1/Depiction/23/index.html
+Architecture: iphoneos-arm
+Installed-Size: 136
+Name: DLEasy
+Author: AhmedBafkir <prooxy0@gmail.com>
+Icon: https://repo.packix.com/api/Packages/5d093ef0ae6eb7001bab54e3/icon/download?size=medium
+Filename: /org.mr.dleasy_2.9.3.2kk_iphoneos-arm.deb
+Size: 1196488
+MD5sum: 89a88f765bb2ac170d5f5e1fa2eeaa40
+SHA1: e01897dd21648b26d96e857daa483af7bf826a7a
+SHA256: ce91b7ee7711aab15fd24b0223e5f2f479e8a0b2efc1c424b3404615b4843d23
+
+
 Package: com.cydiakurd.cydown
 Name: CyDown
 Author: julioverne <julioverne@me.com>
