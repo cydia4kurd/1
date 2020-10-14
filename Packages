@@ -1,3 +1,21 @@
+Package: com.cydiakurd.flex3
+Name: Flex 3 Beta
+Version: 1:3~Beta90ku
+Architecture: iphoneos-arm
+Description: Develop your own tweaks and share them on the Flex Community Cloud
+Author: John Coates
+Section: Tweaks
+Maintainer: cydiakurd
+Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Depiction: https://cydia4kurd.github.io/1/Depiction/20/index.html
+Filename: /com.cydiakurd.flex3_3~Beta90ku_iphoneos-arm.deb
+Size: 14086986
+MD5sum: e5058ff5b80c384edb6968f3941e9139
+SHA1: 7ba4dd9357e02363abda2f93e59430b27298d167
+SHA256: 7ba4dd9357e02363abda2f93e59430b27298d167
+
+
 Package: org.mr.crux
 Version: 1.0.0
 Section: System
@@ -129,25 +147,6 @@ Size: 806632
 MD5sum: 535f6efb23a05a05b6b30b8fadc8ed16
 SHA1: 0a175ab76c3986b91a7314da1f4fadc76b37601f
 SHA256: 4602362093e5ca61e6856b7dc2fe3e30af55057262c495985f02685ebfc42798
-
-
-Package: com.cydiakurd.flex3
-Name: Flex 3 Beta
-Version: 1:3~Beta90kk
-Architecture: iphoneos-arm
-Description: Develop your own tweaks and share them on the Flex Community Cloud
-Author: John Coates
-Section: Tweaks
-Maintainer: cydiakurd
-Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
-Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
-Depiction: https://cydia4kurd.github.io/1/Depiction/20/index.html
-SileoDepiction: https://cydia4kurd.github.io/1/Depiction/20
-Filename: /com.cydiakurd.flex3_3~Beta90kk_iphoneos-arm.deb
-Size: 14082378
-MD5sum: d45e3a1cf3774e25ccf050c918fd148a
-SHA1: 6e07f0dc6918101544c2e3b396897cc7c46f09a0
-SHA256: c3e6f1fadc0253b219ba642e7cb907e8c8399ce869be905b933f83af41cc9fbf
 
 
 
