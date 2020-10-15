@@ -1,3 +1,25 @@
+Package: org.mr.veloxreloaded
+Name: Velox Reloaded
+Author: ApexTweaks <support@apextweaks.com>
+Description: Bring widgets right to your homescreen, baby.
+Maintainer: CYDIAKURD 
+Version: 1.2.1ku
+Section: Tweaks
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, applist, com.chpwn.iconsupport
+Depiction: https://cydia4kurd.github.io/1/Depiction/24/index.html
+SileoDepiction: https://cydia4kurd.github.io/1/Depiction/24/index.html
+Architecture: iphoneos-arm
+Installed-Size: 22163
+Icon: https://chariz.com/cdn/icon/velox-reloaded/icon@3x.png
+Tag: compatible::ios13
+Filename: /org.mr.veloxreloaded_1.2.1ku_iphoneos-arm.deb
+Size: 14182152
+MD5sum: 7ff4e47d80064c90614b9b34c7c483d1
+SHA1: 464659c8517951ae103e65ae55351618d5269ecf
+SHA256: 06642b9b111a1785e6b49a1c535cb46866d66c97027783a7bfa1bd5e9286fd47
+
+
+
 Package: com.cydiakurd.flex3
 Name: Flex 3 Beta
 Version: 1:3~Beta90ku
