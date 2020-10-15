@@ -1,3 +1,37 @@
+Package: com.cydiakurd.tiktokgod
+Version: 1.9.1k
+Section: Tweaks
+Maintainer: cydiakurd 
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.3.0), firmware (>= 10)
+Architecture: iphoneos-arm
+Installed-Size: 404
+Name: TikTok God Kurdish
+Author: Hao Nguyen
+Depiction: https://cydia4kurd.github.io/1/Depiction/25/index.html
+Filename: /com.cydiakurd.tiktokgod_1.9.1k_iphoneos-arm.deb
+Size: 316720
+MD5sum: 813187c519011de993585797914befd9
+SHA1: 5a1fa1a6a848cbaf09949fbfe6650d3522f2f704
+SHA256: 21d3fd7fa5c91fd4743ffdf289ac27960c6939cf5266b325deef8280564a02db
+
+
+Package: com.haoict.libhdev
+Version: 4.5.0
+Section: System
+Maintainer: cydiakurd 
+Depends: mobilesubstrate, preferenceloader, firmware (>= 10)
+Architecture: iphoneos-arm
+Installed-Size: 380
+Name: libhdev
+Author: Hao Nguyen <hao.ict56@gmail.com>
+Tag: role::developer
+Filename: /com.haoict.libhdev_4.5.0_iphoneos-arm.deb
+Size: 45172
+MD5sum: 8f1576fcd8b6ec3263c73ac48b365e5d
+SHA1: c7b6a86124e34d2c77daa90eb3b855fceb352126
+SHA256: 862bdd9616684e6e20b74ee967adeb87b1f203e62cfdf4c18406a0acdaa8e647
+
+
 Package: org.mr.veloxreloaded
 Name: Velox Reloaded
 Author: ApexTweaks <support@apextweaks.com>
@@ -3706,21 +3740,7 @@ SHA256: b829d5b11bac177813d5e163ee7673adbb7b7b9e057707725ed76b474a3f860e
 Section: Tweaks
 Name: TutuApp Hacked
 
-Package: com.cydiakurd.tiktokgod
-Version: 1.9.1
-Architecture: iphoneos-arm
-Maintainer:  Hao Nguyen
-Author:  Hao Nguyen
-Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.3.0), firmware (>= 10)
-description: داونلۆد کردن و گۆڕینی ناوچە و زۆر شتی تر هەمووی کراوە بە زمانی کوردی 
-Filename: /com.cydiakurd.tiktokgod_1.9.1_iphoneos-arm.deb
-Size: 69472
-MD5sum: aef9f339ac5c8e039c3005feddd84538
-SHA1: b9dc0f66c3dad24ab27dfdf53f56b11aed6458da
-SHA256: 1bc82c2c399bc4ecb5925e0e3c28309f4e00e73d16de06869b3417d82d986707
-Section: Tweaks
-Name: TikTok God
-Installed-Size: 404
+
 
 Package: com.cydiakurd.fbpp
 Version: 1.6r-38
@@ -4009,27 +4029,7 @@ Filename: /com.cydiakurd.appinst_1.1.3_iphoneos-arm.deb
 Size: 119280
 MD5sum: 09280aa543fd8d4410108dd59ba6d724
 SHA1: 553f9b5a9018a28d4267df264883874cb8d9b5cc
-SHA256: 043911e9a0c52c831ed971247b56846aff0bc2375995d961a0a4ab4084767b68
-
-
-
-
-
-
-Package: com.cydiakurd.libhdev
-Version: 4.5.0
-Architecture: iphoneos-arm
-Maintainer: CYDIAKURD
-Author: Hao Nguyen
-Depends: mobilesubstrate, preferenceloader, firmware (>= 10)
-description: system requirements 
-Filename: /com.haoict.libhdev_4.5.0_iphoneos-arm.deb
-Size: 45172
-MD5sum: 8f1576fcd8b6ec3263c73ac48b365e5d
-SHA1: c7b6a86124e34d2c77daa90eb3b855fceb352126
-SHA256: 862bdd9616684e6e20b74ee967adeb87b1f203e62cfdf4c18406a0acdaa8e647
-Section: System
-Name: libhdev
+SHA256: 043911e9a0c52c831ed971247b56846aff0bc2375995d961a0a4ab4084767b68
 
 
 Package: com.cydiakurd.cercube
