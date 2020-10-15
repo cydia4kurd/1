@@ -23,6 +23,7 @@ Depends: mobilesubstrate, preferenceloader, firmware (>= 10)
 Architecture: iphoneos-arm
 Installed-Size: 380
 Name: libhdev
+Description: Hao Nguyen tweak helper
 Author: Hao Nguyen <hao.ict56@gmail.com>
 Tag: role::developer
 Filename: /com.haoict.libhdev_4.5.0_iphoneos-arm.deb
