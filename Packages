@@ -13,6 +13,7 @@ Size: 316720
 MD5sum: 813187c519011de993585797914befd9
 SHA1: 5a1fa1a6a848cbaf09949fbfe6650d3522f2f704
 SHA256: 21d3fd7fa5c91fd4743ffdf289ac27960c6939cf5266b325deef8280564a02db
+Icon: https://github.com/cydia4kurd/1/blob/master/pic/icon3.png?raw=true
 
 
 Package: com.haoict.libhdev
