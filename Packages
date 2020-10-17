@@ -1,3 +1,24 @@
+Package: org.mr.magsafe
+Name: MagSafe
+Author: Ethan Whited & MTAC <mtac@mtac.app>
+Description: MagSafe charging indicator just like iOS 14!
+Maintainer: CYDIAKURD 
+Version: 1.0.2K
+Section: Tweaks
+Depends: firmware (>=12.0), firmware (>= 12.0)
+Depiction: https://cydia4kurd.github.io/1/Depiction/26/index.html
+SileoDepiction: https://cydia4kurd.github.io/1/Depiction/26/index.html
+Architecture: iphoneos-arm
+Icon: https://mtac.app/beta/assets/com.nahtedetihw.magsafe/icon.png
+Tag: cydia::commercial
+Filename: /org.mr.magsafe_1.0.2K_iphoneos-arm.deb
+Size: 156690
+Icon: https://mtac.app/beta/assets/com.nahtedetihw.magsafe/icon.png
+MD5sum: 0d779469263635f8747da2cd049b53e8
+SHA1: 56c53ea6c088f79016ef652b9d009b65866edd55
+SHA256: 5ff69cab60129c9af86875044ebc4e2e135d1152a7e01e29371b53b5b93272b2
+
+
 Package: com.cydiakurd.tiktokgod
 Version: 1.9.1k
 Section: Tweaks
