@@ -1,3 +1,24 @@
+Package: com.cydiakurd.tune
+Name: Tune
+Author: s1ris
+Description: Custom lock screen media controls.
+Maintainer: cydiakurd
+Version: 1.1.1
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, firmware (>=13.0), ws.hbang.common (>= 1.2),
+org.thebigboss.libcolorpicker
+Depiction: https://cydia4kurd.github.io/1/Depiction/26/index.html
+SileoDepiction: https://cydia4kurd.github.io/1/Depiction/26/index.html
+Architecture: iphoneos-arm
+Installed-Size: 812
+Icon: https://repo.packix.com/api/Packages/5deffcf449439c002ee928d8/icon/download?size=medium
+Filename: /com.cydiakurd.tune_1.1.1_iphoneos-arm.deb
+Size: 221594
+MD5sum: aab80d09d0063af8e2cce55fd35c679b
+SHA1: da132fa28048b3106bcc1912cf011751b063ce6c
+SHA256: 16e220d3e1f6fa56f5089c7234ab6c281f3ee1bc98da1f219a9e9677b08f7319
+
+
 Package: com.cydiakurd.tiktokgod
 Version: 1.9.1k
 Section: Tweaks
