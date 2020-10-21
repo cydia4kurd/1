@@ -2,11 +2,11 @@ Package: com.cydiakurd.tune
 Name: Tune
 Author: s1ris
 Description: Custom lock screen media controls.
+Depends: mobilesubstrate, preferenceloader, firmware (>=13.0), ws.hbang.common (>= 1.2), org.thebigboss.libcolorpicker
 Depiction: https://cydia4kurd.github.io/1/Depiction/27/index.html
 Maintainer: cydiakurd
 Version: 1.1.1
 Section: Tweaks
-Depends: mobilesubstrate, preferenceloader, firmware (>=13.0), ws.hbang.common (>= 1.2), org.thebigboss.libcolorpicker
 Architecture: iphoneos-arm
 Installed-Size: 812
 Icon: https://repo.packix.com/api/Packages/5deffcf449439c002ee928d8/icon/download?size=medium
