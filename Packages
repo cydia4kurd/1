@@ -1,6 +1,6 @@
 Package: com.cydiakurd.flex3
 Name: Flex 3 Beta
-Version: 1:3~Beta90b
+Version: 1:3~Beta91
 Architecture: iphoneos-arm
 Description: Develop your own tweaks and share them on the Flex Community Cloud
 Author: John Coates
@@ -9,11 +9,11 @@ Maintainer: cydiakurd
 Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
 Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
 Depiction: https://cydia4kurd.github.io/1/Depiction/20/index.html
-Filename: /com.cydiakurd.flex3_3~Beta90b_iphoneos-arm.deb
-Size: 14089590
-MD5sum: 9044b7024fa9a11813028cce488e098f
-SHA1: bbe93c3198a7de1099cb31707f9615a23c726003
-SHA256: 3ceebe1dc170243483ecf7ab145a11a0f46fbd4581e16d4d69fbfe1836cb6c99
+Filename: /com.cydiakurd.flex3_3~Beta91_iphoneos-arm.deb
+Size: 14089588
+MD5sum: 00e4dc7370cdd3c9f5c214a0caebde96
+SHA1: b5dbc76971043ba7ae4b7e0d28bbd4a2eb385ee1
+SHA256: 418bd04d9c71cd68cabebb00c5b07fd46f52b36def88ce59cfe9c4c0c4f4b9eb
 
 
 
