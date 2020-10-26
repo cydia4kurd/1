@@ -1,3 +1,22 @@
+Package: com.cydiakurd.lscontacts
+Name: LS Contacts Kurdish
+Author: 0xkuj
+Description: Contacts bar right from your lockscreen
+Maintainer: cydiakurd 
+Version: 2.0
+Section: Tweaks
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, firmware (>= 13.0)
+Depiction: https://cydia4kurd.github.io/1/Depiction/20/index.html
+Architecture: iphoneos-arm
+Installed-Size: 2008
+Icon: https://repo.packix.com/api/Packages/5f808efd4be494001b7ea3b9/icon/download?size=medium
+Filename: /com.cydiakurd.lscontacts_2.0_iphoneos-arm.deb
+Size: 1431666
+MD5sum: 8c382d3739b63e3d5abb431899803b3f
+SHA1: c261e99ffd93ae1d0e23324f39cec031e4af1c50
+SHA256: a7be1bf97d29814e1f59d0bd30511d3bc8d5d9b7f74a36329ca5f3aab723baf1
+
+
 Package: com.cydiakurd.Flex3beta
 Name: Flex 3 Beta
 Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
