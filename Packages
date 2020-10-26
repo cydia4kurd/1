@@ -1,3 +1,21 @@
+Package: com.cydiakurd.cheto
+Name: Cheto PUBG 1.0.0
+Version: 2612-6cdaf663-GLOBAL-129
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Installed-Size: 7710
+Description: Cheto PUBGM 1.0.0 region: GLOBAL
+Depiction: https://cydia4kurd.github.io/1/Depiction/29/index.html
+Maintainer: cydiakurd 
+Author: Cheto
+Section: Tweaks
+Filename: /com.cydiakurd.cheto_2612-6cdaf663-GLOBAL-129_iphoneos-arm.deb
+Size: 2705186
+MD5sum: 5e8fdfa79e232fcf445d6bed4ddabb99
+SHA1: 4a05e69a06f2d15e3c4dc07c661e4ab997960a91
+SHA256: 3a94366ca10cb3233442dc91c4309470f11b4442b2c1be9f855f1d53a6f9aac7
+
+
 Package: com.cydiakurd.lscontacts
 Name: LS Contacts Kurdish
 Author: 0xkuj
