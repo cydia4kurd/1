@@ -6,7 +6,7 @@ Maintainer: cydiakurd
 Version: 2.0
 Section: Tweaks
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker, firmware (>= 13.0)
-Depiction: https://cydia4kurd.github.io/1/Depiction/20/index.html
+Depiction: https://cydia4kurd.github.io/1/Depiction/28/index.html
 Architecture: iphoneos-arm
 Installed-Size: 2008
 Icon: https://repo.packix.com/api/Packages/5f808efd4be494001b7ea3b9/icon/download?size=medium
