@@ -1,3 +1,24 @@
+Package: com.mr.c3rcub3
+Name: Cercube for YouTube
+Author: Majd Alfhaily
+Description: Cercube not only gives you the features that are missing from YouTube, but it also gives you full control over the app.
+Maintainer: cydiakurd
+Version: 5.2.7kk
+Section: Tweaks
+Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
+Replaces: org.mr.cercube
+Depiction: https://cydia4kurd.github.io/1/Depiction/29/index.html
+Architecture: iphoneos-arm
+Installed-Size: 15404
+Icon: https://apt.alfhaily.me/cdn/assets/cercube-icon.png
+Filename: /com.mr.c3rcub3_5.2.7kk_iphoneos-arm.deb
+Size: 5662716
+MD5sum: 25769d37cb4818124d9c8269784f03d8
+SHA1: dfaf414074c45535480be4f6d42409c3b22b8fd8
+SHA256: 1b4994ddb563ba84f59800b5213256e2a5d70d40954d7325b7adf28989fba2a9
+
+
 Package: com.cydiakurd.cheto
 Name: Cheto PUBG 1.0.0
 Version: 2612-6cdaf663-GLOBAL-129
@@ -2238,23 +2259,7 @@ Name: AppSync Unified (iOS 5 to iOS 13.6.1)
 
 
 
-Package: com.cydiakurd.cercube
-Version: 5.2.3
-Architecture: iphoneos-arm
-Maintainer: CYDIAKURD
-Author: Majd Alfhaily
-Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap
-Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
-Icon: https://apt.alfhaily.me/cdn/assets/cercube-icon.png
-Description: بۆ داونلۆد کردنی. ڤیدیۆ یوتوب بە سەرجەم کوالتییەکان و دەنگ چەند تایبەتمەنددیەکی تریش 13.6.1
-Filename: /com.cydiakurd.cercube_5.2.3_iphoneos-arm.deb
-Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
-Size: 5660744
-MD5sum: c8e749dcce34c3800fa724f1c74a3bc1
-SHA1: 06cf26aa35396547ab1498b533e1eb9ec029eed8
-SHA256: 757a4bd77c3aaa8b4518791808265478f4487b0403ce0f2e39cb985945a5b355
-Section: Tweaks
-Name: Cercube for YouTube
+
 
 Package: com.cydiakurd.8ballpool2020hackbygera
 Version: 1.0.0
@@ -4096,20 +4101,7 @@ SHA1: 553f9b5a9018a28d4267df264883874cb8d9b5cc
 SHA256: 043911e9a0c52c831ed971247b56846aff0bc2375995d961a0a4ab4084767b68
 
 
-Package: com.cydiakurd.cercube
-Version: 5.2.2
-Architecture: iphoneos-arm
-Maintainer: CYDIAKURD
-Author: Majd Alfhaily
-Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap
-description: bo dabazandni video youtube ba sarjam quality kan mp3-1080 ios 13.6.1
-Filename: /com.cydiakurd.cercube_5.2.2_iphoneos-arm.deb
-Size: 5636718
-MD5sum: e0ac7307df25931b852ee41bd73ae713
-SHA1: 7d0830b071b083745aebd3e0d9a778bb03063839
-SHA256: f1aa6c365f4f68d1dab804454ee4770690be15e56406fddf00e0c55897b1f96f
-Section: Tweaks
-Name: cercube for Youtube
+
 
 Package: com.cydiakurd.blanca
 Version: 1.0.1
