@@ -1,3 +1,22 @@
+Package: org.mr.apphack
+Name: Apps Hacks
+Author: hmodei96
+Description: Hacks for most apps from AppStore
+Maintainer: cydiakurd
+Version: 4.2k
+Section: Tweaks
+Depends: mobilesubstrate, ws.hbang.common
+Depiction: https://cydia4kurd.github.io/1/Depiction/30/index.html
+Architecture: iphoneos-arm
+Installed-Size: 6180
+Icon: https://pbs.twimg.com/profile_images/1312097082736508928/vdn6-ztz_bigger.jpg
+Filename: /org.mr.apphack_4.2k_iphoneos-arm.deb
+Size: 3130490
+MD5sum: 92a7fcde42f1c1cae55fb35de3522ea3
+SHA1: 1e715d37f31172be93a6c1ded60b6d3434ea55ab
+SHA256: f94249df78d2525284bc3f2145f86f4b37ac82b60e683b07aa77e3d5e80bc0f5
+
+
 Package: org.mr.c3rcub3
 Name: Cercube for YouTube
 Author: Majd Alfhaily
