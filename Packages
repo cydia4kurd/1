@@ -2410,24 +2410,6 @@ SHA256: d325d35bf344db3de3514a02a7c88927aeffbeb72662c50f5012694983fb355c
 Section: Tweaks
 Name: GoodWiFi
 
-Package: com.cydiakurd.powermodule
-Version: 1.3.1
-Architecture: iphoneos-arm
-Maintainer: CYDIAKURD
-Author: Muirey03
-Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
-Installed-Size: 652
-Description: بەکاریەت بۆ زیاد کردنی ڕیسپرنگ و سەیفمۆد وچەند کردارێکی تر زەرورە ئەم تویکە تان لابێت بەتایبەتی ئەوانەی پەپجی ئەکەن پێویستە لە کاتی یاری کردنا لەسەر سەیف مۆد بێد تا باند نەبن چونکە سەیفمۆد باشترین ڕێگایە بۆ نەگەیشتنی تویکەکان بە سیستەم شێوازی چالاک کردن لە سێتنگە و زیاد کردنی لە بەشی کۆنترۆل سێنتەرە  
-Filename: /com.cydiakurd.powermodule_1.3.1_iphoneos-arm.deb
-Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
-Size: 110792
-MD5sum: 5d8f9997e154025e01a7f3ee41577e54
-SHA1: 75671cbf08f7928ffb25f245b689fb59b9174f9e
-SHA256: dc21e16eaa2eedc9c7917246d166879a912f111f109048c69f90b50239b14071
-Section: Tweaks 
-Name: PowerModule
-
-
 
 
 
