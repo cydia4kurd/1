@@ -1,3 +1,21 @@
+Package: com.haoict.libhdev
+Name: libhdevv
+Depends: mobilesubstrate, preferenceloader, firmware (>= 10)
+Architecture: iphoneos-arm
+Description: This is a developer library for better preferences and useful utilities.
+Maintainer: cydiakurd 
+Author: Hao Nguyen <hao.ict56@gmail.com>
+Section: System
+Tag: role::developer
+Version: 4.5.0k
+Installed-Size: 380
+Filename: /com.haoict.libhdev_4.5.0k_iphoneos-arm.deb
+Size: 72210
+MD5sum: f7d8f994ca156d085f69a858241411eb
+SHA1: 964a6ae59d130f0ba5fbdffceab008a0b5c23d19
+SHA256: 79e5ecb26fde040b692f6e5566c2ea596b3c3c241989c9d997c89abeee819db5
+
+
 Package: org.mr.apphack
 Name: Apps Hacks
 Author: hmodei96
@@ -151,22 +169,7 @@ SHA256: 21d3fd7fa5c91fd4743ffdf289ac27960c6939cf5266b325deef8280564a02db
 Icon: https://github.com/cydia4kurd/1/blob/master/pic/icon3.png?raw=true
 
 
-Package: com.haoict.libhdev
-Version: 4.5.0
-Section: System
-Maintainer: cydiakurd 
-Depends: mobilesubstrate, preferenceloader, firmware (>= 10)
-Architecture: iphoneos-arm
-Installed-Size: 380
-Name: libhdev
-Description: Hao Nguyen tweak helper
-Author: Hao Nguyen <hao.ict56@gmail.com>
-Tag: role::developer
-Filename: /com.haoict.libhdev_4.5.0_iphoneos-arm.deb
-Size: 45172
-MD5sum: 8f1576fcd8b6ec3263c73ac48b365e5d
-SHA1: c7b6a86124e34d2c77daa90eb3b855fceb352126
-SHA256: 862bdd9616684e6e20b74ee967adeb87b1f203e62cfdf4c18406a0acdaa8e647
+
 
 
 Package: org.mr.veloxreloaded
