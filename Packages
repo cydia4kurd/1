@@ -1,3 +1,41 @@
+Package: com.cydiakurd.powermodule
+Name: PowerModule
+Version: 1.3.1k
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
+Installed-Size: 652
+Author: Muirey03
+Maintainer: cydiakurd
+Description: Group different utility actions into one control center module (iOS 11 only)
+Depiction: https://cydia4kurd.github.io/1/Depiction/31/index.html
+Icon: https://auxiliumdev.com/depictions/powermodule/image.jpg
+Filename: /com.cydiakurd.powermodule_1.3.1k_iphoneos-arm.deb
+Size: 110814
+MD5sum: 4ccc1738132aad4d951606326e561ff8
+SHA1: 704804636197ffd995db1231412047b043f90d5c
+SHA256: 9549e70f72c01a081819b01a086a50cce1eecedc967f08faede8f342518c056b
+
+Package: com.opa334.ccsupport
+Name: CCSupportt
+Depends: mobilesubstrate, firmware (>=11.0)
+Provides: com.ioscreatix.silo
+Replaces: com.ioscreatix.silo
+Conflicts: com.ioscreatix.silo
+Architecture: iphoneos-arm
+Description: Support tweak for CC modules!
+Maintainer: opa334
+Author: opa334
+Section: Tweaks
+Version: 1.3k
+Installed-Size: 308
+Filename: /com.opa334.ccsupport_1.3k_iphoneos-arm.deb
+Size: 69714
+MD5sum: 716275de837883fe60bee6395ea96317
+SHA1: 528ce378c0f8fa9485b97b252965bec8f2da441e
+SHA256: dcd2ba1379e6753fe7d2b09cedda62fd29d80d0277c6bd4de919eb52b98b6b22
+
+
 Package: com.haoict.libhdev
 Name: libhdevv
 Depends: mobilesubstrate, preferenceloader, firmware (>= 10)
