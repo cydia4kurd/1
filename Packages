@@ -1,3 +1,21 @@
+Package: org.mr.rocket
+Name: Rocket 4 Instagram
+Author: Majd Alfhaily
+Description: Save posts and view stories anonymously and do much more
+Maintainer: cydiakurd
+Version: 3.7.13kk
+Section: Tweaks
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.10~beta1)
+Depiction: https://cydia4kurd.github.io/1/Depiction/21/index.html
+Architecture: iphoneos-arm
+Icon: https://apt.alfhaily.me/cdn/assets/rocket-icon.png
+Filename: /org.mr.rocket_3.7.13kk_iphoneos-arm.deb
+Size: 5932222
+MD5sum: 291a7e87a781c50e80db8367de96229b
+SHA1: b15a72962157a5b0b62fb8044996ebbb92d4af8c
+SHA256: 9779ddc3e688de399b655c1b23eac7a843c493ae3a7310f9a5e516615f0f88c8
+
+
 Package: com.cydiakurd.escape
 Name: Escape Kurdish
 Author: Plat-Ykor <plat-ykor@libero.it>
@@ -172,22 +190,6 @@ SHA1: 1adb5e53303c93bf8630a7797a1d33f91449a2e5
 SHA256: 2c83a40ec1218129c736dad1fbf4657002577a5be5baea0f969205d6e05775cf
 
 
-Package: org.mr.rocket
-Name: Rocket for Instagram
-Author: Majd Alfhaily
-Description: Save posts and view stories anonymously and do much more
-Maintainer: cydiakurd
-Version: 3.7.11kk
-Section: Tweaks
-Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap
-Depiction: https://cydia4kurd.github.io/1/Depiction/21/
-Architecture: iphoneos-arm
-Icon: https://apt.alfhaily.me/cdn/assets/rocket-icon.png
-Filename: /org.mr.rocket_3.7.11kk_iphoneos-arm.deb
-Size: 5890102
-MD5sum: 5556b01c41e50cbe6e5006776a172aba
-SHA1: f6d66c63a241d4873299bdfd5dd4bc230dff7999
-SHA256: 1b8ac320498471e7b8ea53bd93184b9a182aee60fd97c735a399005ccb0606b8
 
 
 Package: com.cydiakurd.tune
