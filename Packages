@@ -1,3 +1,24 @@
+Package: org.mr.c3rcub3
+Name: Cercube 4 YouTube
+Author: Majd Alfhaily
+Description: Cercube not only gives you the features that are missing from YouTube, but it also gives you full control over the app.
+Maintainer: cydiakurd
+Version: 5.2.9kk
+Section: Tweaks
+Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.10~beta1)
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
+Replaces: org.mr.cercube
+Depiction: https://cydia4kurd.github.io/1/Depiction/29/index.html
+Architecture: iphoneos-arm
+Installed-Size: 16976
+Icon: https://apt.alfhaily.me/cdn/assets/cercube-icon.png
+Filename: /org.mr.c3rcub3_5.2.9kk_iphoneos-arm.deb
+Size: 5827946
+MD5sum: e34e04eb32367c930db5875e446db76b
+SHA1: 0c2adbd123b5318ccf20c294a76f4c7a2769a8bb
+SHA256: cc5d8ea6872df029dcb498d44c70d66b56996010a91d75b5c59e1475af9dd965
+
+
 Package: com.cydiakurd.powermodule
 Name: PowerModule
 Version: 1.3.1k
@@ -73,25 +94,6 @@ SHA1: 1e715d37f31172be93a6c1ded60b6d3434ea55ab
 SHA256: f94249df78d2525284bc3f2145f86f4b37ac82b60e683b07aa77e3d5e80bc0f5
 
 
-Package: org.mr.c3rcub3
-Name: Cercube for YouTube
-Author: Majd Alfhaily
-Description: Cercube not only gives you the features that are missing from YouTube, but it also gives you full control over the app.
-Maintainer: cydiakurd
-Version: 5.2.7ku
-Section: Tweaks
-Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap
-Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
-Replaces: org.mr.cercube
-Depiction: https://cydia4kurd.github.io/1/Depiction/29/index.html
-Architecture: iphoneos-arm
-Installed-Size: 15404
-Icon: https://apt.alfhaily.me/cdn/assets/cercube-icon.png
-Filename: /org.mr.c3rcub3_5.2.7ku_iphoneos-arm.deb
-Size: 5662710
-MD5sum: 8882065b213e6a19733cfbdf4135d716
-SHA1: e3f354150e4c3ffee9035104982d9304e424209f
-SHA256: 10ab2878eaeaa79910381488bcb262ce5320f103971e8636acf5e822fbef2792
 
 
 Package: com.cydiakurd.cheto
