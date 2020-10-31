@@ -1,3 +1,22 @@
+Package: com.cydiakurd.escape
+Name: Escape Kurdish
+Author: Plat-Ykor <plat-ykor@libero.it>
+Description: Escape from annoying people!
+Maintainer: cydiakurd
+Version: 1.5.1k
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm 
+Depiction: https://cydia4kurd.github.io/1/Depiction/32/index.html
+Installed-Size: 692
+Icon: https://repo.packix.com/api/Packages/5f955d8e60bcfe001aff8fd7/icon/download?size=medium
+Filename: /com.cydiakurd.escape_1.5.1k_iphoneos-arm.deb
+Size: 337596
+MD5sum: 195988c5a7df16025dc05bec9668a8f5
+SHA1: 5bd8c9b4439bd065b0a9fd52ecf2307df86e738e
+SHA256: 08f6e41de7ecba7c2e2ee074ce0f151b33b3106fc59c65f2346edd90d000dd0f
+
+
 Package: org.mr.c3rcub3
 Name: Cercube 4 YouTube
 Author: Majd Alfhaily
