@@ -1,3 +1,99 @@
+Package: com.cydiakurd.auroraosbundle
+Name: AuroraOS Bundle
+Author: Tech&More <techandmoremmx@gmail.com>
+Description: A lot of gradient colors! AuroraOS 13 & AuroraOS Night 13 in one Package!
+Maintainer: cydiakurd 
+Version: 2.0.1k
+Section: Themes
+Depiction: https://cydia4kurd.github.io/1/Depiction/14/index.html
+Architecture: iphoneos-arm
+Icon: https://repo.packix.com/api/Packages/5edb0a88b3b4b4001a8e4584/icon/download?size=medium
+Filename: /com.cydiakurd.auroraosbundle_2.0.1k_iphoneos-arm.deb
+Size: 82540622
+MD5sum: c8402ade9a04f0037d15b3e0e93691ff
+SHA1: b6dee4c1911d57da60f88ea4b77c0ca2109a3bb7
+SHA256: 55ac85db04a55abc3a402823e27054bca49c48d74bb64b60b493b2fe1b6aef8e
+
+
+Package: com.cydiakurd.batterynotch
+Name: BatteryNotch Kurdish
+Author: gilshahar7
+Description: Represent battery around the notch
+Maintainer: cydiakurd 
+Version: 1.6.1k
+Section: Tweaks
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.6.8), preferenceloader
+Conflicts: none
+Depiction: https://cydia4kurd.github.io/1/Depiction/2/index.html
+Architecture: iphoneos-arm
+Installed-Size: 2348
+Icon: https://repo.packix.com/api/Packages/5ac719e7aa6e7b4b0d46f406/icon/download?size=medium
+Filename: /com.cydiakurd.batterynotch_1.6.1k_iphoneos-arm.deb
+Size: 214926
+MD5sum: 5c67607ba630250aa88ce56fb28cf247
+SHA1: da3328e910c16780650e10db9d946d5afb110f55
+SHA256: e16efe3813585db70f1983395f9045c133d7960022d08f4b5cb451da4385be7c
+
+
+Package: com.cydiakurd.appstoreplusplus
+Name: AppStore++
+Version: 0.9.13-2k
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.whatever
+Section: Tweaks
+Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Conflicts: com.unlimapps.uaupdatetools
+Priority: optional
+Architecture: iphoneos-arm
+Author: CokePokes
+Depiction: https://cydia4kurd.github.io/1/Depiction/33/index.html
+Maintainer: cydiakurd
+Icon: https://github.com/cydia4kurd/1/blob/master/pic/appstore.png?raw=true
+Filename: /com.cydiakurd.appstoreplusplus_0.9.13-2k_iphoneos-arm.deb
+Size: 680220
+MD5sum: 1991a43c88c547539b8a508015c20725
+SHA1: 52c66ba2d94be8ef95a00292c14a9920649ac4ad
+SHA256: 126eef9543d80ced917be7209f990c40fc5267c6eeffe2fb74931f69e630f5da
+
+
+Package: com.cydiakurd.arch
+Name: Arch Kurdish
+Author: machport
+Description: Restrics access to certain apps, Configurable in settings
+Maintainer: cydiakurd
+Version: 1.5k
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Depiction: https://cydia4kurd.github.io/1/Depiction/13/index.html
+Architecture: iphoneos-arm
+Installed-Size: 492
+Icon: https://github.com/cydia4kurd/1/blob/master/pic/arch.png?raw=true
+Filename: /com.cydiakurd.arch_1.5k_iphoneos-arm.deb
+Size: 107444
+MD5sum: 41d4f570f75c2f6955976d9b002b79d5
+SHA1: 356ea158dba79f38291cba9310ae67ae6394eeb3
+SHA256: c1f646545efaed493717f6fd047fdd7fb95922a1347008dba1fe4db09712c25d
+
+
+Package: com.cydiakurd.dockx
+Name: DockX
+Author: udevs
+Description: Pasteboard shortcuts on your dock!
+Maintainer: cydiakurd
+Version: 2.2.3k
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0), firmware(>=12.0), ws.hbang.alderis
+Conflicts: com.restiveconch.actionbar
+Depiction: https://cydia4kurd.github.io/1/Depiction/15/index.html
+Architecture: iphoneos-arm
+Installed-Size: 1368
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+Filename: /com.cydiakurd.dockx_2.2.3k_iphoneos-arm.deb
+Size: 435366
+MD5sum: 2ea15afa1bc6759ea5afe5df54e4682e
+SHA1: f5cb148b1c8ddd01feedfa522310b1738d37eb4a
+SHA256: cb65ce9d2534d512001dcba6301cf8086eaba6d251b5d64b9c5153bfa164e371
+
+
 Package: org.mr.rocket
 Name: Rocket 4 Instagram
 Author: Majd Alfhaily
@@ -426,41 +522,10 @@ MD5sum: ed2fb25a3d3dc22af1d4791772d2c97a
 SHA1: 80955bf56833d288029c0ae67ed03367dd27f993
 SHA256: 9ab8ed2b9bcc253f15cb62be255499ab96cbf294aca6d5e8c7f309a518c32a99
 
-Package: com.cydiakurd.auroraosbundle
-Name: AuroraOS Bundle
-Author: Tech&More <techandmoremmx@gmail.com>
-Description: A lot of gradient colors! AuroraOS 13 & AuroraOS Night 13 in one Package!
-Maintainer: cydiakurd
-Version: 2.0
-Section: Themes
-Depiction: https://cydia4kurd.github.io/1/Depiction/13/index.html
-Architecture: iphoneos-arm
-Icon: https://repo.packix.com/api/Packages/5edb0a88b3b4b4001a8e4584/icon/download?size=medium
-Filename: /com.cydiakurd.auroraosbundle_2.0_iphoneos-arm.deb
-Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
-Size: 80539764
-MD5sum: e1bbe78b8523a75007d8685fee41c2df
-SHA1: 930a1fe7b6659b5d728caaed21e6ed8be5bfb97c
-SHA256: eea33b32211a9498be415638506a1ba45bd5b4754b30ce9897f5f5e265da3eb3
 
-Package: com.cydiakurd.arch
-Name: Arch
-Author: machport
-Description: Restrics access to certain apps, Configurable in settings
-Maintainer: MainRepo
-Version: 1.5
-Section: Tweaks
-Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
-Depiction: https://cydia4kurd.github.io/1/Depiction/13/index.html
-Architecture: iphoneos-arm
-Installed-Size: 492
-Icon: https://mainrepo.org/CydiaIcon.png
-Filename: /com.cydiakurd.arch_1.5_iphoneos-arm.deb
-Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
-Size: 137774
-MD5sum: b1c20c96183bfda02289032bb1dca6a2
-SHA1: 46cd23fc8b0de9064b808b2f50fbcc0a8f57e064
-SHA256: 9ecd9386b044ade060f6c10c902e8df6ff1d3e11921df7b6887d90a134fc6749
+
+
+
 
 Package: com.cydiakurd.candycrush
 Name: Candy Crush Saga Cheats
@@ -652,23 +717,7 @@ SHA256:  07ce688fadc16be4d0d35d5d83357022e2508a2a804b3b7d3331837be9fa0c19
 Section: Tweaks
 Name:  CarrierCrack - Global
 
-Package: com.cydiakurd.coolcc
-Version: 1:3.4
-Architecture: iphoneos-arm
-Maintainer: CYDIAKURD
-Author: 4nni3
-Depends: mobilesubstrate,preferenceloader,com.creaturesurvive.libcscolorpicker
-Depiction: https://cydia4kurd.github.io/1/Depiction/6/index.html
-Description: Cool tweak
-Filename: /com.cydiakurd.coolcc_3.4_iphoneos-arm.deb
-Installed-Size: 448
-Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
-Size: 54406
-MD5sum: efb183f894e3e8afd9bff0cfce2f633a
-SHA1: 00cb5de0d90f99cb84579b2b0f4c7948b3603db8
-SHA256: e3addb8c0abee1b45dcd0c8633d3aeb78b31e7050aaaa4bd0fa8590badfa2843
-Section: Tweaks
-Name: CoolCC
+
 
 Package: com.yourepo.itweakios.ccpatch10
 Version: 4.0.1
@@ -1123,25 +1172,7 @@ SHA256: c2b57fac244eda72c5e92a9d2104aa8fc0c0fa1da4558c6054b7e20e7790d89d
 Section: Tweaks
 Name: iAP Cracker
 
-Package: com.cydiakurd.appstoreplusplus
-Version: 0.9.12
-Architecture: iphoneos-arm
-Maintainer: CYDIAKURD
-Author: CokePokes
-Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
-Conflicts: com.unlimapps.uaupdatetools
-Description: بەکاریەت بۆ دابەزاندنەوەی وەشانی ئەپەکان لەڕێی ئەپستۆرەوە (چۆنێتی بەکار هێنان لە ئەپستۆر پەنجە لەسەر ئنستاڵ هەر ئەپێک داگرە بۆ 3 چرکە ) 
-Filename: /com.cydiakurd.appstoreplusplus_0.9.12_iphoneos-arm.deb
-Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
-Size: 616656
-Depiction: https://cydia4kurd.github.io/1/Depiction/1/index.html
-Priority: optional
-MD5sum: ab61463865b7c845218e0b3c306e518d
-SHA1: 2454960b795ba619be2e937bd50c32cbc351adb6
-SHA256: eb21d527c3d142f429d38cc17808426973b4597b6f11dd98494b5f4b2ed786e6
-Section: Tweaks
-Name: AppStore++
-Icon: https://banana-gfp.github.io/repo/DebIcon.png
+
 
 Package: com.cydiakurd.snapbreak
 Version: 1.7.1Do
@@ -1534,25 +1565,7 @@ SHA256: aa606610e0fafb3806cb32e85e6d1ed6c093e9ba02cff79ddf3617b49cfbabb2
 Section: Themes
 Name: Viola
 
-Package: com.cydiakurd.dockx
-Version: 1.6.4
-Architecture: iphoneos-arm
-Maintainer: CYDIAKURD
-Author: udevs
-Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0), firmware(>=12.0), ws.hbang.alderis
-Conflicts: com.restiveconch.actionbar
-Description: تویکێکی نایابە بۆ زیاد کردنی چەند کردارێک بۆ کیبۆردەکەت وەک (copy|paste|select|redo|undo) ios7-13.7 ئەگونجێ 
-Filename: /com.cydiakurd.dockx_1.6.4_iphoneos-arm.deb
-Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
-Size: 174416
-Installed-Size: 668
-MD5sum: fcd7e35fcc836ae83934d8206ce84bb0
-SHA1: d423ed5eb5bc068171160d8dfb3e1e53cf49f72f
-SHA256: a1a5070db59a26ba529ce5a2b0764673b4c8ba19c76ebd8b0290c1e47ea58e7c
-Section: Tweaks
-Name: DockX
-Depiction: https://cydia4kurd.github.io/1/Depiction/15/index.html
-Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+
 
 Package: com.rileytestut.altdaemon
 Version: 0.2
