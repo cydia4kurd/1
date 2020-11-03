@@ -1,3 +1,101 @@
+Package: org.mr.callbarxs
+Version: 3.2-143kk
+Section: Tweaks
+Maintainer: cydiakurd 
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware ( >= 12), wget
+Conflicts: com.hackyouriphone.limneosos, net.limneos.callbarx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Depiction: https://cydia4kurd.github.io/1/Depiction/36/index.html
+Architecture: iphoneos-arm
+Installed-Size: 1608
+Name: CallBar XS 
+Author: Elias Limneos <limneoselias@gmail.com>
+Icon: https://www.limneos.net/cydia/packageImages/net.limneos.callbarxs/icon.png?fe=18
+Filename: /org.mr.callbarxs_3.2-143kk_iphoneos-arm.deb
+Size: 525348
+MD5sum: 5ca14baa98bc7a32b0db8ede2cadf0e8
+SHA1: b1098af8fc7f3c7eedcc478c9ed1a1710ec070d5
+SHA256: aca95dc775ba844b30c64f9b344b6ce251a12e5b7493e55b57754ddc5b3bf319
+
+
+Package: org.mr.bioprotectxs
+Name: BioProtect XS
+Author: Elias Limneos <limneoselias@gmail.com>
+Description: Protect your apps with Touch/Face ID!
+Maintainer: cydiakurd 
+Version: 4.4-55kk
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
+Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Depiction: https://cydia4kurd.github.io/1/Depiction/35/index.html
+Architecture: iphoneos-arm
+Installed-Size: 2268
+Icon: https://www.limneos.net/cydia/packageImages/net.limneos.bioprotectxs/icon.png?fe=62
+Filename: /org.mr.bioprotectxs_4.4-55kk_iphoneos-arm.deb
+Size: 833314
+MD5sum: 2f78d9ba65889d9d5e4d4fa13061efe0
+SHA1: 8b55848f9ad626c81e479fbb939db59c3c29a490
+SHA256: 5f899d1313effc5e18d4dd781dc203647c08f6dd3299c638debdd5f4bad308ba
+
+
+Package: com.cydiakurd.crane
+Name: Crane
+Author: opa334
+Description: Crane allows you to create multiple containers per application!
+Maintainer: cydiakurd 
+Version: 1.1-3k
+Section: Tweaks
+Depends: firmware (>=13.0), mobilesubstrate, applist, com.rpetrich.rocketbootstrap
+Conflicts: com.opa334.cranelite, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Depiction: https://cydia4kurd.github.io/1/Depiction/37/index.html
+Architecture: iphoneos-arm
+Installed-Size: 1852
+Icon: https://repo.packix.com/api/Packages/5f47aad427f6a8001ac6eb05/icon/download?size=medium
+Filename: /com.cydiakurd.crane_1.1-3k_iphoneos-arm.deb
+Size: 352236
+MD5sum: 7658e27eddfd3494f06c87a5a48c67b7
+SHA1: 3f7e20f4f88701bf7a881209f086f8dae00b92c9
+SHA256: 3b746b25fbda959b9ac6a98f28f2322e10c8e0986e22baa87d32806e6526d839
+
+
+Package: com.cydiakurd.bazzi2
+Name: Bazzi 2 (iOS 11 - 13)
+Author: Blake Boxberger
+Description: Battery in your Notch
+Maintainer: cydiakurd 
+Version: 2.1.0-1k
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Conflicts: com.neinzedd9.bazzi, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Replaces: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Depiction: https://cydia4kurd.github.io/1/Depiction/34/index.html
+Architecture: iphoneos-arm
+Installed-Size: 460
+Icon: https://api.ios-repo-updates.com/images/repositories/dynastic.png
+Filename: /com.cydiakurd.bazzi2_2.1.0-1k_iphoneos-arm.deb
+Size: 92500
+MD5sum: 99173178bc2d9576fbfc4a5ec92bd846
+SHA1: 94ed47f907637c1d2d8d2232c10e1bdc958ff686
+SHA256: 02f3e50b695c905dfafb43393e03f6668642588ce82df61e2fa0b7ebbc47422b
+
+
+Package: com.cydiakurd.a-bypass
+Name: A-Bypass
+Author: Baw Appie <pp121324@gmail.com>
+Description: Super Jailbreak detection bypass!
+Maintainer: cydiakurd
+Version: 1.4k
+Section: Tweaks
+Depends: mobilesubstrate, com.muirey03.libmryipc, applist
+Depiction: https://cydia4kurd.github.io/1/Depiction/com.rpgfarm.a-bypass/index.html
+Architecture: iphoneos-arm
+Installed-Size: 784
+Filename: /com.cydiakurd.a-bypass_1.4k_iphoneos-arm.deb
+Size: 132004
+MD5sum: f219daad1c829624dcc773e4c8e37d28
+SHA1: 7b8c398e3bf55edd068c1282123cf9687eae234b
+SHA256: 26725e002df136f1ec006e8459d6717ad28c969e5dec66d59f080a217fecd250
+
+
 Package: com.cydiakurd.auroraosbundle
 Name: AuroraOS Bundle
 Author: Tech&More <techandmoremmx@gmail.com>
@@ -1118,23 +1216,7 @@ SHA256: 4e8e98895576e985be5a50070c96403a2ce2b577eb2267649853686a2ad99f56
 Section: Utilities
 Name: Erica Utilities 
 
-Package: com.rpgfarm.a-bypass
-Version: 1.3.5
-Installed-Size: 960
-Architecture: iphoneos-arm
-Maintainer: CYDIAKURD
-Author: Baw Appie
-Depends: mobilesubstrate, com.muirey03.libmryipc, applist
-Description: بۆ شاردنەوەی جلبریک لە ئەپەکان 
-Filename: /com.rpgfarm.a-bypass_1.3.5_iphoneos-arm.deb
-Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
-Size: 125508
-Depiction: https://cydia4kurd.github.io/1/Depiction/com.rpgfarm.a-bypass/index.html
-MD5sum: 6862e8aac2e8d172dc75c7ce40b3d497
-SHA1: 424331b0eaecf6449d46cbc939303154b15e8698
-SHA256: 2b5ca8dd8b74c9302b911d605f8b848189fe8f830944d5681c500f8c9b77000a
-Section: Tweaks
-Name: A-Bypass
+
 
 Package: com.cydiakurd.filza
 Version: 3.8.0-24
@@ -1296,41 +1378,7 @@ SHA256: 0aa927a83e9c59bc464bbb6b4b917558cc2f3553ab5293316388cdd8f9cc3af1
 Section: Tweaks
 Name: BatteryNotch
 
-Package: com.cydiakurd.bazzi2
-Version: 2.0.8
-Architecture: iphoneos-arm
-Maintainer: CYDIAKURD
-Author: Blake Boxberger
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.rpetrich.rocketbootstrap
-Conflicts: com.neinzedd9.bazzi, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
-Replaces: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
-Description: بۆ گۆڕینی ڕووکاری پاتری 
-Filename: /com.cydiakurd.bazzi2_2.0.8_iphoneos-arm.deb
-Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
-Size: 85796
-MD5sum: 0b9f3758d48de414e34adbfc16865fda
-SHA1: 7eb2ff349f8fc7462484b63a23b8e42f8ab767e6
-SHA256: ead1b1fb118632c898b642badb74c50702d4b5ce5a542b969fbcebfc24326104
-Section: Tweaks
-Name: Bazzi 2
 
-Package: com.cydiakurd.bioprotectxs
-Version: 4.4-51
-Architecture: iphoneos-arm
-Maintainer: CYDIAKURD
-Author: Elias Limneos 
-Depends: mobilesubstrate, preferenceloader, github.io.gfp.limneosos
-Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
-Description: بە کاریەت بۆ قفڵ کردنی ڕەسم و ئەپەکان بە بەسمە و فەیس ئایدی چەند تایبەت مەندییەکی تریش 
-Filename: /com.cydiakurd.bioprotectxs_4.4-51_iphoneos-arm.deb
-Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
-Size: 821454
-Installed-Size: 2268
-MD5sum: ef89f1119eb16c2b2a7d67f5a1540d08
-SHA1: 2db5311f364f500668c4656d18d6ba1a30986f42
-SHA256: c96d0c78e6b0d587281316211869aa8d811f802a9415f5e25963cb68d9ca96fe
-Section: Tweaks
-Name: BioProtect XS (iOS 12/13)
 
 
 Package: com.cydiakurd.stemgrade180.facebookdarkmode
@@ -1445,24 +1493,7 @@ SHA256: dfcc11531b0618594bb6afe925eba24f8f0cb003e7b472dea23dbc58b244b299
 Section: Tweaks 
 Name: NotiFill Pro
 
-Package: com.cydiakurd.crane
-Version: 1.0.2
-Architecture: iphoneos-arm
-Maintainer: CYDIAKURD
-Author: opa334
-Depends: firmware (>=13.0), mobilesubstrate, applist, com.rpetrich.rocketbootstrap
-Conflicts: com.opa334.cranelite, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
-Description: ئتوانی زیاد لە چەند ئەکاونتێک لە 1 ئەپ بەکار بێنی 
-Filename: /com.cydiakurd.crane_1.0.2_iphoneos-arm.deb
-Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
-Size: 340670 
-Installed-Size: 1952
-Icon: https://repo.packix.com/api/Packages/5f47aad427f6a8001ac6eb05/icon/download?size=medium
-MD5sum: f4783d9221359e9e063e4a238e811b3d
-SHA1: 6fe42b255b261f724b74b092aa4918d491113590
-SHA256: 04c9df587b89980776831144010197b76f61484be2075aff4385554e7e44f27e
-Section: Tweaks
-Name: Crane
+
 
 Package: com.cydiakurd.11pro
 Priority: optional
@@ -3532,27 +3563,7 @@ MD5sum: 541ff65312f004801953e9a89f0036e7
 SHA1: f9e9198571ea65a040fbffa805c0098a8a9c8019
 SHA256: f7bfdf181f6910b81f9267720d4ad6a17010f26c8f71be1139977a6022f0172b
 Section: Tweaks
-Name: CrackTool4 (iOS 12-13) KURDISH
-
-
-
-Package: com.cydiakurd.callbarxsios12rus
-Version: 3.2-143k
-Architecture: iphoneos-arm
-Maintainer: CYDIAKURD
-Author: Elias Limneos
-Depends: mobilesubstrate, preferenceloader, com.yourepo.mohadu31.simpleactivationactions, firmware ( >= 12), sedfix, wget
- 
-Description: بەکار یەت بۆ گۆڕینی شێوازی تەلەفون کردن و هاتن کراوە بە زمانی کوردی
-Filename: /com.cydiakurd.callbarxsios12rus_3.2-143k_iphoneos-arm.deb 
-Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
-Size: 514204
-MD5sum: 875ab9dd80fc0166f301621518a2e0b2
-SHA1: c35843d0a51ecbad4b8076b64a739044413e50d0
-SHA256: 7c1bd9a7eac751728752c5078fc926d9a414fe6ca959c30f333aa27522eceaa7
-Section: Tweaks
-Name: CallBar XS (iOS 12/13) Cracked KURDISH
-Icon: https://www.limneos.net/cydia/packageImages/net.limneos.callbarxs/icon.png?fe=18
+Name: CrackTool4 KURDISH
  
 
 Package: com.cydiakurd.360vpn
@@ -4200,91 +4211,4 @@ Name: Blanca KURDISH
 
 
 
-Package: com.cydiakurd.iosgodscomangrybirds2
-Version: 3-2.8.3
-Architecture: iphoneos-arm
-Maintainer: CYDIAKURD
-Filename: /com.cydiakurd.iosgodscomangrybirds2_2.8.3-3_iphoneos-arm.deb
-Size: 13781524
-MD5sum: c69fca415637992e918e8e4b1624687d
-SHA1: e8717b71c0b50d84230228a6b34b4f363569884d
-SHA256: d15bc28c0346b6d1de0f5e409b0e88a7ff0b32f5150a9b457aad9ca97c4e0e84
-Section: Tweaks
-Description: hack gems
-Author: iosgods 
-Name: angry bird 2 hack
-
-Package: com.cydiakurd.libsparkcolourpicker
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: CYDIAKURD
-Filename: /com.cydiakurd.libsparkcolourpicker_1.0.0_iphoneos-arm.deb
-Size: 122032
-MD5sum: ef369b6e267514ede56aab1c3a562d60
-SHA1: 89d9da630baef776ae62140833dc88b98597db10
-SHA256: 29d18f8edc1f18c9db37c25d740c00892bb9d714e32999ab07ad09a41b4e4aca
-Section: Tweaks
-Description: hack 
-Author: spark
-Name: libsparkcolourpicker
-
-
-
-
-Package: com.cydiakurd.beatmakerhack
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: CYDIAKURD
-Filename: /com.cydiakurd.beatmakerhack_1.0.2_iphoneos-arm.deb
-Size: 88740
-MD5sum: f5f2e32c15c23a3e4f5ab41f70c43656
-SHA1: 40e5cdd814d516e72d2dc468bfd8ff8e836ba46e
-SHA256: 297e6a64da2030afdf6d355ea3a6ee77fad031602083c1b0a267d36f88ea5cd5
-Section: Tweaks
-Description: HACK .........
-Author: pcex
-Name: beat maker hack
-
-
-Package: com.cydiakurd.calmhack 
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: CYDIAKURD
-Filename: /com.cydiakurd.calmhack_0.0.2_iphoneos-arm.deb
-Size: 81556
-MD5sum: 2160ccca2e3083c4a1fa8b9ed97b2e73
-SHA1: 1a03cdde3140e55c6df6558ca78b29d6803498b4
-SHA256: d31f26ad6c65d686903a3bd5c25f2d597a9a0d1b3dcd400ab857bd27702703db
-Section: Tweaks
-Description: HACK
-Author: kayleymqs 
-Name: Calm hack 
-
-Package: com.cydiakurd.hack8ball
-Version: 1.2.3
-Architecture: iphoneos-arm
-Maintainer: CYDIAKURD
-Filename: /com.cydiakurd.hack8ball.sa_4.8.4-2+debug_iphoneos-arm.deb
-Size: 9044
-MD5sum: d63b568732b6e9556d54a37f68555a37
-SHA1: b746aac8438731e82fa170d1964692f4df650b0a
-SHA256: acbb56262d4337c5d9c3ef3025a370f3a46358527161a63b319041a28e08094a
-Section: Tweaks
-Description: hack yari 8 ball pool 
-Author: CYDIA KURD 
-Name: 8ball pool cheat 
-
-Package: com.cydiakurd.betternet
-Version: 1.4.4
-Architecture: iphoneos-arm
-Maintainer: CYDIAKURD
-Filename: /com.cydiakurd.pxcexbetternethack_0.0.6_iphoneos-arm.deb
-Size: 84190
-MD5sum: dd42e85dd8ac0cfd293a7c5b0f255667
-SHA1: 8db446556e01528e7f0cd36b1f8c46d8256e4bd2
-SHA256: 4c237df615a9483af4aab4b603dca71ed1531e0634a58071124ff814a87be044
-Section: Tweaks
-Description: hack
-Author: pxcex 
-Name: BETTERNET HACK 
 
