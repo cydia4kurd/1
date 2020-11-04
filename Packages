@@ -1,3 +1,22 @@
+Package: com.cydiakurd.yobunpro
+Name: Yobun Pro
+Author: Plat-Ykor <plat-ykor@libero.it>
+Description: The best utilities in your SpringBoard ‚ô•
+Maintainer: cydiakurd
+Version: 3.9.2k
+Section: Tweaks
+Depends: mobilesubstrate
+Depiction: https://cydia4kurd.github.io/1/Depiction/39/index.html
+Architecture: iphoneos-arm
+Installed-Size: 1100
+Icon: https://repo.packix.com/api/Packages/5e5d5c106cba5100141b6a89/icon/download?size=medium
+Filename: /com.cydiakurd.yobunpro_3.9.2k_iphoneos-arm.deb
+Size: 566998
+MD5sum: 8d4a15c77e73d3ed4be9f882cd7ab750
+SHA1: 1761fe696e77db2c9fd0f83a6f7711ff2c90606a
+SHA256: 86200e11d32ae045aa9971e9758c002e542711b258c94fb48f7412aa2291e75c
+
+
 Package: com.cydiakurd.sphere
 Name: Sphere Kurdish
 Author: SynnyG <synnyg.devjb@gmail.com>
