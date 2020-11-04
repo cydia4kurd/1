@@ -1,3 +1,22 @@
+Package: com.cydiakurd.sphere
+Name: Sphere Kurdish
+Author: SynnyG <synnyg.devjb@gmail.com>
+Description: Multitasking at its best!
+Maintainer: cydiakurd 
+Version: 1.0.3k
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>=12.0), ws.hbang.common (>= 1.11), preferenceloader
+Depiction: https://cydia4kurd.github.io/1/Depiction/38/index.html
+Architecture: iphoneos-arm
+Icon: https://repo.packix.com/api/Packages/5f9f259d00f841001b2f746a/icon/download?size=medium
+Tag: cydia::commercial
+Filename: /com.cydiakurd.sphere_1.0.3k_iphoneos-arm.deb
+Size: 272922
+MD5sum: 8a4f4bbf383bb478c64a37739db4f869
+SHA1: 3ca0bf39afee3cd881d7f4207b3d735ad3858abd
+SHA256: 4c79c3bc157304827336dc1e98949fa0e66d1d4fdb80eaee781232a0ca7b63e4
+
+
 Package: org.mr.callbarxs
 Version: 3.2-143kk
 Section: Tweaks
