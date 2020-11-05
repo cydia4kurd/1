@@ -1,3 +1,24 @@
+Package: com.cydiakurd.appdatamanager
+Version: 1.5.3-2k
+Section: Utilities
+Maintainer: cydiakurd
+Depends: firmware (>= 7.0)
+Depiction: https://cydia4kurd.github.io/1/Depiction/40/index.html
+Description: tool to WIPE, BACKUP, RESTORE AppData for installed Apps
+Architecture: iphoneos-arm
+Installed-Size: 9244
+Name: Apps Manager Kurdish
+Priority: optional
+Author: TIGI Software
+Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+dev: satashi2009
+Filename: /com.cydiakurd.appdatamanager_1.5.3-2k_iphoneos-arm.deb
+Size: 3673296
+MD5sum: 5e5117895a904e9903551fe1035a46f8
+SHA1: 0230e306172764719f36b07dc5f836004f08cd9c
+SHA256: cf1951e4a7ccba447c711e835c5db01439dd3430c0e9fe60f31957559c235960
+
+
 Package: com.cydiakurd.yobunpro
 Name: Yobun Pro
 Author: Plat-Ykor <plat-ykor@libero.it>
@@ -1346,21 +1367,6 @@ Section: Tweaks
 Name: 1Password Hack
 
 
-Package: com.cydiakurd.appdatamanager
-Version: 1.5.3-2
-Architecture: iphoneos-arm
-Maintainer: TIGI Software
-Author: TIGI Software
-Description: بەکاریەت بۆ سڕینەوەی داتای ئەپەکان یا گەڕانەوەیان  
-Filename: /com.cydiakurd.appdatamanager_1.5.3-2_iphoneos-arm.deb
-Homepage: https://instagram.com/cydia_kurd_source?igshid=1ktqdvqsvozmw
-Size: 3670466
-Installed-Size: 9244
-MD5sum: b0c37a5fffc61d63f60e4b8ef6910164
-SHA1: 125e134de0e21b6a5667c736c44a9f2c2c416280
-SHA256: 8f9ea3146d41e4648b5630ac605c74058e607c062805ea57191813cb58c18ee7
-Section: Utilities
-Name: Apps Manager
 
 Package: net.p0358.fbdarkmode
 Version: 1.0.1
