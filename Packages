@@ -3154,11 +3154,6 @@ Section: Development
 Name: uasharedtools (iOS 11)
 
 
-
-
-
-
-
 Package: com.cydiakurd.hostscleaner
 Version: 1.4.1
 Architecture: iphoneos-arm
@@ -3166,7 +3161,6 @@ Maintainer: CYDIAKURD
 Author: Thireus
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: sed, grep, coreutils
-Depiction: https://github.com/ahmadsorann/cydiakurd/blob/master/com.cydiakurd.hostscleaner_1.4.1_iphoneos-arm.deb
 Conflicts: com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker, com.thireus.untrustedhostsblocker9, com.thireus.untrustedhostsblockerexperimental, com.thireus.untrustedhostsblockermega, com.reddestdream.minimalhostsblocker, com.sukarodo.notavoke, com.ceadd.blockyou12, com.nathanaccidentally.systemhostsblocker, com.thireus.untrustedhostsblockermegaipv4, com.ichitaso.removeadstoggle, com.ichitaso.removeads, com.spinward.hostsfileflipswitch, com.clezz.restorehosts, ro.iphonews.adblock, com.rishanan.hostadblocker, miktr.switch.adblocker, miktr.switch.adblocker2, com.nathanaccidentally.mdnsflush
 Description: Restore your original /etc/hosts file 
 Filename: /com.cydiakurd.hostscleaner_1.4.1_iphoneos-arm.deb
