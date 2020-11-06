@@ -3,19 +3,19 @@ Name: Flex 3 Beta
 Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
 Recommended: com.rpetrich.rocketbootstrap
 Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
- Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
-Version: 1:3~Beta97k
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Version: 1:3~Beta98
 Depiction: https://cydia4kurd.github.io/1/Depiction/20/index.html
 Architecture: iphoneos-arm
 Description: Develop your own tweaks and share them on the Flex Community Cloud
 Maintainer: cydiakurd
 Author: John Coates
 Section: Tweaks
-Filename: /com.cydiakurd.flex3beta_3~Beta97k_iphoneos-arm.deb
+Filename: /com.cydiakurd.flex3beta_3~Beta98_iphoneos-arm.deb
 Size: 14393824
-MD5sum: 1e19d5f48777269619e8a6606fc091e3
-SHA1: eb45a4b0fc4c2fe1acfea92087cab5cf9eb2ab27
-SHA256: a33dbbdae3d570048599deb26ed5f02af777e88907e88fc298e9f86868631f60
+MD5sum: a3580c41d3746f251aca7e5cb0175949
+SHA1: 6f773f1d5970359a6fe5be8fce6ff1fe8c59dfbf
+SHA256: aa4a9599b814c4249fdb8a8ee6dd6ff3aaa3513d7aa426553c4070c3f78d2f16
 
 
 Package: com.cydiakurd.appdatamanager
