@@ -1,3 +1,23 @@
+Package: com.cydiakurd.Flex3beta
+Name: Flex 3 Beta
+Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
+Recommended: com.rpetrich.rocketbootstrap
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+ Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Version: 1:3~Beta97k
+Depiction: https://cydia4kurd.github.io/1/Depiction/20/index.html
+Architecture: iphoneos-arm
+Description: Develop your own tweaks and share them on the Flex Community Cloud
+Maintainer: cydiakurd
+Author: John Coates
+Section: Tweaks
+Filename: /com.cydiakurd.flex3beta_3~Beta97k_iphoneos-arm.deb
+Size: 14393824
+MD5sum: 1e19d5f48777269619e8a6606fc091e3
+SHA1: eb45a4b0fc4c2fe1acfea92087cab5cf9eb2ab27
+SHA256: a33dbbdae3d570048599deb26ed5f02af777e88907e88fc298e9f86868631f60
+
+
 Package: com.cydiakurd.appdatamanager
 Version: 1.5.3-2k
 Section: Utilities
@@ -421,28 +441,6 @@ Size: 1431666
 MD5sum: 8c382d3739b63e3d5abb431899803b3f
 SHA1: c261e99ffd93ae1d0e23324f39cec031e4af1c50
 SHA256: a7be1bf97d29814e1f59d0bd30511d3bc8d5d9b7f74a36329ca5f3aab723baf1
-
-
-Package: com.cydiakurd.Flex3beta
-Name: Flex 3 Beta
-Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
-Recommended: com.rpetrich.rocketbootstrap
-Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
-Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
-Version: 1:3~Beta97
-Depiction: https://cydia4kurd.github.io/1/Depiction/20/index.html
-Architecture: iphoneos-arm
-Description: Develop your own tweaks and share them on the Flex Community Cloud
-Maintainer: cydiakurd
-Author: John Coates
-Section: Tweaks
-Filename: /com.cydiakurd.flex3beta_3~Beta97_iphoneos-arm.deb
-Size: 14393876
-MD5sum: 34cfad8475cf61e3120a87c39f107b26
-SHA1: 1adb5e53303c93bf8630a7797a1d33f91449a2e5
-SHA256: 2c83a40ec1218129c736dad1fbf4657002577a5be5baea0f969205d6e05775cf
-
-
 
 
 Package: com.cydiakurd.tune
