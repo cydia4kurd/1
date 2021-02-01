@@ -17,7 +17,6 @@ MD5sum: a3580c41d3746f251aca7e5cb0175949
 SHA1: 6f773f1d5970359a6fe5be8fce6ff1fe8c59dfbf
 SHA256: aa4a9599b814c4249fdb8a8ee6dd6ff3aaa3513d7aa426553c4070c3f78d2f16
 
-
 Package: com.cydiakurd.appdatamanager
 Version: 1.5.3-2k
 Section: Utilities
@@ -38,7 +37,6 @@ MD5sum: 5e5117895a904e9903551fe1035a46f8
 SHA1: 0230e306172764719f36b07dc5f836004f08cd9c
 SHA256: cf1951e4a7ccba447c711e835c5db01439dd3430c0e9fe60f31957559c235960
 
-
 Package: com.cydiakurd.yobunpro
 Name: Yobun Pro
 Author: Plat-Ykor <plat-ykor@libero.it>
@@ -57,7 +55,6 @@ MD5sum: 8d4a15c77e73d3ed4be9f882cd7ab750
 SHA1: 1761fe696e77db2c9fd0f83a6f7711ff2c90606a
 SHA256: 86200e11d32ae045aa9971e9758c002e542711b258c94fb48f7412aa2291e75c
 
-
 Package: com.cydiakurd.sphere
 Name: Sphere Kurdish
 Author: SynnyG <synnyg.devjb@gmail.com>
@@ -75,7 +72,6 @@ Size: 272922
 MD5sum: 8a4f4bbf383bb478c64a37739db4f869
 SHA1: 3ca0bf39afee3cd881d7f4207b3d735ad3858abd
 SHA256: 4c79c3bc157304827336dc1e98949fa0e66d1d4fdb80eaee781232a0ca7b63e4
-
 
 Package: org.mr.callbarxs
 Version: 3.2-143kk
@@ -3706,8 +3702,6 @@ Section: Archiving
 Name: unrar
 Homepage: http://www.rarlab.com/rar_add.htm
 
-
-
 Package: com.cydiakurd.p7zip
 Priority: optional
 Version: 16.02-1
@@ -3726,8 +3720,6 @@ SHA1: 1f1bd63961328c1a33096abaacdf1f8ca7934eb8
 SHA256: cda97749c51a46b56f41276b792496492e5dc9f1fed3efed2963f121ceff99af
 Section: Archiving
 Name: p7zip
-
-
 
 Package: com.cydiakurd1.iosgodscomcriticalopsfree
 Version: 0.6.6-5
@@ -3789,8 +3781,6 @@ SHA256:
 Section: Tweaks
 Name: OTADisabler
 
-
-
 Package: com.cydiakurd.livephotosenablerios9
 Version: 1.0.0-4
 Architecture: iphoneos-arm
@@ -3805,8 +3795,6 @@ SHA1: 50c52304800df9d9a741c9f19431c1d1a16ec5cd
 SHA256: 50c52304800df9d9a741c9f19431c1d1a16ec5cd
 Section: apps cracked
 Name: Live Photos Enabler iOS9
-
-
 
 Package: com.cydiakurd.infltrpro
 Version: 0.0.1-13
@@ -3823,8 +3811,6 @@ SHA256: 16a18f88ee100414ad627efe20e973f32cf01606f74cc7e302818faf636a8d64
 Section: Tweaks
 Name: InfltrPro
 
-
-
 Package: com.cydiakurd.imoplus
 Version: 1.0-4
 Architecture: iphoneos-arm
@@ -3839,8 +3825,6 @@ SHA1: 951f1528ac66ad3bac0213ec6f0fa5e4cb9a36f9
 SHA256: 4b711f947df2a476ebb1f08d1529fadf49fa04a226fc17b79809a707e09eaa92
 Section: Tweaks
 Name: ImoPlus
-
-
 
 Package: com.cydiakurd.icleanerpro
 Version: 7.8.3
@@ -3933,8 +3917,6 @@ SHA1: 7fb3089f18cd6e6ddf68ae8bbc8300904e86168c
 SHA256: b829d5b11bac177813d5e163ee7673adbb7b7b9e057707725ed76b474a3f860e
 Section: Tweaks
 Name: TutuApp Hacked
-
-
 
 Package: com.cydiakurd.fbpp
 Version: 1.6r-38
@@ -4223,10 +4205,7 @@ Filename: /com.cydiakurd.appinst_1.1.3_iphoneos-arm.deb
 Size: 119280
 MD5sum: 09280aa543fd8d4410108dd59ba6d724
 SHA1: 553f9b5a9018a28d4267df264883874cb8d9b5cc
-SHA256: 043911e9a0c52c831ed971247b56846aff0bc2375995d961a0a4ab4084767b68
-
-
-
+SHA256: 043911e9a0c52c831ed971247b56846aff0bc2375995d961a0a4ab4084767b68
 
 Package: com.cydiakurd.blanca
 Version: 1.0.1
